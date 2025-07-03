@@ -1,0 +1,1418 @@
+{
+  "title": "Multilingual Semantic Hierarchy Validation - Hypernymy Task",
+  "description": "Multiple-choice questions testing understanding of hypernym relationships across 10 languages",
+  "instructions": {
+    "en": "Select the option that represents a hypernym (broader category) of the given word.",
+    "es": "Selecciona la opción que representa un hiperónimo (categoría más amplia) de la palabra dada.",
+    "fr": "Sélectionnez l'option qui représente un hyperonyme (catégorie plus large) du mot donné."
+  },
+  "languages": {
+    "high_resource": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian"
+    },
+    "low_resource": {
+      "sw": "Swahili",
+      "is": "Icelandic",
+      "mt": "Maltese"
+    }
+  },
+  "metadata": {
+    "total_target_languages": 10,
+    "min_coverage_threshold": 0.3,
+    "generation_date": "2025-06-26",
+    "coverage_statistics": {
+      "average_coverage": 1.0,
+      "min_coverage": 1.0,
+      "max_coverage": 1.0,
+      "questions_generated": 5
+    }
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "root_synset_id": "bn:00015267n",
+      "root_lemma_en": "dog",
+      "root_translations": {
+        "en": {
+          "lemma": "dog",
+          "language_name": "English"
+        },
+        "es": {
+          "lemma": "perro",
+          "language_name": "Spanish"
+        },
+        "fr": {
+          "lemma": "chien",
+          "language_name": "French"
+        },
+        "de": {
+          "lemma": "Hund",
+          "language_name": "German"
+        },
+        "it": {
+          "lemma": "cane",
+          "language_name": "Italian"
+        },
+        "pt": {
+          "lemma": "cão",
+          "language_name": "Portuguese"
+        },
+        "ru": {
+          "lemma": "собака",
+          "language_name": "Russian"
+        },
+        "sw": {
+          "lemma": "mbwa",
+          "language_name": "Swahili"
+        },
+        "is": {
+          "lemma": "hundur",
+          "language_name": "Icelandic"
+        },
+        "mt": {
+          "lemma": "kelb",
+          "language_name": "Maltese"
+        }
+      },
+      "prompts": {
+        "en": "Which of the following is a hypernym (broader category) of the word \"dog\"?",
+        "es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra \"perro\"?",
+        "fr": "Lequel des suivants est un hyperonyme (catégorie plus large) du mot \"chien\"?",
+        "de": "Welcher der folgenden Begriffe ist ein Hyperonym (übergeordnete Kategorie) des Wortes \"Hund\"?",
+        "it": "Quale dei seguenti è un iperonimo (categoria più ampia) della parola \"cane\"?",
+        "pt": "Qual dos seguintes é um hiperônimo (categoria mais ampla) da palavra \"cão\"?",
+        "ru": "Какой из следующих является гиперонимом (более широкой категорией) слова \"собака\"?",
+        "sw": "Ni kipi kati ya vifuatavyo ni hypernym (jamii pana) ya neno \"mbwa\"?",
+        "is": "Hvort af eftirfarandi er yfirheiti (víðari flokkur) orðsins \"hundur\"?",
+        "mt": "Liema mill-ġejjin huwa iperonmu (kategorija usa') tal-kelma \"kelb\"?"
+      },
+      "options": [
+        {
+          "label": "A",
+          "text_en": "fox",
+          "translations": {
+            "en": {
+              "lemma": "fox",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "zorro",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "renard",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Fuchs_(Raubtier)",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "volpe",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "raposa",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "Лисица",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "mbweha",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "Refir",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "volpi",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "hyena",
+          "translations": {
+            "en": {
+              "lemma": "hyena",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "hiena",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "hyène",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Hyäne",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "iena",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "hiena",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "Гиены",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "Fisi",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "Hýena",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "hyaena",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "jackal",
+          "translations": {
+            "en": {
+              "lemma": "jackal",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "chacal",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "chacal",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Schakal",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "sciacallo",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "chacal",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "Шакалы",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "mbweha",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "jackal",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "jackal",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "canine",
+          "translations": {
+            "en": {
+              "lemma": "canine",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "cánido",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "canidé",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "canid",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "canide",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "canídeo",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "псовых",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "canid",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "canid",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "canid",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation_en": "\"canine\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "language_coverage": 1.0,
+      "language_stats": {
+        "total_languages": 10,
+        "root_coverage": 10,
+        "correct_answer_coverage": 10,
+        "avg_distractor_coverage": 10.0
+      },
+      "target_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "sw",
+        "is",
+        "mt"
+      ],
+      "high_resource_coverage": 7,
+      "low_resource_coverage": 3
+    },
+    {
+      "question_id": 2,
+      "root_synset_id": "bn:00015258n",
+      "root_lemma_en": "canine",
+      "root_translations": {
+        "en": {
+          "lemma": "canine",
+          "language_name": "English"
+        },
+        "es": {
+          "lemma": "cánido",
+          "language_name": "Spanish"
+        },
+        "fr": {
+          "lemma": "canidé",
+          "language_name": "French"
+        },
+        "de": {
+          "lemma": "canid",
+          "language_name": "German"
+        },
+        "it": {
+          "lemma": "canide",
+          "language_name": "Italian"
+        },
+        "pt": {
+          "lemma": "canídeo",
+          "language_name": "Portuguese"
+        },
+        "ru": {
+          "lemma": "псовых",
+          "language_name": "Russian"
+        },
+        "sw": {
+          "lemma": "canid",
+          "language_name": "Swahili"
+        },
+        "is": {
+          "lemma": "canid",
+          "language_name": "Icelandic"
+        },
+        "mt": {
+          "lemma": "canid",
+          "language_name": "Maltese"
+        }
+      },
+      "prompts": {
+        "en": "Which of the following is a hypernym (broader category) of the word \"canine\"?",
+        "es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra \"cánido\"?",
+        "fr": "Lequel des suivants est un hyperonyme (catégorie plus large) du mot \"canidé\"?",
+        "de": "Welcher der folgenden Begriffe ist ein Hyperonym (übergeordnete Kategorie) des Wortes \"canid\"?",
+        "it": "Quale dei seguenti è un iperonimo (categoria più ampia) della parola \"canide\"?",
+        "pt": "Qual dos seguintes é um hiperônimo (categoria mais ampla) da palavra \"canídeo\"?",
+        "ru": "Какой из следующих является гиперонимом (более широкой категорией) слова \"псовых\"?",
+        "sw": "Ni kipi kati ya vifuatavyo ni hypernym (jamii pana) ya neno \"canid\"?",
+        "is": "Hvort af eftirfarandi er yfirheiti (víðari flokkur) orðsins \"canid\"?",
+        "mt": "Liema mill-ġejjin huwa iperonmu (kategorija usa') tal-kelma \"canid\"?"
+      },
+      "options": [
+        {
+          "label": "A",
+          "text_en": "bear",
+          "translations": {
+            "en": {
+              "lemma": "bear",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "oso",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "Ours",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Bär",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "orso",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "urso",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "медведь",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "dubu",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "björn",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "ors",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "feline",
+          "translations": {
+            "en": {
+              "lemma": "feline",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "felino",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "félidé",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "felid",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "felino",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "felino",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "кошачий",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "felid",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "felid",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "felid",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "fissiped_mammal",
+          "translations": {
+            "en": {
+              "lemma": "fissiped_mammal",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "fisípedo",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "fissiped",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "fissiped",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "fissipede",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "fissiped",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "fissiped",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "fissiped",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "fissiped",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "fissiped",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "carnivore",
+          "translations": {
+            "en": {
+              "lemma": "carnivore",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "carnívoro",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "carnivore_(régime_alimentaire)",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Fleischfresser",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "carnivoro",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "carnívoro",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "Плотоядные",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "carnivore",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "kjötæta",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "Karnivoru",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation_en": "\"carnivore\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "language_coverage": 1.0,
+      "language_stats": {
+        "total_languages": 10,
+        "root_coverage": 10,
+        "correct_answer_coverage": 10,
+        "avg_distractor_coverage": 10.0
+      },
+      "target_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "sw",
+        "is",
+        "mt"
+      ],
+      "high_resource_coverage": 7,
+      "low_resource_coverage": 3
+    },
+    {
+      "question_id": 3,
+      "root_synset_id": "bn:00053079n",
+      "root_lemma_en": "mammal",
+      "root_translations": {
+        "en": {
+          "lemma": "mammal",
+          "language_name": "English"
+        },
+        "es": {
+          "lemma": "mamífero",
+          "language_name": "Spanish"
+        },
+        "fr": {
+          "lemma": "mammifère",
+          "language_name": "French"
+        },
+        "de": {
+          "lemma": "Säugetier",
+          "language_name": "German"
+        },
+        "it": {
+          "lemma": "mammifero",
+          "language_name": "Italian"
+        },
+        "pt": {
+          "lemma": "mamífero",
+          "language_name": "Portuguese"
+        },
+        "ru": {
+          "lemma": "млекопитающее",
+          "language_name": "Russian"
+        },
+        "sw": {
+          "lemma": "Mamalia",
+          "language_name": "Swahili"
+        },
+        "is": {
+          "lemma": "spendýr",
+          "language_name": "Icelandic"
+        },
+        "mt": {
+          "lemma": "Mammiferu",
+          "language_name": "Maltese"
+        }
+      },
+      "prompts": {
+        "en": "Which of the following is a hypernym (broader category) of the word \"mammal\"?",
+        "es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra \"mamífero\"?",
+        "fr": "Lequel des suivants est un hyperonyme (catégorie plus large) du mot \"mammifère\"?",
+        "de": "Welcher der folgenden Begriffe ist ein Hyperonym (übergeordnete Kategorie) des Wortes \"Säugetier\"?",
+        "it": "Quale dei seguenti è un iperonimo (categoria più ampia) della parola \"mammifero\"?",
+        "pt": "Qual dos seguintes é um hiperônimo (categoria mais ampla) da palavra \"mamífero\"?",
+        "ru": "Какой из следующих является гиперонимом (более широкой категорией) слова \"млекопитающее\"?",
+        "sw": "Ni kipi kati ya vifuatavyo ni hypernym (jamii pana) ya neno \"Mamalia\"?",
+        "is": "Hvort af eftirfarandi er yfirheiti (víðari flokkur) orðsins \"spendýr\"?",
+        "mt": "Liema mill-ġejjin huwa iperonmu (kategorija usa') tal-kelma \"Mammiferu\"?"
+      },
+      "options": [
+        {
+          "label": "A",
+          "text_en": "Amniota",
+          "translations": {
+            "en": {
+              "lemma": "Amniota",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "amniota",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "amniote",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "amniota",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "amniote",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "amniota",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "amniota",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "amniota",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "amniota",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "amniota",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "amphibian",
+          "translations": {
+            "en": {
+              "lemma": "amphibian",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "amphibia",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "amphibien",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Amphibien",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "anfibio",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "anfíbios",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "амфибии",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "Amfibia",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "Froskdýr",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "Amphibia",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "amniote",
+          "translations": {
+            "en": {
+              "lemma": "amniote",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "amniote",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "amniota",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "amniote",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "amniote",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "amniota",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "амниот",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "amniote",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "amniote",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "amniote",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "vertebrate",
+          "translations": {
+            "en": {
+              "lemma": "vertebrate",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "vertebrado",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "vertébré",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Wirbeltier",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "vertebrato",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "vertebrados",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "позвоночные",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "Vertebrata",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "Hryggdýr",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "craniate",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation_en": "\"vertebrate\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "language_coverage": 1.0,
+      "language_stats": {
+        "total_languages": 10,
+        "root_coverage": 10,
+        "correct_answer_coverage": 10,
+        "avg_distractor_coverage": 10.0
+      },
+      "target_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "sw",
+        "is",
+        "mt"
+      ],
+      "high_resource_coverage": 7,
+      "low_resource_coverage": 3
+    },
+    {
+      "question_id": 4,
+      "root_synset_id": "bn:00028151n",
+      "root_lemma_en": "domestic_animal",
+      "root_translations": {
+        "en": {
+          "lemma": "domestic_animal",
+          "language_name": "English"
+        },
+        "es": {
+          "lemma": "animal_doméstico",
+          "language_name": "Spanish"
+        },
+        "fr": {
+          "lemma": "animal_domestique",
+          "language_name": "French"
+        },
+        "de": {
+          "lemma": "domestiziertes_Tier",
+          "language_name": "German"
+        },
+        "it": {
+          "lemma": "animale_addomesticato",
+          "language_name": "Italian"
+        },
+        "pt": {
+          "lemma": "animais_domesticados",
+          "language_name": "Portuguese"
+        },
+        "ru": {
+          "lemma": "домашнее_животное",
+          "language_name": "Russian"
+        },
+        "sw": {
+          "lemma": "kufugwa_wanyama",
+          "language_name": "Swahili"
+        },
+        "is": {
+          "lemma": "húsdýr",
+          "language_name": "Icelandic"
+        },
+        "mt": {
+          "lemma": "domestikati_annimali",
+          "language_name": "Maltese"
+        }
+      },
+      "prompts": {
+        "en": "Which of the following is a hypernym (broader category) of the word \"domestic_animal\"?",
+        "es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra \"animal_doméstico\"?",
+        "fr": "Lequel des suivants est un hyperonyme (catégorie plus large) du mot \"animal_domestique\"?",
+        "de": "Welcher der folgenden Begriffe ist ein Hyperonym (übergeordnete Kategorie) des Wortes \"domestiziertes_Tier\"?",
+        "it": "Quale dei seguenti è un iperonimo (categoria più ampia) della parola \"animale_addomesticato\"?",
+        "pt": "Qual dos seguintes é um hiperônimo (categoria mais ampla) da palavra \"animais_domesticados\"?",
+        "ru": "Какой из следующих является гиперонимом (более широкой категорией) слова \"домашнее_животное\"?",
+        "sw": "Ni kipi kati ya vifuatavyo ni hypernym (jamii pana) ya neno \"kufugwa_wanyama\"?",
+        "is": "Hvort af eftirfarandi er yfirheiti (víðari flokkur) orðsins \"húsdýr\"?",
+        "mt": "Liema mill-ġejjin huwa iperonmu (kategorija usa') tal-kelma \"domestikati_annimali\"?"
+      },
+      "options": [
+        {
+          "label": "A",
+          "text_en": "chordate",
+          "translations": {
+            "en": {
+              "lemma": "chordate",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "cordados",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "chordés",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Chordatiere",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "cordato",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "cordados",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "хордовые",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "Kodata",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "seildýr",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "Chordata",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "acrodont",
+          "translations": {
+            "en": {
+              "lemma": "acrodont",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "acrodont",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "acrodont",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "acrodont",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "Acrodonte",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "acrodont",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "acrodont",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "acrodont",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "acrodont",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "acrodont",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "biped",
+          "translations": {
+            "en": {
+              "lemma": "biped",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "bípedo",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "bipède",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Zweibeiner",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "bipede",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "bípede",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "двуно́гий",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "biped",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "biped",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "biped",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "animal",
+          "translations": {
+            "en": {
+              "lemma": "animal",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "animal",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "Animal",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Tier",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "animale",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "Animalia",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "животное",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "mnyama",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "dýr",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "Annimal",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation_en": "\"animal\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "language_coverage": 1.0,
+      "language_stats": {
+        "total_languages": 10,
+        "root_coverage": 10,
+        "correct_answer_coverage": 10,
+        "avg_distractor_coverage": 10.0
+      },
+      "target_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "sw",
+        "is",
+        "mt"
+      ],
+      "high_resource_coverage": 7,
+      "low_resource_coverage": 3
+    },
+    {
+      "question_id": 5,
+      "root_synset_id": "bn:00034516n",
+      "root_lemma_en": "final_judgment",
+      "root_translations": {
+        "en": {
+          "lemma": "final_judgment",
+          "language_name": "English"
+        },
+        "es": {
+          "lemma": "decisión_final",
+          "language_name": "Spanish"
+        },
+        "fr": {
+          "lemma": "décision_finale",
+          "language_name": "French"
+        },
+        "de": {
+          "lemma": "endgültige_entscheidung",
+          "language_name": "German"
+        },
+        "it": {
+          "lemma": "decisione_finale",
+          "language_name": "Italian"
+        },
+        "pt": {
+          "lemma": "decisão_final",
+          "language_name": "Portuguese"
+        },
+        "ru": {
+          "lemma": "окончательное_решение",
+          "language_name": "Russian"
+        },
+        "sw": {
+          "lemma": "mwisho_hukumu",
+          "language_name": "Swahili"
+        },
+        "is": {
+          "lemma": "endanleg_ákvörðun",
+          "language_name": "Icelandic"
+        },
+        "mt": {
+          "lemma": "deċiżjoni_finali",
+          "language_name": "Maltese"
+        }
+      },
+      "prompts": {
+        "en": "Which of the following is a hypernym (broader category) of the word \"final_judgment\"?",
+        "es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra \"decisión_final\"?",
+        "fr": "Lequel des suivants est un hyperonyme (catégorie plus large) du mot \"décision_finale\"?",
+        "de": "Welcher der folgenden Begriffe ist ein Hyperonym (übergeordnete Kategorie) des Wortes \"endgültige_entscheidung\"?",
+        "it": "Quale dei seguenti è un iperonimo (categoria più ampia) della parola \"decisione_finale\"?",
+        "pt": "Qual dos seguintes é um hiperônimo (categoria mais ampla) da palavra \"decisão_final\"?",
+        "ru": "Какой из следующих является гиперонимом (более широкой категорией) слова \"окончательное_решение\"?",
+        "sw": "Ni kipi kati ya vifuatavyo ni hypernym (jamii pana) ya neno \"mwisho_hukumu\"?",
+        "is": "Hvort af eftirfarandi er yfirheiti (víðari flokkur) orðsins \"endanleg_ákvörðun\"?",
+        "mt": "Liema mill-ġejjin huwa iperonmu (kategorija usa') tal-kelma \"deċiżjoni_finali\"?"
+      },
+      "options": [
+        {
+          "label": "A",
+          "text_en": "confession_of_judgment",
+          "translations": {
+            "en": {
+              "lemma": "confession_of_judgment",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "cognovit_juicio",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "cognovit_jugement",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "bekenntnis_des_urteils",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "cognovit_sentenza",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "cognovit_julgamento",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "признание_иска_приговор",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "cognovit_hukumu",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "cognovit_dóm",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "cognovit_sentenza",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "judgment",
+          "translations": {
+            "en": {
+              "lemma": "judgment",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "sentencia",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "Jugement_(droit)",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Urteil_(Recht)",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "giudizio",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "Julgamento",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "Судебное_решение",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "hukumu",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "dómskurður",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "sentenza",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": true,
+          "type": "hypernym"
+        },
+        {
+          "label": "C",
+          "text_en": "default_judgment",
+          "translations": {
+            "en": {
+              "lemma": "default_judgment",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "sentencia_en_rebeldía",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "Jugement_par_défaut",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Versäumnisurteil",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "contumacia",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "decisão_à_revelia",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "заочное_решение",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "default_hukumu",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "sjálfgefið_dóm",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "sentenza_kontumaċja",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "arbitration",
+          "translations": {
+            "en": {
+              "lemma": "arbitration",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "arbitraje",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "arbitrage",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Schiedsspruch",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "arbitraggio",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "arbitragem",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "арбитра́ж",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "arbitrament",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "arbitrament",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "arbitrament",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "co-hyponym"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation_en": "\"judgment\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "language_coverage": 1.0,
+      "language_stats": {
+        "total_languages": 10,
+        "root_coverage": 10,
+        "correct_answer_coverage": 10,
+        "avg_distractor_coverage": 10.0
+      },
+      "target_languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "sw",
+        "is",
+        "mt"
+      ],
+      "high_resource_coverage": 7,
+      "low_resource_coverage": 3
+    }
+  ]
+}

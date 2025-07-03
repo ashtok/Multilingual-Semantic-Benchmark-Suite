@@ -1,0 +1,217 @@
+{
+  "title": "Semantic Hierarchy Validation - Hypernymy Task",
+  "description": "Multiple-choice questions testing understanding of hypernym relationships",
+  "instructions": "Select the option that represents a hypernym (broader category) of the given word.",
+  "questions": [
+    {
+      "question_id": 1,
+      "root_synset_id": "bn:00015267n",
+      "root_lemma_en": "dog",
+      "root_lemma_es": "perro",
+      "prompt_en": "Which of the following is a hypernym (broader category) of the English word \"dog\"?",
+      "prompt_es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra española \"perro\"?",
+      "prompt_bilingual": "Which of the following is a hypernym (broader category) of the Spanish word \"perro\" (dog)?",
+      "options": [
+        {
+          "label": "A",
+          "text_en": "domestic_animal",
+          "text_es": "animal_doméstico",
+          "is_correct": true,
+          "type": "hypernym"
+        },
+        {
+          "label": "B",
+          "text_en": "jackal",
+          "text_es": "chacal",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "wild_dog",
+          "text_es": "perro_salvaje",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "United_States_presidential_pet",
+          "text_es": "mascotas_presidenciales_de_los_Estados_Unidos",
+          "is_correct": false,
+          "type": "co-hyponym"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"domestic_animal\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "include_spanish": true
+    },
+    {
+      "question_id": 2,
+      "root_synset_id": "bn:00015258n",
+      "root_lemma_en": "canine",
+      "root_lemma_es": "cánido",
+      "prompt_en": "Which of the following is a hypernym (broader category) of the English word \"canine\"?",
+      "prompt_es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra española \"cánido\"?",
+      "prompt_bilingual": "Which of the following is a hypernym (broader category) of the Spanish word \"cánido\" (canine)?",
+      "options": [
+        {
+          "label": "A",
+          "text_en": "carnivore",
+          "text_es": "carnívoro",
+          "is_correct": true,
+          "type": "hypernym"
+        },
+        {
+          "label": "B",
+          "text_en": "worm",
+          "text_es": "gusano",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "fossorial_mammal",
+          "text_es": "mamífero_fosoriales",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "dog",
+          "text_es": "perro",
+          "is_correct": false,
+          "type": "hyponym"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"carnivore\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "include_spanish": true
+    },
+    {
+      "question_id": 3,
+      "root_synset_id": "bn:00053079n",
+      "root_lemma_en": "mammal",
+      "root_lemma_es": "mamífero",
+      "prompt_en": "Which of the following is a hypernym (broader category) of the English word \"mammal\"?",
+      "prompt_es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra española \"mamífero\"?",
+      "prompt_bilingual": "Which of the following is a hypernym (broader category) of the Spanish word \"mamífero\" (mammal)?",
+      "options": [
+        {
+          "label": "A",
+          "text_en": "placental",
+          "text_es": "euterios",
+          "is_correct": false,
+          "type": "hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "animal",
+          "text_es": "animal",
+          "is_correct": false,
+          "type": "alternative_hypernym"
+        },
+        {
+          "label": "C",
+          "text_en": "fetus",
+          "text_es": "feto",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "animal_anatomy",
+          "text_es": "Anatomía_animal",
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "\"animal_anatomy\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "include_spanish": true
+    },
+    {
+      "question_id": 4,
+      "root_synset_id": "bn:00016143n",
+      "root_lemma_en": "carnivore",
+      "root_lemma_es": "carnívoro",
+      "prompt_en": "Which of the following is a hypernym (broader category) of the English word \"carnivore\"?",
+      "prompt_es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra española \"carnívoro\"?",
+      "prompt_bilingual": "Which of the following is a hypernym (broader category) of the Spanish word \"carnívoro\" (carnivore)?",
+      "options": [
+        {
+          "label": "A",
+          "text_en": "insectivore",
+          "text_es": "insectívoro",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "flying_lemur",
+          "text_es": "dermoptera",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "placental",
+          "text_es": "euterios",
+          "is_correct": true,
+          "type": "hypernym"
+        },
+        {
+          "label": "D",
+          "text_en": "bull",
+          "text_es": "toro",
+          "is_correct": false,
+          "type": "co-hyponym"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"placental\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "include_spanish": true
+    },
+    {
+      "question_id": 5,
+      "root_synset_id": "bn:00028151n",
+      "root_lemma_en": "domestic_animal",
+      "root_lemma_es": "animal_doméstico",
+      "prompt_en": "Which of the following is a hypernym (broader category) of the English word \"domestic_animal\"?",
+      "prompt_es": "¿Cuál de las siguientes es un hiperónimo (categoría más amplia) de la palabra española \"animal_doméstico\"?",
+      "prompt_bilingual": "Which of the following is a hypernym (broader category) of the Spanish word \"animal_doméstico\" (domestic_animal)?",
+      "options": [
+        {
+          "label": "A",
+          "text_en": "chordate",
+          "text_es": "cordados",
+          "is_correct": false,
+          "type": "co-hyponym"
+        },
+        {
+          "label": "B",
+          "text_en": "dog",
+          "text_es": "perro",
+          "is_correct": false,
+          "type": "hyponym"
+        },
+        {
+          "label": "C",
+          "text_en": "stocker",
+          "text_es": "stocker",
+          "is_correct": false,
+          "type": "hyponym"
+        },
+        {
+          "label": "D",
+          "text_en": "animal",
+          "text_es": "animal",
+          "is_correct": true,
+          "type": "hypernym"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "\"animal\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "include_spanish": true
+    }
+  ]
+}
