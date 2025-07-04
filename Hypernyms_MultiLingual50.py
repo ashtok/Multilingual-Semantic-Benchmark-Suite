@@ -17,7 +17,7 @@ from fetch_relatives import (
 BABELNET_IDS_FILE = "babelnet_with_relations.txt"
 
 # How many synsets to sample
-NUM_SYNSETS = 5
+NUM_SYNSETS = 50
 
 # Output file
 OUTPUT_JSON = "babelnet_relations_dataset.json"

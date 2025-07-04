@@ -153,5 +153,5 @@ def process_file(input_file, output_file, max_lines=100):
 if __name__ == "__main__":
     input_path = "10_all_related_synsets.txt"    # Change to your input filename
     output_path = "babelnet_with_relations.txt"
-    process_file(input_path, output_path, max_lines=100)
-    print(f"Processed up to 100 lines. Output written to {output_path}")
+    process_file(input_path, output_path, max_lines=2000)
+    print(f"Processed up to 2000 lines. Output written to {output_path}")
