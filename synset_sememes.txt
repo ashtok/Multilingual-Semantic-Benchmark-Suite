@@ -1,3 +1,21 @@
+bn:00015267n	dog|多
+bn:00004222n	yellow|黄
+bn:00010588n	many|多
+bn:00105617a	amiable|友善 benevolent|仁
+bn:00104332a	FormValue|形状值
+bn:00105859a	forming|形成 law|律法 politics|政
+bn:00106672a	method|方法
+bn:00106505a	ripe|成熟
+bn:00098003a	round|圆 shape|物形
+bn:00111810a	doctor|医治 medical|医
+bn:00104083a	rash|莽 careless|粗心
+bn:00106854a	StateChange|态变 OutOfOrder|坏掉
+bn:00100136a	PerformanceValue|性能值 HaveContest|较量
+bn:00108026a	AgeValue|年龄值 GreaterThanNormal|高于正常 unfashionable|背令
+bn:00109378a	tribe|族群
+bn:00099225a	important|重要
+bn:00112911a	extensive|泛 wholly|全面
+bn:00103765a	grey|灰 white|白 aged|老年 human|人
 bn:00113968a	yellow|黄
 bn:00106408a	many|多
 bn:00105617a	amiable|友善 benevolent|仁

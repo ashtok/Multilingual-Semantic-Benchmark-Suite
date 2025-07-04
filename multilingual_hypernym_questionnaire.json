@@ -95,150 +95,102 @@
       "options": [
         {
           "label": "A",
-          "text_en": "fox",
+          "text_en": "Kinetoscope",
           "translations": {
             "en": {
-              "lemma": "fox",
+              "lemma": "Kinetoscope",
               "language_name": "English"
             },
             "es": {
-              "lemma": "zorro",
+              "lemma": "quinetoscopio",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "renard",
+              "lemma": "Kinétoscope",
               "language_name": "French"
             },
             "de": {
-              "lemma": "Fuchs_(Raubtier)",
+              "lemma": "Kinetoskop",
               "language_name": "German"
             },
             "it": {
-              "lemma": "volpe",
+              "lemma": "Kinetoscopio",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "raposa",
+              "lemma": "Cinetoscópio",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "Лисица",
+              "lemma": "Кинетограф",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "mbweha",
+              "lemma": "kinetoscope",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "Refir",
+              "lemma": "Kinetoscope",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "volpi",
+              "lemma": "kinetoscope",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "B",
-          "text_en": "hyena",
+          "text_en": "thing",
           "translations": {
             "en": {
-              "lemma": "hyena",
+              "lemma": "thing",
               "language_name": "English"
             },
             "es": {
-              "lemma": "hiena",
+              "lemma": "cosa",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "hyène",
+              "lemma": "chose",
               "language_name": "French"
             },
             "de": {
-              "lemma": "Hyäne",
+              "lemma": "ding",
               "language_name": "German"
             },
             "it": {
-              "lemma": "iena",
+              "lemma": "cosa",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "hiena",
+              "lemma": "coisa",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "Гиены",
+              "lemma": "вещь",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "Fisi",
+              "lemma": "kitu",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "Hýena",
+              "lemma": "hlutur",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "hyaena",
+              "lemma": "ħaġa",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "C",
-          "text_en": "jackal",
-          "translations": {
-            "en": {
-              "lemma": "jackal",
-              "language_name": "English"
-            },
-            "es": {
-              "lemma": "chacal",
-              "language_name": "Spanish"
-            },
-            "fr": {
-              "lemma": "chacal",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "Schakal",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "sciacallo",
-              "language_name": "Italian"
-            },
-            "pt": {
-              "lemma": "chacal",
-              "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "Шакалы",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "mbweha",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "jackal",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "jackal",
-              "language_name": "Maltese"
-            }
-          },
-          "is_correct": false,
-          "type": "co-hyponym"
-        },
-        {
-          "label": "D",
           "text_en": "canine",
           "translations": {
             "en": {
@@ -284,16 +236,45 @@
           },
           "is_correct": true,
           "type": "hypernym"
+        },
+        {
+          "label": "D",
+          "text_en": "bioscope",
+          "translations": {
+            "en": {
+              "lemma": "bioscope",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "bioscopio",
+              "language_name": "Spanish"
+            },
+            "pt": {
+              "lemma": "bioscópio",
+              "language_name": "Portuguese"
+            }
+          },
+          "is_correct": false,
+          "type": "cross_category"
         }
       ],
-      "correct_answer": "D",
-      "explanation_en": "\"canine\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "correct_answer": "C",
+      "explanation_en": "\"canine\" is the correct hypernym (broader category). The other options are distractors: some options are from different semantic domains.",
+      "distractor_strategy": {
+        "types_used": [
+          "cross_category",
+          "cross_category",
+          "cross_category"
+        ],
+        "total_pool_size": 10,
+        "selection_strategy": "priority_and_diversity"
+      },
       "language_coverage": 1.0,
       "language_stats": {
         "total_languages": 10,
         "root_coverage": 10,
         "correct_answer_coverage": 10,
-        "avg_distractor_coverage": 10.0
+        "avg_distractor_coverage": 7.666666666666667
       },
       "target_languages": [
         "en",
@@ -371,150 +352,26 @@
       "options": [
         {
           "label": "A",
-          "text_en": "bear",
+          "text_en": "Theatrograph",
           "translations": {
             "en": {
-              "lemma": "bear",
+              "lemma": "Theatrograph",
               "language_name": "English"
             },
             "es": {
-              "lemma": "oso",
+              "lemma": "Animatógrafo",
               "language_name": "Spanish"
             },
-            "fr": {
-              "lemma": "Ours",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "Bär",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "orso",
-              "language_name": "Italian"
-            },
             "pt": {
-              "lemma": "urso",
+              "lemma": "Teatrógrafo",
               "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "медведь",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "dubu",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "björn",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "ors",
-              "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "B",
-          "text_en": "feline",
-          "translations": {
-            "en": {
-              "lemma": "feline",
-              "language_name": "English"
-            },
-            "es": {
-              "lemma": "felino",
-              "language_name": "Spanish"
-            },
-            "fr": {
-              "lemma": "félidé",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "felid",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "felino",
-              "language_name": "Italian"
-            },
-            "pt": {
-              "lemma": "felino",
-              "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "кошачий",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "felid",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "felid",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "felid",
-              "language_name": "Maltese"
-            }
-          },
-          "is_correct": false,
-          "type": "co-hyponym"
-        },
-        {
-          "label": "C",
-          "text_en": "fissiped_mammal",
-          "translations": {
-            "en": {
-              "lemma": "fissiped_mammal",
-              "language_name": "English"
-            },
-            "es": {
-              "lemma": "fisípedo",
-              "language_name": "Spanish"
-            },
-            "fr": {
-              "lemma": "fissiped",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "fissiped",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "fissipede",
-              "language_name": "Italian"
-            },
-            "pt": {
-              "lemma": "fissiped",
-              "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "fissiped",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "fissiped",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "fissiped",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "fissiped",
-              "language_name": "Maltese"
-            }
-          },
-          "is_correct": false,
-          "type": "co-hyponym"
-        },
-        {
-          "label": "D",
           "text_en": "carnivore",
           "translations": {
             "en": {
@@ -560,16 +417,93 @@
           },
           "is_correct": true,
           "type": "hypernym"
+        },
+        {
+          "label": "C",
+          "text_en": "thing",
+          "translations": {
+            "en": {
+              "lemma": "thing",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "cosa",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "chose",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "ding",
+              "language_name": "German"
+            },
+            "it": {
+              "lemma": "cosa",
+              "language_name": "Italian"
+            },
+            "pt": {
+              "lemma": "coisa",
+              "language_name": "Portuguese"
+            },
+            "ru": {
+              "lemma": "вещь",
+              "language_name": "Russian"
+            },
+            "sw": {
+              "lemma": "kitu",
+              "language_name": "Swahili"
+            },
+            "is": {
+              "lemma": "hlutur",
+              "language_name": "Icelandic"
+            },
+            "mt": {
+              "lemma": "ħaġa",
+              "language_name": "Maltese"
+            }
+          },
+          "is_correct": false,
+          "type": "cross_category"
+        },
+        {
+          "label": "D",
+          "text_en": "bioscope",
+          "translations": {
+            "en": {
+              "lemma": "bioscope",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "bioscopio",
+              "language_name": "Spanish"
+            },
+            "pt": {
+              "lemma": "bioscópio",
+              "language_name": "Portuguese"
+            }
+          },
+          "is_correct": false,
+          "type": "cross_category"
         }
       ],
-      "correct_answer": "D",
-      "explanation_en": "\"carnivore\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "correct_answer": "B",
+      "explanation_en": "\"carnivore\" is the correct hypernym (broader category). The other options are distractors: some options are from different semantic domains.",
+      "distractor_strategy": {
+        "types_used": [
+          "cross_category",
+          "cross_category",
+          "cross_category"
+        ],
+        "total_pool_size": 10,
+        "selection_strategy": "priority_and_diversity"
+      },
       "language_coverage": 1.0,
       "language_stats": {
         "total_languages": 10,
         "root_coverage": 10,
         "correct_answer_coverage": 10,
-        "avg_distractor_coverage": 10.0
+        "avg_distractor_coverage": 5.333333333333333
       },
       "target_languages": [
         "en",
@@ -647,150 +581,74 @@
       "options": [
         {
           "label": "A",
-          "text_en": "Amniota",
+          "text_en": "physical_entity",
           "translations": {
             "en": {
-              "lemma": "Amniota",
+              "lemma": "physical_entity",
               "language_name": "English"
             },
             "es": {
-              "lemma": "amniota",
+              "lemma": "entidad_física",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "amniote",
+              "lemma": "entité_physique",
               "language_name": "French"
             },
             "de": {
-              "lemma": "amniota",
+              "lemma": "physikalische_einheit",
               "language_name": "German"
             },
             "it": {
-              "lemma": "amniote",
+              "lemma": "entità_fisica",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "amniota",
+              "lemma": "entidade_física",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "amniota",
+              "lemma": "физическое_лицо",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "amniota",
+              "lemma": "kimwili_chombo",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "amniota",
+              "lemma": "líkamlega_aðila",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "amniota",
+              "lemma": "fiżika_entità",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "B",
-          "text_en": "amphibian",
+          "text_en": "Theatrograph",
           "translations": {
             "en": {
-              "lemma": "amphibian",
+              "lemma": "Theatrograph",
               "language_name": "English"
             },
             "es": {
-              "lemma": "amphibia",
+              "lemma": "Animatógrafo",
               "language_name": "Spanish"
             },
-            "fr": {
-              "lemma": "amphibien",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "Amphibien",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "anfibio",
-              "language_name": "Italian"
-            },
             "pt": {
-              "lemma": "anfíbios",
+              "lemma": "Teatrógrafo",
               "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "амфибии",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "Amfibia",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "Froskdýr",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "Amphibia",
-              "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "C",
-          "text_en": "amniote",
-          "translations": {
-            "en": {
-              "lemma": "amniote",
-              "language_name": "English"
-            },
-            "es": {
-              "lemma": "amniote",
-              "language_name": "Spanish"
-            },
-            "fr": {
-              "lemma": "amniota",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "amniote",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "amniote",
-              "language_name": "Italian"
-            },
-            "pt": {
-              "lemma": "amniota",
-              "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "амниот",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "amniote",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "amniote",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "amniote",
-              "language_name": "Maltese"
-            }
-          },
-          "is_correct": false,
-          "type": "co-hyponym"
-        },
-        {
-          "label": "D",
           "text_en": "vertebrate",
           "translations": {
             "en": {
@@ -836,16 +694,49 @@
           },
           "is_correct": true,
           "type": "hypernym"
+        },
+        {
+          "label": "D",
+          "text_en": "Eidoloscope",
+          "translations": {
+            "en": {
+              "lemma": "Eidoloscope",
+              "language_name": "English"
+            },
+            "es": {
+              "lemma": "Eidoloscopio",
+              "language_name": "Spanish"
+            },
+            "fr": {
+              "lemma": "Eidoloscope",
+              "language_name": "French"
+            },
+            "de": {
+              "lemma": "Eidoloscope",
+              "language_name": "German"
+            }
+          },
+          "is_correct": false,
+          "type": "cross_category"
         }
       ],
-      "correct_answer": "D",
-      "explanation_en": "\"vertebrate\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "correct_answer": "C",
+      "explanation_en": "\"vertebrate\" is the correct hypernym (broader category). The other options are distractors: some options are from different semantic domains.",
+      "distractor_strategy": {
+        "types_used": [
+          "cross_category",
+          "cross_category",
+          "cross_category"
+        ],
+        "total_pool_size": 10,
+        "selection_strategy": "priority_and_diversity"
+      },
       "language_coverage": 1.0,
       "language_stats": {
         "total_languages": 10,
         "root_coverage": 10,
         "correct_answer_coverage": 10,
-        "avg_distractor_coverage": 10.0
+        "avg_distractor_coverage": 5.666666666666667
       },
       "target_languages": [
         "en",
@@ -923,147 +814,95 @@
       "options": [
         {
           "label": "A",
-          "text_en": "chordate",
+          "text_en": "physical_entity",
           "translations": {
             "en": {
-              "lemma": "chordate",
+              "lemma": "physical_entity",
               "language_name": "English"
             },
             "es": {
-              "lemma": "cordados",
+              "lemma": "entidad_física",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "chordés",
+              "lemma": "entité_physique",
               "language_name": "French"
             },
             "de": {
-              "lemma": "Chordatiere",
+              "lemma": "physikalische_einheit",
               "language_name": "German"
             },
             "it": {
-              "lemma": "cordato",
+              "lemma": "entità_fisica",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "cordados",
+              "lemma": "entidade_física",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "хордовые",
+              "lemma": "физическое_лицо",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "Kodata",
+              "lemma": "kimwili_chombo",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "seildýr",
+              "lemma": "líkamlega_aðila",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "Chordata",
+              "lemma": "fiżika_entità",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "B",
-          "text_en": "acrodont",
+          "text_en": "Theatrograph",
           "translations": {
             "en": {
-              "lemma": "acrodont",
+              "lemma": "Theatrograph",
               "language_name": "English"
             },
             "es": {
-              "lemma": "acrodont",
+              "lemma": "Animatógrafo",
               "language_name": "Spanish"
             },
-            "fr": {
-              "lemma": "acrodont",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "acrodont",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "Acrodonte",
-              "language_name": "Italian"
-            },
             "pt": {
-              "lemma": "acrodont",
+              "lemma": "Teatrógrafo",
               "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "acrodont",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "acrodont",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "acrodont",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "acrodont",
-              "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "C",
-          "text_en": "biped",
+          "text_en": "Eidoloscope",
           "translations": {
             "en": {
-              "lemma": "biped",
+              "lemma": "Eidoloscope",
               "language_name": "English"
             },
             "es": {
-              "lemma": "bípedo",
+              "lemma": "Eidoloscopio",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "bipède",
+              "lemma": "Eidoloscope",
               "language_name": "French"
             },
             "de": {
-              "lemma": "Zweibeiner",
+              "lemma": "Eidoloscope",
               "language_name": "German"
-            },
-            "it": {
-              "lemma": "bipede",
-              "language_name": "Italian"
-            },
-            "pt": {
-              "lemma": "bípede",
-              "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "двуно́гий",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "biped",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "biped",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "biped",
-              "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "D",
@@ -1115,13 +954,22 @@
         }
       ],
       "correct_answer": "D",
-      "explanation_en": "\"animal\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "explanation_en": "\"animal\" is the correct hypernym (broader category). The other options are distractors: some options are from different semantic domains.",
+      "distractor_strategy": {
+        "types_used": [
+          "cross_category",
+          "cross_category",
+          "cross_category"
+        ],
+        "total_pool_size": 10,
+        "selection_strategy": "priority_and_diversity"
+      },
       "language_coverage": 1.0,
       "language_stats": {
         "total_languages": 10,
         "root_coverage": 10,
         "correct_answer_coverage": 10,
-        "avg_distractor_coverage": 10.0
+        "avg_distractor_coverage": 5.666666666666667
       },
       "target_languages": [
         "en",
@@ -1199,51 +1047,51 @@
       "options": [
         {
           "label": "A",
-          "text_en": "confession_of_judgment",
+          "text_en": "thing",
           "translations": {
             "en": {
-              "lemma": "confession_of_judgment",
+              "lemma": "thing",
               "language_name": "English"
             },
             "es": {
-              "lemma": "cognovit_juicio",
+              "lemma": "cosa",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "cognovit_jugement",
+              "lemma": "chose",
               "language_name": "French"
             },
             "de": {
-              "lemma": "bekenntnis_des_urteils",
+              "lemma": "ding",
               "language_name": "German"
             },
             "it": {
-              "lemma": "cognovit_sentenza",
+              "lemma": "cosa",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "cognovit_julgamento",
+              "lemma": "coisa",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "признание_иска_приговор",
+              "lemma": "вещь",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "cognovit_hukumu",
+              "lemma": "kitu",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "cognovit_dóm",
+              "lemma": "hlutur",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "cognovit_sentenza",
+              "lemma": "ħaġa",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "B",
@@ -1295,109 +1143,90 @@
         },
         {
           "label": "C",
-          "text_en": "default_judgment",
+          "text_en": "Kinetoscope",
           "translations": {
             "en": {
-              "lemma": "default_judgment",
+              "lemma": "Kinetoscope",
               "language_name": "English"
             },
             "es": {
-              "lemma": "sentencia_en_rebeldía",
+              "lemma": "quinetoscopio",
               "language_name": "Spanish"
             },
             "fr": {
-              "lemma": "Jugement_par_défaut",
+              "lemma": "Kinétoscope",
               "language_name": "French"
             },
             "de": {
-              "lemma": "Versäumnisurteil",
+              "lemma": "Kinetoskop",
               "language_name": "German"
             },
             "it": {
-              "lemma": "contumacia",
+              "lemma": "Kinetoscopio",
               "language_name": "Italian"
             },
             "pt": {
-              "lemma": "decisão_à_revelia",
+              "lemma": "Cinetoscópio",
               "language_name": "Portuguese"
             },
             "ru": {
-              "lemma": "заочное_решение",
+              "lemma": "Кинетограф",
               "language_name": "Russian"
             },
             "sw": {
-              "lemma": "default_hukumu",
+              "lemma": "kinetoscope",
               "language_name": "Swahili"
             },
             "is": {
-              "lemma": "sjálfgefið_dóm",
+              "lemma": "Kinetoscope",
               "language_name": "Icelandic"
             },
             "mt": {
-              "lemma": "sentenza_kontumaċja",
+              "lemma": "kinetoscope",
               "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         },
         {
           "label": "D",
-          "text_en": "arbitration",
+          "text_en": "bioscope",
           "translations": {
             "en": {
-              "lemma": "arbitration",
+              "lemma": "bioscope",
               "language_name": "English"
             },
             "es": {
-              "lemma": "arbitraje",
+              "lemma": "bioscopio",
               "language_name": "Spanish"
             },
-            "fr": {
-              "lemma": "arbitrage",
-              "language_name": "French"
-            },
-            "de": {
-              "lemma": "Schiedsspruch",
-              "language_name": "German"
-            },
-            "it": {
-              "lemma": "arbitraggio",
-              "language_name": "Italian"
-            },
             "pt": {
-              "lemma": "arbitragem",
+              "lemma": "bioscópio",
               "language_name": "Portuguese"
-            },
-            "ru": {
-              "lemma": "арбитра́ж",
-              "language_name": "Russian"
-            },
-            "sw": {
-              "lemma": "arbitrament",
-              "language_name": "Swahili"
-            },
-            "is": {
-              "lemma": "arbitrament",
-              "language_name": "Icelandic"
-            },
-            "mt": {
-              "lemma": "arbitrament",
-              "language_name": "Maltese"
             }
           },
           "is_correct": false,
-          "type": "co-hyponym"
+          "type": "cross_category"
         }
       ],
       "correct_answer": "B",
-      "explanation_en": "\"judgment\" is the hypernym; the others are either co-hyponyms, hyponyms, or unrelated terms.",
+      "explanation_en": "\"judgment\" is the correct hypernym (broader category). The other options are distractors: some options are from different semantic domains.",
+      "distractor_strategy": {
+        "types_used": [
+          "cross_category",
+          "cross_category",
+          "cross_category"
+        ],
+        "total_pool_size": 10,
+        "selection_strategy": "priority_and_diversity"
+      },
       "language_coverage": 1.0,
       "language_stats": {
         "total_languages": 10,
         "root_coverage": 10,
         "correct_answer_coverage": 10,
-        "avg_distractor_coverage": 10.0
+        "avg_distractor_coverage": 7.666666666666667
       },
       "target_languages": [
         "en",
