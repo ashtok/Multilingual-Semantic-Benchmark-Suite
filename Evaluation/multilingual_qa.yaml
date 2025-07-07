@@ -1,0 +1,26 @@
+# lm_harness_tasks/multilingual_qa.yaml
+
+task: multilingual_qa_task   # The Python task class name you'll implement
+
+dataset_path: json
+
+dataset_kwargs:
+  data_files:
+    test: "output.jsonl"  # Your JSONL multilingual QA file path
+
+test_split: "test"
+
+output_type: multiple_choice
+
+# These should match your JSON keys for the prompt, options, and answer
+doc_to_text: "{{prompt}}"
+doc_to_choice: "{{options}}"
+doc_to_target: "{{options[answer_index]}}"
+
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+
+metadata:
+  version: 1.0
