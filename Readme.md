@@ -14,22 +14,8 @@ A comprehensive system for generating multilingual semantic relation questions u
 
 ### Prerequisites
 
-- Python 3.7+
-- BabelNet API access and credentials
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/multilingual-semantic-relations.git
-cd multilingual-semantic-relations
-
-# Install dependencies
-pip install babelnet-python tqdm
-
-# Set up BabelNet credentials
-# Follow BabelNet documentation to configure API access
-```
+- Python 3.8
+- BabelNet API access and credentials or Offline RPC mode (preferred)
 
 ### Quick Start
 
@@ -68,13 +54,13 @@ Builds comprehensive multilingual semantic datasets with 497 synsets, multi-lang
 ## Language Support
 
 ### High-Resource Languages
-English, Spanish, French, German, Italian, Portuguese, Russian, Chinese, Japanese, Arabic
+English, Spanish, French, German, Italian, Portuguese, Russian, Chinese, Japanese, Korean, Arabic, Turkish, Dutch, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Romanian, Hungarian, Ukrainian, Hebrew, Bulgarian, Greek 
 
 ### Medium-Resource Languages
-Dutch, Swedish, Polish, Czech, Greek, Hebrew, Thai, Vietnamese, Indonesian, Turkish
+Croatian, Serbian, Slovak, Slovenian, Lithuanian, Latvian, Estonian, Thai, Vietnamese, Malay, Persian, Indonesian, Tamil, Hindi, Bengali
 
 ### Low-Resource Languages
-Welsh, Irish, Basque, Maltese, Estonian, Latvian, Lithuanian, Slovene, Slovak, Bulgarian
+Swahili, Icelandic, Maltese, Irish, Welsh, Bosnian, Georgian, Amharic, Uzbek, Tagalog
 
 ## Difficulty Levels
 
@@ -87,24 +73,6 @@ Welsh, Irish, Basque, Maltese, Estonian, Latvian, Lithuanian, Slovene, Slovak, B
 ## Configuration
 
 Modify `language_config.py` to adjust language resource levels and target language sets. Key parameters in generation scripts include `NUM_QUESTIONS_PER_TYPE`, `NUM_SYNSETS`, `max_depth`, and `max_items`.
-
-## Dependencies
-
-```bash
-pip install babelnet-python tqdm
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
