@@ -1,0 +1,10 @@
+bn:00015267n	dog
+bn:00007309n	car
+bn:00078131n	tree
+bn:00044994n	house
+bn:00021464n	computer
+bn:00056443n	music
+bn:00042379n	water
+bn:00019319n	city
+bn:00035650n	food
+bn:00010183n	beverage
