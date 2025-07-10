@@ -49,7 +49,7 @@ Builds comprehensive multilingual semantic datasets with 497 synsets, multi-lang
 
 ### Question Generators
 - **Hypernymy/Meronymy Questions**: 5,000 questions per relation type with cross-lingual generation
-- **Semantic Analogies**: Complex analogy patterns (A:B :: C:D) with cross-lingual support
+- **Semantic Analogies**: 5000 complex analogy patterns (A:B :: C:D) with cross-lingual generation
 
 ## Language Support
 
