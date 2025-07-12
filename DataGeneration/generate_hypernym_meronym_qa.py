@@ -8,7 +8,7 @@ from language_config import LANGUAGE_CONFIG
 NUM_QUESTIONS_PER_TYPE = 5000   # adjust as you like
 
 # Load your JSON data
-with open("../multilingual_babelnet_relations.json", "r", encoding="utf-8") as f:
+with open("../GeneratedFiles/JsonFiles/multilingual_babelnet_relations.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 
