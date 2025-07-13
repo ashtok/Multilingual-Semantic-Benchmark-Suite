@@ -1,0 +1,233 @@
+{
+  "results": {
+    "analogies": {
+      "alias": "analogies",
+      "acc,none": 0.415,
+      "acc_stderr,none": 0.00696883870832067,
+      "acc_norm,none": 0.413,
+      "acc_norm_stderr,none": 0.006963899710638857
+    },
+    "hypernymy": {
+      "alias": "hypernymy",
+      "acc,none": 0.6532,
+      "acc_stderr,none": 0.006731642816059137,
+      "acc_norm,none": 0.6382,
+      "acc_norm_stderr,none": 0.0067962776486820775
+    },
+    "meronymy": {
+      "alias": "meronymy",
+      "acc,none": 0.5864,
+      "acc_stderr,none": 0.006965393839709887,
+      "acc_norm,none": 0.5328,
+      "acc_norm_stderr,none": 0.00705654242233345
+    }
+  },
+  "group_subtasks": {
+    "meronymy": [],
+    "hypernymy": [],
+    "analogies": []
+  },
+  "configs": {
+    "analogies": {
+      "task": "analogies",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "./lm_eval/tasks/NLP_JMU/analogies_data.json"
+      },
+      "test_split": "train",
+      "doc_to_text": "{{prompt}}",
+      "doc_to_target": "{{answer_index}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{options}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "description": "Analogies evaluation task with multilingual options",
+        "pretrained": "Qwen/Qwen2-1.5B"
+      }
+    },
+    "hypernymy": {
+      "task": "hypernymy",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "./lm_eval/tasks/NLP_JMU/hypernymy_data.json"
+      },
+      "test_split": "train",
+      "doc_to_text": "{{prompt}}",
+      "doc_to_target": "{{answer_index}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{options}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "description": "Hypernymy evaluation task with multilingual options",
+        "pretrained": "Qwen/Qwen2-1.5B"
+      }
+    },
+    "meronymy": {
+      "task": "meronymy",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "./lm_eval/tasks/NLP_JMU/meronymy_data.json"
+      },
+      "test_split": "train",
+      "doc_to_text": "{{prompt}}",
+      "doc_to_target": "{{answer_index}}",
+      "unsafe_code": false,
+      "doc_to_choice": "{{options}}",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "description": "Meronymy evaluation task with multilingual options",
+        "pretrained": "Qwen/Qwen2-1.5B"
+      }
+    }
+  },
+  "versions": {
+    "analogies": 1.0,
+    "hypernymy": 1.0,
+    "meronymy": 1.0
+  },
+  "n-shot": {
+    "analogies": 5,
+    "hypernymy": 5,
+    "meronymy": 5
+  },
+  "higher_is_better": {
+    "analogies": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hypernymy": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "meronymy": {
+      "acc": true,
+      "acc_norm": true
+    }
+  },
+  "n-samples": {
+    "analogies": {
+      "original": 5000,
+      "effective": 5000
+    },
+    "hypernymy": {
+      "original": 5000,
+      "effective": 5000
+    },
+    "meronymy": {
+      "original": 5000,
+      "effective": 5000
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=Qwen/Qwen2-1.5B",
+    "model_num_parameters": 1543714304,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "8a16abf2848eda07cc5253dec660bf1ce007ad7a",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": "cuda",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "ab3acc73",
+  "date": 1752279353.9642472,
+  "pretty_env_info": "PyTorch version: 2.7.1+cu126\nIs debug build: False\nCUDA used to build PyTorch: 12.6\nROCM used to build PyTorch: N/A\n\nOS: Microsoft Windows 11 Home (10.0.26100 64-bit)\nGCC version: Could not collect\nClang version: Could not collect\nCMake version: Could not collect\nLibc version: N/A\n\nPython version: 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)] (64-bit runtime)\nPython platform: Windows-11-10.0.26100-SP0\nIs CUDA available: True\nCUDA runtime version: Could not collect\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA GeForce RTX 4070 Laptop GPU\nNvidia driver version: 566.24\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nName: Intel(R) Core(TM) i9-14900HX\nManufacturer: GenuineIntel\nFamily: 207\nArchitecture: 9\nProcessorType: 3\nDeviceID: CPU0\nCurrentClockSpeed: 2200\nMaxClockSpeed: 2200\nL2CacheSize: 32768\nL2CacheSpeed: None\nRevision: None\n\nVersions of relevant libraries:\n[pip3] numpy==2.3.1\n[pip3] torch==2.7.1+cu126\n[pip3] torchaudio==2.7.1+cu126\n[pip3] torchvision==0.22.1+cu126\n[conda] Could not collect",
+  "transformers_version": "4.53.1",
+  "lm_eval_version": "0.4.9",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|endoftext|>",
+    "151643"
+  ],
+  "tokenizer_eos_token": [
+    "<|endoftext|>",
+    "151643"
+  ],
+  "tokenizer_bos_token": [
+    null,
+    "None"
+  ],
+  "eot_token_id": 151643,
+  "max_length": 131072,
+  "task_hashes": {
+    "analogies": "f33e5fd1cb6c7a62a65c3bb81fabe3aff4937efeeadaf5f0730be18fdde484a3",
+    "hypernymy": "e5e25ddfc05e680837a8a7827b579c51b8b3c0a322a3185ece142c8cf7adf021",
+    "meronymy": "9378376012d8cd2029fdef6ca6430bdcb85ee437f9f264d7fef1d660eca809d7"
+  },
+  "model_source": "hf",
+  "model_name": "Qwen/Qwen2-1.5B",
+  "model_name_sanitized": "Qwen__Qwen2-1.5B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 94540.4011018,
+  "end_time": 96909.8312528,
+  "total_evaluation_time_seconds": "2369.430150999993"
+}
