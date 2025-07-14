@@ -1,0 +1,25 @@
+task: meronymy_medium
+dataset_path: json
+dataset_kwargs:
+  data_files: "./lm_eval/tasks/NLP_JMU/semantic_analogy_questions_en_to_medium.json"
+dataset_name: null
+output_type: multiple_choice
+training_split: null
+validation_split: null
+test_split: train
+num_fewshot: 5
+doc_to_text: "{{prompt}}"
+doc_to_target: "{{answer_index}}"
+doc_to_choice: "{{options}}"
+should_decontaminate: false
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
+  description: "Meronymy evaluation task with multilingual options"
+  alias: "meronymy_medium"

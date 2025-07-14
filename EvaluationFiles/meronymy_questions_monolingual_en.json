@@ -1,0 +1,5502 @@
+[
+  {
+    "id": "meronymy_0_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"arcade\"? (Options in English.)",
+    "options": [
+      "Jerusalem_artichoke",
+      "arch",
+      "Cellular_component",
+      "cliff"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005374n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_1_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cartilage\"? (Options in English.)",
+    "options": [
+      "physics",
+      "Appalachia",
+      "matrix",
+      "Nefud"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016317n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_2_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"residential_district\"? (Options in English.)",
+    "options": [
+      "framework",
+      "female_monastery",
+      "anode",
+      "housing_development"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021252n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_3_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mead\"? (Options in English.)",
+    "options": [
+      "outboard_motor",
+      "chordate",
+      "hydromel",
+      "endothelium"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00053985n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_4_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"absinth\"? (Options in English.)",
+    "options": [
+      "cherry_pepper",
+      "anise",
+      "bony_fish",
+      "brainstem"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000437n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_5_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"berry\"? (Options in English.)",
+    "options": [
+      "degree_program",
+      "ballistic_missile",
+      "berry",
+      "antibody"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00010067n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_6_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"accelerator\"? (Options in English.)",
+    "options": [
+      "storage_ring",
+      "shipping",
+      "Earth",
+      "iron"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000635n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_7_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cetacean\"? (Options in English.)",
+    "options": [
+      "fluke",
+      "mail_train",
+      "Grand_Arcade_(Leeds)",
+      "baggage"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011456n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_8_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"word\"? (Options in English.)",
+    "options": [
+      "blade",
+      "germ_plasm",
+      "airbus",
+      "syllable"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00081546n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_9_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"computer_system\"? (Options in English.)",
+    "options": [
+      "Zhengyi_Dao",
+      "alternator",
+      "off-line_equipment",
+      "conventicle"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001504n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_10_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"record_player\"? (Options in English.)",
+    "options": [
+      "facility",
+      "buffer_solution",
+      "cartridge",
+      "branch"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00062042n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_11_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"musical_organization\"? (Options in English.)",
+    "options": [
+      "amphibian_family",
+      "barley",
+      "bird_louse",
+      "musician"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00056461n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_12_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lid\"? (Options in English.)",
+    "options": [
+      "lock",
+      "loggia",
+      "tree_ring",
+      "string"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00051011n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_13_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"framework\"? (Options in English.)",
+    "options": [
+      "Equine_coat_color",
+      "William_and_Mary",
+      "gonad",
+      "brace"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00036198n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_14_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dwelling\"? (Options in English.)",
+    "options": [
+      "necessity",
+      "Endothiodon",
+      "satellite_transmitter",
+      "dinette"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000356n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_15_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"airliner\"? (Options in English.)",
+    "options": [
+      "plane_seat",
+      "fishing_line",
+      "Four_Seas",
+      "Arafura_Sea"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002299n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_16_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Australia\"? (Options in English.)",
+    "options": [
+      "rib_joint_pliers",
+      "Cape_York_Peninsula",
+      "tubeless",
+      "dive_bomber"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007229n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_17_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"species\"? (Options in English.)",
+    "options": [
+      "breed",
+      "thing",
+      "cot",
+      "aisle"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00073210n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_18_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Amniota\"? (Options in English.)",
+    "options": [
+      "amniote",
+      "measurable_set",
+      "soccer",
+      "Soviet_Russia"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003574n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_19_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"childbirth\"? (Options in English.)",
+    "options": [
+      "delivery",
+      "bungalow",
+      "vertebrate_foot",
+      "particle_physics"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000735n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_20_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mammary_gland\"? (Options in English.)",
+    "options": [
+      "firm",
+      "nipple",
+      "cultivar",
+      "spinning_rod"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00053078n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_21_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"regiment\"? (Options in English.)",
+    "options": [
+      "backwoods",
+      "reaction-propulsion_engine",
+      "tumbler",
+      "battalion"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00066880n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_22_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cartridge\"? (Options in English.)",
+    "options": [
+      "journal",
+      "bullet",
+      "anatomical_system",
+      "electric_motor"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016332n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_23_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"abdomen\"? (Options in English.)",
+    "options": [
+      "abdominal_aorta",
+      "liquid_metal_reactor",
+      "course_of_study",
+      "poppet"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000249n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_24_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"beach_wagon\"? (Options in English.)",
+    "options": [
+      "tailgate",
+      "jute",
+      "electric_power_source",
+      "starch"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009280n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_25_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"barrel\"? (Options in English.)",
+    "options": [
+      "bung",
+      "boardwalk",
+      "freckle",
+      "fastener"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008691n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_26_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"western_blackberry\"? (Options in English.)",
+    "options": [
+      "choking",
+      "Electronic_component",
+      "blackberry",
+      "boneshaker"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068488n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_27_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sole\"? (Options in English.)",
+    "options": [
+      "intersection",
+      "shank",
+      "nutriment",
+      "harvest"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00072703n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_28_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"elevator\"? (Options in English.)",
+    "options": [
+      "Calcio_Fiorentino",
+      "car",
+      "Downing_Street",
+      "cowbell"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00030333n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_29_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"memory\"? (Options in English.)",
+    "options": [
+      "bitter_lemon",
+      "prologue",
+      "register",
+      "wax"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021483n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_30_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"course\"? (Options in English.)",
+    "options": [
+      "clade",
+      "salt_lick",
+      "machine",
+      "coursework"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00019479n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_31_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"country\"? (Options in English.)",
+    "options": [
+      "phosphorus",
+      "housetop",
+      "pasture",
+      "piano_keyboard"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00023237n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_32_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"watch\"? (Options in English.)",
+    "options": [
+      "axle",
+      "California_laurel",
+      "chemistry",
+      "face"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00077172n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_33_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"song\"? (Options in English.)",
+    "options": [
+      "refrain",
+      "voltaic_pile",
+      "satellite_transmitter",
+      "associate"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00072794n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_34_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"organ\"? (Options in English.)",
+    "options": [
+      "Liberty_Bell",
+      "spacecraft",
+      "letter_of_marque",
+      "piano_keyboard"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00059461n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_35_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"muzzle\"? (Options in English.)",
+    "options": [
+      "mixing_faucet",
+      "landing_skid",
+      "snout",
+      "home_fries"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00056555n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_36_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fortification\"? (Options in English.)",
+    "options": [
+      "browse",
+      "fixer-upper",
+      "caraway_seed",
+      "rampart"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00035991n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_37_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sail\"? (Options in English.)",
+    "options": [
+      "North_Pacific",
+      "reef",
+      "aircraft_engine",
+      "Microhylidae"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015385n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_38_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sword\"? (Options in English.)",
+    "options": [
+      "Knowledge_organization_system",
+      "discipline",
+      "dentine",
+      "forte"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011081n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_39_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chocolate\"? (Options in English.)",
+    "options": [
+      "single-rotor_helicopter",
+      "bobtail",
+      "cacao_bean",
+      "gas"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018639n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_40_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"unit\"? (Options in English.)",
+    "options": [
+      "fungus_order",
+      "part",
+      "Twin_Cities",
+      "matrix"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00013726n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_41_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"structure\"? (Options in English.)",
+    "options": [
+      "patriarchal_basilica",
+      "structural_member",
+      "agamete",
+      "caisson"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00022071n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_42_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wheel\"? (Options in English.)",
+    "options": [
+      "enterprise",
+      "reticule",
+      "virility_drug",
+      "rim"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00080972n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_43_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"public_house\"? (Options in English.)",
+    "options": [
+      "tail_rotor",
+      "barroom",
+      "wheel",
+      "Pacific"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00040492n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_44_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"feather\"? (Options in English.)",
+    "options": [
+      "quill",
+      "space_capsule",
+      "Bloody_Mary",
+      "basilica"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00033865n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_45_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"axis\"? (Options in English.)",
+    "options": [
+      "acarus",
+      "Furcula_(springtail)",
+      "stele",
+      "obstacle"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007531n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_46_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dog\"? (Options in English.)",
+    "options": [
+      "biological_group",
+      "airplane",
+      "flag",
+      "cruiser"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015267n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_47_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"workplace\"? (Options in English.)",
+    "options": [
+      "locker_room",
+      "Appleton_layer",
+      "fixer-upper",
+      "claw"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00081570n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_48_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lion\"? (Options in English.)",
+    "options": [
+      "keep",
+      "mane",
+      "cartwheel",
+      "clinic"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00049156n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_49_en_to_en_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aquatic_vertebrate\"? (Options in English.)",
+    "options": [
+      "flipper",
+      "suspension",
+      "acarine",
+      "catchphrase"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005220n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_50_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"people\"? (Options in English.)",
+    "options": [
+      "gasoline_engine",
+      "person",
+      "storage_ring",
+      "football"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00061450n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_51_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"missile\"? (Options in English.)",
+    "options": [
+      "nose",
+      "Streptophyta",
+      "alliance",
+      "bung"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00055322n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_52_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"carpenter's_level\"? (Options in English.)",
+    "options": [
+      "bawbee",
+      "level",
+      "beef_roast",
+      "buckwheat"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016194n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_53_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mythology\"? (Options in English.)",
+    "options": [
+      "cap_screw",
+      "polyamide",
+      "myth",
+      "drain"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00056674n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_54_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"boat\"? (Options in English.)",
+    "options": [
+      "cockpit_locker",
+      "symbol",
+      "annual",
+      "arm"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011674n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_55_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"complex_sentence\"? (Options in English.)",
+    "options": [
+      "coordinate_clause",
+      "lexeme",
+      "gunnery",
+      "potty_seat"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021376n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_56_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"electronic_equipment\"? (Options in English.)",
+    "options": [
+      "cup",
+      "electrode",
+      "twist-off_cap",
+      "Sundown_town"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00030251n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_57_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bomber\"? (Options in English.)",
+    "options": [
+      "floating_object",
+      "car_train",
+      "cannon",
+      "bignoniad"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011936n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_58_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"tobacco\"? (Options in English.)",
+    "options": [
+      "extremity",
+      "common_tobacco",
+      "explicandum",
+      "back"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007699n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_59_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"social_organization\"? (Options in English.)",
+    "options": [
+      "political_system",
+      "big_toe",
+      "Metakosmia",
+      "tank"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00072539n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_60_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"toilet\"? (Options in English.)",
+    "options": [
+      "play",
+      "Greenwich",
+      "toilet_seat",
+      "shears"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015106n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_61_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Chlorophyta\"? (Options in English.)",
+    "options": [
+      "America",
+      "beta_cell",
+      "Chlorophyceae",
+      "fighter"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018618n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_62_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vertebrate\"? (Options in English.)",
+    "options": [
+      "boatswain's_chair",
+      "Cladophora",
+      "rib",
+      "arrow_arum"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00023542n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_63_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"armchair\"? (Options in English.)",
+    "options": [
+      "tailpiece",
+      "arm",
+      "hydromel",
+      "telephone"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005729n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_64_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dialogue\"? (Options in English.)",
+    "options": [
+      "mangrove",
+      "bicycle_wheel",
+      "applesauce",
+      "actor's_line"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00026835n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_65_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"outer_space\"? (Options in English.)",
+    "options": [
+      "box_beam",
+      "ala",
+      "interplanetary_space",
+      "couple"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00059768n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_66_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"play\"? (Options in English.)",
+    "options": [
+      "way",
+      "cheval-de-frise",
+      "stage_direction",
+      "bird"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00028604n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_67_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"weaponry\"? (Options in English.)",
+    "options": [
+      "bulb",
+      "gross_anatomy",
+      "bicarbonate_buffer_solution",
+      "weapon"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005793n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_68_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Great_Lakes\"? (Options in English.)",
+    "options": [
+      "Lake_Ontario",
+      "lander",
+      "garrison_posts",
+      "animal_fiber"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00041580n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_69_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mine\"? (Options in English.)",
+    "options": [
+      "white_wolf",
+      "handle",
+      "shaft",
+      "internal-combustion_engine"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00055114n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_70_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"science\"? (Options in English.)",
+    "options": [
+      "scientific_theory",
+      "manhole_cover",
+      "reel",
+      "radio_link"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00069670n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_71_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mess\"? (Options in English.)",
+    "options": [
+      "training_table",
+      "absolute_space",
+      "breakfast_food",
+      "serval"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00054519n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_72_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"beam\"? (Options in English.)",
+    "options": [
+      "wood",
+      "antagonist",
+      "vegetable_tallow",
+      "afterburner"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009314n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_73_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"angiosperm\"? (Options in English.)",
+    "options": [
+      "Bronx_High_School_of_Science",
+      "end_product",
+      "book",
+      "flower"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00004108n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_74_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"amphibole_group\"? (Options in English.)",
+    "options": [
+      "actinolite",
+      "bandwagon",
+      "lexical_database",
+      "invention"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003628n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_75_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chocolate_candy\"? (Options in English.)",
+    "options": [
+      "branch",
+      "artwork",
+      "center",
+      "power-driven_vehicle"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018642n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_76_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"medicine\"? (Options in English.)",
+    "options": [
+      "physostigmine",
+      "grasshopper",
+      "flat",
+      "colourant"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00054128n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_77_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fishing_gear\"? (Options in English.)",
+    "options": [
+      "beet",
+      "gig",
+      "bonduc_nut",
+      "Mustelidae"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00034866n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_78_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"anchor\"? (Options in English.)",
+    "options": [
+      "cooler",
+      "Tharp's_Log",
+      "shank",
+      "gun_enclosure"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003895n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_79_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mountain\"? (Options in English.)",
+    "options": [
+      "backwoods",
+      "mountain_peak",
+      "Ultra-high_vacuum",
+      "Household_chemicals"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00056068n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_80_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sentence\"? (Options in English.)",
+    "options": [
+      "dining_room",
+      "clause",
+      "Chlorophyceae",
+      "cabaret"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00070528n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_81_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mosque\"? (Options in English.)",
+    "options": [
+      "Cynodontia",
+      "motor_scooter",
+      "Nickel_oxyhydroxide_battery",
+      "mihrab"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00055976n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_82_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"continent\"? (Options in English.)",
+    "options": [
+      "subcontinent",
+      "developmental_anatomy",
+      "snow",
+      "scissors"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00022173n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_83_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"internal-combustion_engine\"? (Options in English.)",
+    "options": [
+      "Cocio",
+      "sheath",
+      "fair-trade_agreement",
+      "engine_block"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00045708n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_84_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bolt\"? (Options in English.)",
+    "options": [
+      "Dicamptodontidae",
+      "hand",
+      "steam_whistle",
+      "head"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011902n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_85_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"skin\"? (Options in English.)",
+    "options": [
+      "heavier-than-air_craft",
+      "dermis",
+      "digit",
+      "apatite_mineral_group"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00024643n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_86_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"perianth\"? (Options in English.)",
+    "options": [
+      "skeleton",
+      "brake",
+      "aircraft_carrier",
+      "corolla"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018573n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_87_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"body\"? (Options in English.)",
+    "options": [
+      "sling",
+      "arm",
+      "locker_room",
+      "biplane"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011744n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_88_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cell\"? (Options in English.)",
+    "options": [
+      "hasty_pudding",
+      "energid",
+      "cassia",
+      "Actiniaria"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00017027n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_89_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aerospace\"? (Options in English.)",
+    "options": [
+      "carnivore",
+      "seamount",
+      "outer_space",
+      "garbage_truck"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001701n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_90_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fin\"? (Options in English.)",
+    "options": [
+      "ray",
+      "baked_goods",
+      "bomber",
+      "space_station"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00034509n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_91_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"hair\"? (Options in English.)",
+    "options": [
+      "eyebrow",
+      "hairline",
+      "track",
+      "back_room"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00042526n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_92_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"writing\"? (Options in English.)",
+    "options": [
+      "personnel_carrier",
+      "guestroom",
+      "Phillips_screw",
+      "epilogue"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00062310n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_93_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bannister\"? (Options in English.)",
+    "options": [
+      "railing",
+      "agglomeration",
+      "cocoa_butter",
+      "handwheel"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008247n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_94_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Dicynodontia\"? (Options in English.)",
+    "options": [
+      "battle_group",
+      "clipper",
+      "drop_cloth",
+      "Ischigualastia"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00026978n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_95_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"meat\"? (Options in English.)",
+    "options": [
+      "alehouse",
+      "coastal_plain",
+      "Point_Barrow",
+      "palmitic_acid"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00054026n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_96_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aquatic_plant\"? (Options in English.)",
+    "options": [
+      "pad",
+      "financial_center",
+      "Eira",
+      "lane"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005219n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_97_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"kummel\"? (Options in English.)",
+    "options": [
+      "decidua",
+      "Virgin_Mary",
+      "caraway_seed",
+      "okra"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00049485n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_98_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dining-hall\"? (Options in English.)",
+    "options": [
+      "placoderm",
+      "high_table",
+      "forepaw",
+      "bibliotics"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027194n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_99_en_to_en_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"line\"? (Options in English.)",
+    "options": [
+      "top_of_the_line",
+      "clasp",
+      "Buddhist_temple_in_Vietnam",
+      "bird's_foot"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00014165n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_100_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"association\"? (Options in English.)",
+    "options": [
+      "bare_bone",
+      "cassette_player",
+      "e-commerce",
+      "chapter"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00006539n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_101_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lexical_entry\"? (Options in English.)",
+    "options": [
+      "cap",
+      "center_field",
+      "headword",
+      "Fallopian_tube"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00026969n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_102_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"branch\"? (Options in English.)",
+    "options": [
+      "ballet",
+      "bark",
+      "animal_oil",
+      "bagatelle"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00012738n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_103_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"rotor\"? (Options in English.)",
+    "options": [
+      "impeller",
+      "bilge",
+      "connecting_rod",
+      "hip_roof"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068345n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_104_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"suspension\"? (Options in English.)",
+    "options": [
+      "archipelago",
+      "channel",
+      "torsion_bar",
+      "iron_ore"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00075454n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_105_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"rock\"? (Options in English.)",
+    "options": [
+      "mass",
+      "mineral",
+      "mouthpiece",
+      "Chartreuse"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068046n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_106_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"edible_fruit\"? (Options in English.)",
+    "options": [
+      "layer",
+      "peel",
+      "front_matter",
+      "black_bile"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00029758n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_107_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Soviet_Union\"? (Options in English.)",
+    "options": [
+      "Sundown_town",
+      "dishrag",
+      "clearing",
+      "Soviet_Socialist_Republic"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068619n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_108_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aquatic_mammal\"? (Options in English.)",
+    "options": [
+      "acromion",
+      "Aegiceras",
+      "bow_and_arrow",
+      "flipper"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005218n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_109_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bird\"? (Options in English.)",
+    "options": [
+      "dark_meat",
+      "accessory_fruit",
+      "test_rocket",
+      "judiciary"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00010606n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_110_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"system\"? (Options in English.)",
+    "options": [
+      "Arcadia",
+      "agenda",
+      "infrastructure",
+      "lobby"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00075759n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_111_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"forest\"? (Options in English.)",
+    "options": [
+      "bulwark",
+      "underbrush",
+      "garbage_truck",
+      "adipose_tissue"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00035868n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_112_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cart\"? (Options in English.)",
+    "options": [
+      "cartwheel",
+      "olallieberry",
+      "flower",
+      "aperture"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016291n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_113_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Bloody_Mary\"? (Options in English.)",
+    "options": [
+      "contagion",
+      "regalia",
+      "grassland",
+      "vodka"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011419n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_114_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"document\"? (Options in English.)",
+    "options": [
+      "article",
+      "Javanthropus",
+      "cooler",
+      "Agalinis"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00028015n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_115_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"root\"? (Options in English.)",
+    "options": [
+      "markup",
+      "tongue",
+      "archespore",
+      "root_hair"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068246n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_116_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"drum_brake\"? (Options in English.)",
+    "options": [
+      "elementary_education",
+      "brake_drum",
+      "employee-owned_enterprise",
+      "brokerage"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00028895n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_117_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"neck\"? (Options in English.)",
+    "options": [
+      "carotid_artery",
+      "carbonado",
+      "adnexa",
+      "Pithecanthropus"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00017395n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_118_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"pliers\"? (Options in English.)",
+    "options": [
+      "jaw",
+      "barrel",
+      "barber_chair",
+      "switch"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00060208n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_119_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"American_Samoa\"? (Options in English.)",
+    "options": [
+      "pulley",
+      "Forge_(software)",
+      "Pago_Pago",
+      "cigarette_case"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003465n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_120_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"brush\"? (Options in English.)",
+    "options": [
+      "transporter",
+      "bow_and_arrow",
+      "engineering",
+      "bristle"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00013489n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_121_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"insect\"? (Options in English.)",
+    "options": [
+      "hill",
+      "air_sac",
+      "slate_roof",
+      "reaction-propulsion_engine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00046870n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_122_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"telephone_system\"? (Options in English.)",
+    "options": [
+      "telephone",
+      "cider",
+      "hair",
+      "Caeciliidae"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00062030n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_123_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Alaudidae\"? (Options in English.)",
+    "options": [
+      "celesta",
+      "lark",
+      "bore",
+      "pole"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002434n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_124_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chain\"? (Options in English.)",
+    "options": [
+      "archipelago",
+      "anisette",
+      "chain_store",
+      "bark"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00017490n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_125_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Arenaviridae\"? (Options in English.)",
+    "options": [
+      "till",
+      "Lassa_virus",
+      "marketplace",
+      "canned_food"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005545n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_126_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"disease\"? (Options in English.)",
+    "options": [
+      "gastrula",
+      "symptom",
+      "archespore",
+      "mosque"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027546n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_127_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"potato\"? (Options in English.)",
+    "options": [
+      "car",
+      "bedpan",
+      "jacket",
+      "anachronism"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00047481n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_128_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aircraft\"? (Options in English.)",
+    "options": [
+      "Acinos",
+      "bay",
+      "criticism",
+      "cultivated_plant"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002275n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_129_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"coin\"? (Options in English.)",
+    "options": [
+      "celeriac",
+      "Railway_brake",
+      "animal_fiber",
+      "reverse"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00020497n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_130_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"atom\"? (Options in English.)",
+    "options": [
+      "coloring",
+      "nucleus",
+      "amyloidosis",
+      "cannula"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00006814n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_131_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"car_wheel\"? (Options in English.)",
+    "options": [
+      "sawhorse",
+      "nucleic_acid",
+      "hub",
+      "Actinomycetales"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015803n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_132_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"motor_vehicle\"? (Options in English.)",
+    "options": [
+      "broadcasting_station",
+      "shower",
+      "cab",
+      "kit"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007385n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_133_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"pipe\"? (Options in English.)",
+    "options": [
+      "ensemble",
+      "spout",
+      "contagion",
+      "epicenter"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00062568n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_134_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"baked_goods\"? (Options in English.)",
+    "options": [
+      "crumb",
+      "nullity",
+      "bareboat",
+      "arboretum"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008008n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_135_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"calf\"? (Options in English.)",
+    "options": [
+      "barrel",
+      "veal",
+      "condominium",
+      "skeletal_system"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00014717n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_136_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dining_room\"? (Options in English.)",
+    "options": [
+      "buffet",
+      "round",
+      "Lantern_battery",
+      "baggage_claim"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027195n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_137_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"head\"? (Options in English.)",
+    "options": [
+      "antiphony",
+      "tilling",
+      "brain",
+      "quandong"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015784n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_138_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"agenda\"? (Options in English.)",
+    "options": [
+      "coffee",
+      "platelet",
+      "agenda_item",
+      "mouthpiece"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001968n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_139_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"action\"? (Options in English.)",
+    "options": [
+      "immediate_constituent",
+      "discount_business",
+      "actuator",
+      "key"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001133n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_140_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"water\"? (Options in English.)",
+    "options": [
+      "hospital_train",
+      "oxygen",
+      "ablative_absolute",
+      "swell"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00042379n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_141_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"baseball_diamond\"? (Options in English.)",
+    "options": [
+      "creeper",
+      "short",
+      "capitulum",
+      "ballast"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008811n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_142_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"gun\"? (Options in English.)",
+    "options": [
+      "aardvark",
+      "tenterhook",
+      "barrel",
+      "airship"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00042221n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_143_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Cryptobranchidae\"? (Options in English.)",
+    "options": [
+      "database",
+      "mouthpiece",
+      "electrical_system",
+      "Megalobatrachus"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00024184n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_144_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bag\"? (Options in English.)",
+    "options": [
+      "frumenty",
+      "fortress",
+      "clasp",
+      "horsebox"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007925n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_145_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bathroom\"? (Options in English.)",
+    "options": [
+      "cantilever",
+      "Burkina_Faso",
+      "division",
+      "washbasin"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008995n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_146_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sea\"? (Options in English.)",
+    "options": [
+      "bay",
+      "galley",
+      "broadcasting_station",
+      "observation_station"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00069946n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_147_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"train\"? (Options in English.)",
+    "options": [
+      "lubricating_system",
+      "fluid",
+      "doodlebug",
+      "car"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00066028n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_148_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"tree\"? (Options in English.)",
+    "options": [
+      "girder",
+      "bird",
+      "military_vehicle",
+      "trunk"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00078131n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_149_en_to_en_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Hyaenidae\"? (Options in English.)",
+    "options": [
+      "Proteles",
+      "access",
+      "character",
+      "missile"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00032990n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_150_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Anthozoa\"? (Options in English.)",
+    "options": [
+      "deadwood",
+      "Madreporaria",
+      "armored_car",
+      "easy_chair"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001125n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_151_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sink\"? (Options in English.)",
+    "options": [
+      "antibody",
+      "drain_basket",
+      "writing",
+      "Zone_of_Avoidance"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00071766n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_152_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"drugstore\"? (Options in English.)",
+    "options": [
+      "pharmacopoeia",
+      "bunk",
+      "causeway",
+      "inferior_planet"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00004993n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_153_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"body_covering\"? (Options in English.)",
+    "options": [
+      "forearm",
+      "Free_public_transport",
+      "hypodermis",
+      "Pointy_ears"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011759n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_154_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"window\"? (Options in English.)",
+    "options": [
+      "bag",
+      "laundry_cart",
+      "sash",
+      "pectoral_fin"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00081285n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_155_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"explosive_device\"? (Options in English.)",
+    "options": [
+      "FS_Class_E.656",
+      "marine_mammal",
+      "explosive",
+      "Gothic"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00032351n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_156_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"alluvial_sediment\"? (Options in English.)",
+    "options": [
+      "cargo_helicopter",
+      "buckboard",
+      "alluvial_soil",
+      "bay_window"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002949n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_157_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"explanation\"? (Options in English.)",
+    "options": [
+      "Guyot",
+      "Georgetown",
+      "abator",
+      "explanans"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000741n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_158_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"stalk\"? (Options in English.)",
+    "options": [
+      "collider",
+      "Marine_steam_engine",
+      "receptacle",
+      "Alla_Pugacheva"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00073868n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_159_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"leg\"? (Options in English.)",
+    "options": [
+      "vertebrate_foot",
+      "snowmobile",
+      "agronomy",
+      "abstainer"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00050542n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_160_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"hoof\"? (Options in English.)",
+    "options": [
+      "canal_boat",
+      "potty_seat",
+      "attic",
+      "toe"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00044685n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_161_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"America\"? (Options in English.)",
+    "options": [
+      "Aconitum_fischeri",
+      "South_America",
+      "Extraterrestrial_atmosphere",
+      "Greek_mythology"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003342n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_162_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vessel\"? (Options in English.)",
+    "options": [
+      "elbow",
+      "Free_public_transport",
+      "cutlas",
+      "bilge"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00079862n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_163_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"baggage\"? (Options in English.)",
+    "options": [
+      "strap",
+      "chocolate_candy",
+      "arbor",
+      "Pink_Floyd_pigs"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007940n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_164_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"state\"? (Options in English.)",
+    "options": [
+      "estate_of_the_realm",
+      "cartilaginous_fish",
+      "Allen_screw",
+      "bird_family"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00023236n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_165_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"audio_system\"? (Options in English.)",
+    "options": [
+      "record_player",
+      "Bronx",
+      "arytenoid",
+      "hyaline_cartilage"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007108n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_166_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"outboard_motor\"? (Options in English.)",
+    "options": [
+      "flourish",
+      "screw",
+      "Zelenohorská_hruška",
+      "etui"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00059756n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_167_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"compressor\"? (Options in English.)",
+    "options": [
+      "clack_valve",
+      "harmonium",
+      "theme",
+      "cylinder"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021444n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_168_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Russia\"? (Options in English.)",
+    "options": [
+      "Muscovy",
+      "Hepatic_portal_system",
+      "Armageddon",
+      "flatlet"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068621n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_169_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sacking\"? (Options in English.)",
+    "options": [
+      "stock",
+      "water_vascular_system",
+      "mental_hospital",
+      "jute"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007948n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_170_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"flower\"? (Options in English.)",
+    "options": [
+      "leitmotiv",
+      "evening_star",
+      "floral_leaf",
+      "Greenwich_Village"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011422n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_171_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"hip_roof\"? (Options in English.)",
+    "options": [
+      "hip",
+      "non-volatile_storage",
+      "brake_shoe",
+      "Black_hole_electron"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00044207n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_172_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bus\"? (Options in English.)",
+    "options": [
+      "roof",
+      "Pensacola_Mountains",
+      "penny",
+      "Special_Forces"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007329n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_173_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"epithelium\"? (Options in English.)",
+    "options": [
+      "bacteria_family",
+      "epithelial_cell",
+      "Sea_Control_Ship",
+      "dewlap"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00031254n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_174_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"town\"? (Options in English.)",
+    "options": [
+      "C_battery",
+      "city_limit",
+      "cake",
+      "HGM-25A_Titan_I"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00077773n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_175_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"castle\"? (Options in English.)",
+    "options": [
+      "chemical_anti-element",
+      "turret",
+      "Eames_chair",
+      "alder"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016570n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_176_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Actiniaria\"? (Options in English.)",
+    "options": [
+      "Epidendrum_frigidum",
+      "Rustbelt",
+      "actinia",
+      "Waveform_monitor"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001091n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_177_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"disk_brake\"? (Options in English.)",
+    "options": [
+      "brake_pad",
+      "tufa",
+      "Thai_eggplant",
+      "PKP_class_ET42"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027458n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_178_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"adhesive_material\"? (Options in English.)",
+    "options": [
+      "epoxy",
+      "awlwort",
+      "boat",
+      "airbus"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00001366n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_179_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lever\"? (Options in English.)",
+    "options": [
+      "sweet_corn",
+      "fulcrum",
+      "Acnidosporidia",
+      "girder"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00050864n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_180_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"spacecraft\"? (Options in English.)",
+    "options": [
+      "Extraterrestrial_atmosphere",
+      "frog",
+      "mystery_play",
+      "heat_shield"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008176n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_181_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"computer\"? (Options in English.)",
+    "options": [
+      "cathode-ray_tube",
+      "serving_cart",
+      "death_knell",
+      "beam_engine"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021464n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_182_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wheeled_vehicle\"? (Options in English.)",
+    "options": [
+      "Foot_guards",
+      "splasher",
+      "aircraft_engine",
+      "acrodont"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00080980n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_183_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Arctic_Ocean\"? (Options in English.)",
+    "options": [
+      "plumber's_snake",
+      "Chukchi_Sea",
+      "air-to-air_missile",
+      "royal_charter"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00005469n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_184_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"block_and_tackle\"? (Options in English.)",
+    "options": [
+      "pulley",
+      "smoking_mixture",
+      "fox",
+      "gardening"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00011320n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_185_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"connective_tissue\"? (Options in English.)",
+    "options": [
+      "glissando",
+      "architectural_engineering",
+      "acrylic",
+      "mast_cell"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00021916n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_186_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dye\"? (Options in English.)",
+    "options": [
+      "Combat_Vehicle_Reconnaissance_(Tracked)",
+      "chromophore",
+      "kitchen_sink",
+      "boiler"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00029280n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_187_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"storage_battery\"? (Options in English.)",
+    "options": [
+      "storage_cell",
+      "harmonium",
+      "acid_dye",
+      "big_cat"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000780n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_188_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"playing_field\"? (Options in English.)",
+    "options": [
+      "midfield",
+      "concordance",
+      "Herrljunga_Cider",
+      "cultivar"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00006752n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_189_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"diesel_locomotive\"? (Options in English.)",
+    "options": [
+      "diesel",
+      "beef",
+      "protein_molecule",
+      "course_of_lectures"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027007n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_190_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"object-oriented_database\"? (Options in English.)",
+    "options": [
+      "horizontal_stabilizer",
+      "hypertext",
+      "Haydn's_head",
+      "ground_beef"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00058446n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_191_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Soviet_Russia\"? (Options in English.)",
+    "options": [
+      "Komi",
+      "Jama_masjid",
+      "scrubland",
+      "jerry-building"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00068620n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_192_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"plant\"? (Options in English.)",
+    "options": [
+      "hood",
+      "trojniak",
+      "steak_tartare",
+      "Gothic"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00035324n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_193_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"division\"? (Options in English.)",
+    "options": [
+      "battle_group",
+      "Ayurveda",
+      "keg",
+      "hyaline_cartilage"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027911n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_194_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lock\"? (Options in English.)",
+    "options": [
+      "tumbler",
+      "Combat_Vehicle_Reconnaissance_(Tracked)",
+      "monad",
+      "bullet_train"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00051771n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_195_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Canidae\"? (Options in English.)",
+    "options": [
+      "air_compressor",
+      "downpour",
+      "Alopex",
+      "Allison_T40"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015259n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_196_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"automobile_engine\"? (Options in English.)",
+    "options": [
+      "exhaust",
+      "Traveling_wave_reactor",
+      "autosome",
+      "morning_star"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00007376n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_197_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Andalusia\"? (Options in English.)",
+    "options": [
+      "Asia",
+      "Granada",
+      "Haydn's_head",
+      "animal_order"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003936n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_198_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"food\"? (Options in English.)",
+    "options": [
+      "housetop",
+      "food",
+      "ergosphere",
+      "seamount"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00035649n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_199_en_to_en_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mammal\"? (Options in English.)",
+    "options": [
+      "Nizhny_Novgorod_Governorate",
+      "forearm",
+      "Badnjak_(Serbian)",
+      "coat"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00053079n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_200_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chemical_element\"? (Options in English.)",
+    "options": [
+      "atom",
+      "nucleoplasm",
+      "couchette",
+      "wild_rice"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018105n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_201_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"bell\"? (Options in English.)",
+    "options": [
+      "sound_bow",
+      "neurogliacyte",
+      "musical_arrangement",
+      "eagle"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009727n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_202_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Canis\"? (Options in English.)",
+    "options": [
+      "device",
+      "tap",
+      "dog",
+      "shingle_tree"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015264n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_203_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"passenger_train\"? (Options in English.)",
+    "options": [
+      "syntagma",
+      "blowtube",
+      "passenger_car",
+      "mihrab"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00060896n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_204_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"beef_tenderloin\"? (Options in English.)",
+    "options": [
+      "Hot_air_engine",
+      "audio_system",
+      "fillet",
+      "fortress"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009562n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_205_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"corn\"? (Options in English.)",
+    "options": [
+      "motorcycle",
+      "linkage",
+      "altar",
+      "sweet_corn"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00022680n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_206_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"basidium\"? (Options in English.)",
+    "options": [
+      "Irish_Sea",
+      "hypobasidium",
+      "voter_file",
+      "block"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008848n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_207_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"central_processing_unit\"? (Options in English.)",
+    "options": [
+      "cola",
+      "Brooklyn",
+      "CPU_board",
+      "brooding"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00014395n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_208_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"limb\"? (Options in English.)",
+    "options": [
+      "gearmotor",
+      "air_transportation_system",
+      "stump",
+      "biceps_brachii"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00051217n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_209_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"written_communication\"? (Options in English.)",
+    "options": [
+      "leaf",
+      "leg",
+      "ball-and-socket_joint",
+      "countenance"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00010851n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_210_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"charter\"? (Options in English.)",
+    "options": [
+      "articles_of_incorporation",
+      "Ostracodermi",
+      "Anthozoa",
+      "crus"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00017906n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_211_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"human_head\"? (Options in English.)",
+    "options": [
+      "cocoa_butter",
+      "chicane",
+      "scalp",
+      "coaster_brake"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00045155n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_212_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vehicle\"? (Options in English.)",
+    "options": [
+      "dining-room_table",
+      "Acinos",
+      "splashboard",
+      "archipelago"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00079675n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_213_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"herb\"? (Options in English.)",
+    "options": [
+      "vegetable",
+      "storage_cell",
+      "eye",
+      "barrel"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00043776n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_214_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"battery\"? (Options in English.)",
+    "options": [
+      "tape_drive",
+      "terminal",
+      "energid",
+      "centromere"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009064n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_215_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"peerage\"? (Options in English.)",
+    "options": [
+      "brier",
+      "gastrula",
+      "bung",
+      "peer"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00008655n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_216_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"beeswax\"? (Options in English.)",
+    "options": [
+      "airframe",
+      "cerotic_acid",
+      "landing",
+      "electrical_system"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009600n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_217_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"gasoline_engine\"? (Options in English.)",
+    "options": [
+      "body_part",
+      "inlet_manifold",
+      "fin_keel",
+      "cockpit"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00037437n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_218_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Epidendrum\"? (Options in English.)",
+    "options": [
+      "epidendron",
+      "baby_buggy",
+      "stable_gear",
+      "citation_form"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00031161n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_219_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"organism\"? (Options in English.)",
+    "options": [
+      "splasher",
+      "Lake_Superior",
+      "Cheremis",
+      "body_part"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00009677n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_220_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fauna\"? (Options in English.)",
+    "options": [
+      "bird's_foot",
+      "animal_group",
+      "tailgate",
+      "switchboard"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00033822n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_221_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Carnivora\"? (Options in English.)",
+    "options": [
+      "fetus",
+      "node",
+      "Hyaenidae",
+      "root_cellar"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016142n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_222_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"person\"? (Options in English.)",
+    "options": [
+      "impression",
+      "Enhydra",
+      "human_body",
+      "branch"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00046516n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_223_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dictionary\"? (Options in English.)",
+    "options": [
+      "brake_pedal",
+      "lexical_entry",
+      "anuresis",
+      "barnyard"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00026967n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_224_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cocoa\"? (Options in English.)",
+    "options": [
+      "cocoa",
+      "fast_food",
+      "paragraph",
+      "virility_drug"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00018638n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_225_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"shop\"? (Options in English.)",
+    "options": [
+      "Augean_stables",
+      "shopfront",
+      "hand",
+      "amphictyony"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00071215n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_226_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"class\"? (Options in English.)",
+    "options": [
+      "toilet_seat",
+      "order",
+      "capitulum",
+      "digital_arteries"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00019482n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_227_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"gate\"? (Options in English.)",
+    "options": [
+      "hinge",
+      "D-layer",
+      "flight_deck",
+      "troposphere"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00037486n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_228_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"box\"? (Options in English.)",
+    "options": [
+      "finger_food",
+      "roll",
+      "outboard_motor",
+      "base"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00012524n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_229_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dish\"? (Options in English.)",
+    "options": [
+      "ingredient",
+      "architectonics",
+      "wrinkle",
+      "sound_bow"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00027574n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_230_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Acarina\"? (Options in English.)",
+    "options": [
+      "camp",
+      "Argasidae",
+      "epithelial_cell",
+      "Scolex"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00000616n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_231_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"rocket\"? (Options in English.)",
+    "options": [
+      "Stellar_atmosphere",
+      "shard",
+      "tenterhook",
+      "rocket"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00064666n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_232_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"index\"? (Options in English.)",
+    "options": [
+      "battery",
+      "bilocation",
+      "beachfront",
+      "key_word"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00046419n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_233_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aquavit\"? (Options in English.)",
+    "options": [
+      "gross_anatomy",
+      "archegonium",
+      "caraway_seed",
+      "springer"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002351n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_234_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"electric_motor\"? (Options in English.)",
+    "options": [
+      "stator",
+      "stoplight",
+      "corpus",
+      "Caspian"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00030156n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_235_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"apartment_building\"? (Options in English.)",
+    "options": [
+      "Actinomeris",
+      "cream_soda",
+      "minor_planet",
+      "apartment"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00004837n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_236_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"convent\"? (Options in English.)",
+    "options": [
+      "bat",
+      "Acinos",
+      "cell",
+      "neural_tube"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00022329n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_237_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"gyrostabilizer\"? (Options in English.)",
+    "options": [
+      "coal_house",
+      "Aplectrum",
+      "gyroscope",
+      "sector"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00042370n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_238_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"North_Atlantic\"? (Options in English.)",
+    "options": [
+      "clavichord",
+      "contents",
+      "step",
+      "Irish_Sea"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00058042n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_239_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"carriage\"? (Options in English.)",
+    "options": [
+      "peer",
+      "pothook",
+      "deoxyribose",
+      "rumble"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00016241n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_240_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"alliance\"? (Options in English.)",
+    "options": [
+      "ally",
+      "acrosome",
+      "North_America",
+      "employee-owned_enterprise"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00002740n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_241_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"gear\"? (Options in English.)",
+    "options": [
+      "bastard_wing",
+      "foot",
+      "chip",
+      "cog"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00020468n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_242_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"buckle\"? (Options in English.)",
+    "options": [
+      "prong",
+      "foundation",
+      "order",
+      "Mustelidae"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00013600n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_243_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"genus\"? (Options in English.)",
+    "options": [
+      "subgenus",
+      "public_toilet",
+      "corner",
+      "cider"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00037780n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_244_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"range\"? (Options in English.)",
+    "options": [
+      "evasion",
+      "spear",
+      "minor_planet",
+      "pass"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00017494n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_245_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"brake_system\"? (Options in English.)",
+    "options": [
+      "Anthozoa",
+      "acanthus",
+      "artillery",
+      "brake_band"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00012724n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_246_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"South_Atlantic\"? (Options in English.)",
+    "options": [
+      "sundial",
+      "carnivore",
+      "Bouvet_Island",
+      "mattress"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00072972n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_247_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"pastis\"? (Options in English.)",
+    "options": [
+      "baked_goods",
+      "anise",
+      "communication_system",
+      "home_economics"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00060948n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_248_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"canine\"? (Options in English.)",
+    "options": [
+      "paw",
+      "communicating_artery",
+      "cerotic_acid",
+      "butchery"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00015258n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "meronymy_249_en_to_en_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"amphibian\"? (Options in English.)",
+    "options": [
+      "lateral_line",
+      "wicker",
+      "computer_system",
+      "dinky"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:59.493760Z",
+      "synset_id": "bn:00003620n",
+      "multilingual_mode": "monolingual_en"
+    }
+  }
+]

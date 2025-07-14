@@ -1,0 +1,5502 @@
+[
+  {
+    "id": "hypernymy_0_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"course_of_study\"? (Options in English.)",
+    "options": [
+      "finger",
+      "ocelot",
+      "landing",
+      "course"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00023295n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_1_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"helicopter\"? (Options in English.)",
+    "options": [
+      "Motor_coach_(rail)",
+      "heavier-than-air_craft",
+      "Lake_Ontario",
+      "bedroom_furniture"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00018734n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_2_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"lever\"? (Options in English.)",
+    "options": [
+      "machine",
+      "cilium",
+      "phosphate_buffer_solution",
+      "morality_play"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00050864n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_3_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fauna\"? (Options in English.)",
+    "options": [
+      "simple_sentence",
+      "collection",
+      "circle",
+      "strap_hinge"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00033822n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_4_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"pear\"? (Options in English.)",
+    "options": [
+      "cephalochordate",
+      "cytosol",
+      "plant",
+      "housetop"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00061188n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_5_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bannister\"? (Options in English.)",
+    "options": [
+      "entry",
+      "commercial_building",
+      "Doris",
+      "chemical_element"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008247n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_6_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"water\"? (Options in English.)",
+    "options": [
+      "Prehensile_feet",
+      "Magnetophon",
+      "dihydrogen_chalcogenide",
+      "simple_sentence"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00042379n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_7_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"motor_vehicle\"? (Options in English.)",
+    "options": [
+      "batter's_box",
+      "kvass",
+      "vehicle",
+      "catastrophic_illness"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007385n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_8_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Togaviridae\"? (Options in English.)",
+    "options": [
+      "China_Railways_SS8",
+      "giving_birth",
+      "virus",
+      "Canidae"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00077481n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_9_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"baked_goods\"? (Options in English.)",
+    "options": [
+      "Greenwich",
+      "food",
+      "bell_seat",
+      "Bronx_High_School_of_Science"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008008n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_10_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mountain\"? (Options in English.)",
+    "options": [
+      "location",
+      "disk_controller",
+      "Xylocopa",
+      "predicate"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056068n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_11_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"dialogue\"? (Options in English.)",
+    "options": [
+      "betatron",
+      "organ",
+      "script",
+      "Tub_(container)"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00026835n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_12_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"amphibian\"? (Options in English.)",
+    "options": [
+      "chocolate_kiss",
+      "asterism",
+      "crus",
+      "airplane"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00003619n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_13_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"coin\"? (Options in English.)",
+    "options": [
+      "animal_glue",
+      "coinage",
+      "disk_jockey",
+      "vane"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00020497n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_14_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"coffee\"? (Options in English.)",
+    "options": [
+      "Alps",
+      "key",
+      "stimulant_foodstuff",
+      "African_hunting_dog"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00020414n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_15_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"band\"? (Options in English.)",
+    "options": [
+      "baby_animal",
+      "musical_organization",
+      "Integrated_activity",
+      "vertebrate_foot"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008280n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_16_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"calyx\"? (Options in English.)",
+    "options": [
+      "written_communication",
+      "flesh",
+      "coil",
+      "keep"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00014959n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_17_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"pendulum\"? (Options in English.)",
+    "options": [
+      "sand_blackberry",
+      "physical_system",
+      "Balaenoptera",
+      "mountain_peak"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00061346n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_18_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mead\"? (Options in English.)",
+    "options": [
+      "Foot_guards",
+      "alcohol",
+      "clack_valve",
+      "choir_stall"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00053985n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_19_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Westminster\"? (Options in English.)",
+    "options": [
+      "invert_sugar",
+      "floral_leaf",
+      "London_boroughs",
+      "process_engineering_device"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00019337n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_20_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"internal-combustion_engine\"? (Options in English.)",
+    "options": [
+      "human-made_geographic_feature",
+      "ceramic",
+      "forest",
+      "heat_engine"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00045708n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_21_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"construction\"? (Options in English.)",
+    "options": [
+      "areolar_tissue",
+      "schlock",
+      "commercial_enterprise",
+      "cytoplast"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013724n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_22_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"hotel\"? (Options in English.)",
+    "options": [
+      "bore",
+      "lodging",
+      "carcinogen",
+      "mystery_play"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00044967n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_23_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Australia\"? (Options in English.)",
+    "options": [
+      "public-safety_answering_point",
+      "bimetallic_strip",
+      "continent",
+      "Chasmaporthetes"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007229n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_24_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"circulatory_system\"? (Options in English.)",
+    "options": [
+      "tract",
+      "Actinomycetales",
+      "vascular_system",
+      "procyonid"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00015991n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_25_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"electrical_device\"? (Options in English.)",
+    "options": [
+      "device",
+      "lichenoflora",
+      "bird_louse",
+      "aisle"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00030178n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_26_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"storage_battery\"? (Options in English.)",
+    "options": [
+      "bakery",
+      "device",
+      "Mertensophryne",
+      "perianth"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00000780n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_27_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"edible_fruit\"? (Options in English.)",
+    "options": [
+      "Dog_coat",
+      "produce",
+      "craton",
+      "Upper_Egypt"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00029758n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_28_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"public_transit\"? (Options in English.)",
+    "options": [
+      "Tower_house",
+      "stable_gear",
+      "celeriac",
+      "transportation_system"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00065100n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_29_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"buffet\"? (Options in English.)",
+    "options": [
+      "furniture",
+      "Acrasiomycetes",
+      "mane",
+      "grid"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013679n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_30_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"eggplant\"? (Options in English.)",
+    "options": [
+      "taxonomic_group",
+      "White_River_Mess_Hall_and_Dormitory",
+      "computer_network",
+      "thesaurus"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007079n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_31_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"line\"? (Options in English.)",
+    "options": [
+      "shag",
+      "grain",
+      "merchandise",
+      "combination_lock"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00014165n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_32_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Orchidaceae\"? (Options in English.)",
+    "options": [
+      "ball-and-socket_joint",
+      "duplex_brake",
+      "monocot_family",
+      "Water_sprout"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00033203n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_33_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"antigen\"? (Options in English.)",
+    "options": [
+      "Vibrating_structure_gyroscope",
+      "group_or_class_of_chemical_substances",
+      "Ofu-Olosega",
+      "ash"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004665n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_34_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"electric_motor\"? (Options in English.)",
+    "options": [
+      "Electric_machine",
+      "Taoism_in_Singapore",
+      "theine",
+      "browse"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00030156n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_35_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"soccer\"? (Options in English.)",
+    "options": [
+      "mesosphere",
+      "football",
+      "gateway_drug",
+      "epithelium"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00006547n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_36_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"North_Atlantic\"? (Options in English.)",
+    "options": [
+      "Muscovy",
+      "part",
+      "biceps_brachii",
+      "Arcades_in_the_Czech_Republic"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00058042n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_37_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"watch\"? (Options in English.)",
+    "options": [
+      "wattle",
+      "bob",
+      "watch",
+      "observation_station"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00077172n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_38_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"passenger_train\"? (Options in English.)",
+    "options": [
+      "fighter",
+      "cash_machine",
+      "train",
+      "peel"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00060896n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_39_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"battery\"? (Options in English.)",
+    "options": [
+      "assembly",
+      "calving",
+      "Megalictis",
+      "burn_center"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00009064n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_40_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"suspension\"? (Options in English.)",
+    "options": [
+      "choking",
+      "System",
+      "faucet",
+      "human_abdomen"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00075454n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_41_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"sacking\"? (Options in English.)",
+    "options": [
+      "pneumatic_tire",
+      "headshot",
+      "platform",
+      "fabric"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007948n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_42_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"connective_tissue\"? (Options in English.)",
+    "options": [
+      "borough_of_New_York_City",
+      "sleet",
+      "widebody_aircraft",
+      "tissue"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00021916n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_43_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"blood\"? (Options in English.)",
+    "options": [
+      "Biogenic_substance",
+      "terminal",
+      "fair-trade_act",
+      "Administrative_divisions_of_Mexico"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011346n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_44_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"regiment\"? (Options in English.)",
+    "options": [
+      "air_compressor",
+      "ski_binding",
+      "army_unit",
+      "abortus"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00066880n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_45_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"breeder_reactor\"? (Options in English.)",
+    "options": [
+      "aleurone",
+      "nuclear_reactor",
+      "phase_space",
+      "Bronx_High_School_of_Science"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00012990n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_46_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"pliers\"? (Options in English.)",
+    "options": [
+      "hand_tool",
+      "Reoviridae",
+      "fore-and-aft_sail",
+      "battle_group"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00060208n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_47_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"memory\"? (Options in English.)",
+    "options": [
+      "brake_shoe",
+      "Grumman_HU-16_Albatross",
+      "memory_device",
+      "social_anthropology"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00021483n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_48_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"solar_array\"? (Options in English.)",
+    "options": [
+      "solar_heater",
+      "adit",
+      "child's_room",
+      "pulmonary_circulation"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00072672n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_49_en_to_en_diff1",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cathedral\"? (Options in English.)",
+    "options": [
+      "linin",
+      "weight",
+      "church",
+      "bargain"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random_unrelated",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016758n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_50_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"explosive_device\"? (Options in English.)",
+    "options": [
+      "internet",
+      "device",
+      "dictation",
+      "explanans"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00032351n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_51_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"handle\"? (Options in English.)",
+    "options": [
+      "kasha",
+      "dribble",
+      "Microbiota",
+      "Jig_(tool)"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00041820n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_52_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"baseball_diamond\"? (Options in English.)",
+    "options": [
+      "slate_roof",
+      "Lake_Michigan",
+      "afterdamp",
+      "terminology"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008811n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_53_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"pastis\"? (Options in English.)",
+    "options": [
+      "Baffin_Island",
+      "piebald",
+      "liqueur",
+      "Andorra"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00060948n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_54_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cocoa\"? (Options in English.)",
+    "options": [
+      "dishrag",
+      "soft_drink",
+      "cultivated_plant",
+      "automobile_engine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00018638n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_55_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"South_Atlantic\"? (Options in English.)",
+    "options": [
+      "megalopolis",
+      "dolly",
+      "part",
+      "abrasive"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00072972n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_56_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"genus_Capsicum\"? (Options in English.)",
+    "options": [
+      "division_Archaebacteria",
+      "coloring_material",
+      "zygoma",
+      "asterid_dicot_genus"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00015731n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_57_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"face\"? (Options in English.)",
+    "options": [
+      "microglia",
+      "carbon_planet",
+      "beet_sugar",
+      "homo"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00032600n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_58_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"tree\"? (Options in English.)",
+    "options": [
+      "perennial",
+      "Actinomeris",
+      "bolt",
+      "cat"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00078131n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_59_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"plane_seat\"? (Options in English.)",
+    "options": [
+      "chair",
+      "Azerbaijan",
+      "Db4o",
+      "safety_valve"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062772n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_60_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"lock\"? (Options in English.)",
+    "options": [
+      "radio",
+      "seamount",
+      "mechanism",
+      "flesh"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00051771n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_61_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"hard_cider\"? (Options in English.)",
+    "options": [
+      "lady_chapel",
+      "chinning_bar",
+      "power-driven_vehicle",
+      "alcohol"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00042930n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_62_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"wheeled_vehicle\"? (Options in English.)",
+    "options": [
+      "vehicle",
+      "planet",
+      "backroom",
+      "part"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00080980n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_63_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"blastula\"? (Options in English.)",
+    "options": [
+      "embryo",
+      "balance_wheel",
+      "Water-tube_boiler",
+      "Apodyterium"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011162n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_64_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"comb\"? (Options in English.)",
+    "options": [
+      "cubitus",
+      "Paleoatmosphere",
+      "credenza",
+      "tool"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00020850n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_65_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Cynodontia\"? (Options in English.)",
+    "options": [
+      "backwoods",
+      "sinciput",
+      "humanistic_discipline",
+      "taxonomic_group"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00024816n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_66_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"western_blackberry\"? (Options in English.)",
+    "options": [
+      "hoof",
+      "tail_fin",
+      "reaction-propulsion_engine",
+      "species"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068488n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_67_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"America\"? (Options in English.)",
+    "options": [
+      "tongue",
+      "Supercontinent",
+      "bird_pepper",
+      "flight_feather"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00003342n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_68_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"freight_train\"? (Options in English.)",
+    "options": [
+      "train",
+      "alizarin_yellow",
+      "camber_arch",
+      "motor_vehicle"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00036423n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_69_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"chain\"? (Options in English.)",
+    "options": [
+      "aculea",
+      "business",
+      "autograph",
+      "ironwork"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00017490n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_70_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"foot\"? (Options in English.)",
+    "options": [
+      "corpus",
+      "vertebrate_foot",
+      "bakery",
+      "military_vehicle"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00035679n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_71_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Africa\"? (Options in English.)",
+    "options": [
+      "continent",
+      "concourse",
+      "iron_ore",
+      "burlap"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00001816n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_72_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cart\"? (Options in English.)",
+    "options": [
+      "chromatin",
+      "mentum",
+      "wagon",
+      "animal_material"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016291n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_73_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"nuclear_reactor\"? (Options in English.)",
+    "options": [
+      "system",
+      "virga",
+      "journalism",
+      "cartilage"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00058245n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_74_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"digit\"? (Options in English.)",
+    "options": [
+      "stock",
+      "limb",
+      "bow_and_arrow",
+      "bulkhead"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00024979n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_75_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"aquatic_plant\"? (Options in English.)",
+    "options": [
+      "coeducation",
+      "collocation",
+      "plant",
+      "commonwealth_country"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00005219n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_76_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"buffer_solution\"? (Options in English.)",
+    "options": [
+      "Acidity_regulator",
+      "Vectorscope",
+      "Canis",
+      "ader_wax"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013677n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_77_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fanjet\"? (Options in English.)",
+    "options": [
+      "cubitus",
+      "car",
+      "jet_engine",
+      "shebeen"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00033602n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_78_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"stairway\"? (Options in English.)",
+    "options": [
+      "Balkan_Peninsula",
+      "inessential",
+      "album",
+      "Pointy_ears"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00073851n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_79_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"corn\"? (Options in English.)",
+    "options": [
+      "herb_tea",
+      "Theatre_organ",
+      "grain",
+      "apomict"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00022680n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_80_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Chlorophyta\"? (Options in English.)",
+    "options": [
+      "bowdlerization",
+      "disk_jockey",
+      "cocoa_butter",
+      "taxonomic_group"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00018618n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_81_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"endocrine_system\"? (Options in English.)",
+    "options": [
+      "system",
+      "bevel",
+      "rafter",
+      "bullet"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00030766n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_82_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"portal_system\"? (Options in English.)",
+    "options": [
+      "bogy",
+      "vascular_system",
+      "wicker",
+      "air_sac"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00063661n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_83_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bag\"? (Options in English.)",
+    "options": [
+      "iron_ore",
+      "bag",
+      "Biomaterial",
+      "aggregate_fruit"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007925n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_84_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"basidium\"? (Options in English.)",
+    "options": [
+      "handcart",
+      "reproductive_structure",
+      "aileron",
+      "angiosperm"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008848n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_85_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"lid\"? (Options in English.)",
+    "options": [
+      "Basilica_of_Guadalupe,_Monterrey",
+      "mechanics",
+      "rule",
+      "Closure_(container)"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00051011n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_86_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"diesel_locomotive\"? (Options in English.)",
+    "options": [
+      "anthem",
+      "outboard_motor",
+      "diesel_locomotive",
+      "stove_bolt"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00027007n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_87_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"baggage\"? (Options in English.)",
+    "options": [
+      "Nickel_oxyhydroxide_battery",
+      "container",
+      "Aplodontiidae",
+      "telephone_system"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007940n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_88_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"residential_district\"? (Options in English.)",
+    "options": [
+      "centrifuge",
+      "neighborhood",
+      "neural_tube",
+      "New_York_metropolitan_area"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00021252n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_89_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"angiosperm\"? (Options in English.)",
+    "options": [
+      "derrick",
+      "clade",
+      "durables",
+      "bawbee"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004108n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_90_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"drugstore\"? (Options in English.)",
+    "options": [
+      "exhaust_pipe",
+      "Siege_Perilous",
+      "fauna",
+      "shop"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004993n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_91_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"colony\"? (Options in English.)",
+    "options": [
+      "amyloid",
+      "business",
+      "biological_group",
+      "borough"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00020719n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_92_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bicycle_wheel\"? (Options in English.)",
+    "options": [
+      "Thorax_(arthropod_anatomy)",
+      "Wire_wheel",
+      "forelimb",
+      "iron"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00010257n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_93_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"protein\"? (Options in English.)",
+    "options": [
+      "bacteria_family",
+      "continuing_education",
+      "food",
+      "air"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00064855n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_94_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"human_head\"? (Options in English.)",
+    "options": [
+      "neck",
+      "gasoline_engine",
+      "nullity",
+      "depth"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00045155n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_95_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"body_covering\"? (Options in English.)",
+    "options": [
+      "Kara_Sea",
+      "coeducation",
+      "belaying_pin",
+      "covering"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011759n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_96_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bird\"? (Options in English.)",
+    "options": [
+      "head",
+      "taxonomic_group",
+      "farmland",
+      "caisson"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00010605n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_97_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"room\"? (Options in English.)",
+    "options": [
+      "freight_elevator",
+      "architectural_structure",
+      "dinky",
+      "Carnivora"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068233n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_98_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"muzzle\"? (Options in English.)",
+    "options": [
+      "message",
+      "walk",
+      "face",
+      "officer's_mess"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056555n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_99_en_to_en_diff2",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"sea\"? (Options in English.)",
+    "options": [
+      "body_of_water",
+      "physostigmine",
+      "mangrove",
+      "rubber_cement"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "mixed_random_semantic",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00069946n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_100_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"chair\"? (Options in English.)",
+    "options": [
+      "foot_brake",
+      "priory",
+      "furniture",
+      "beet_sugar"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00017515n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_101_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fur\"? (Options in English.)",
+    "options": [
+      "rigging",
+      "coat",
+      "cocoa_powder",
+      "radial_engine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00036883n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_102_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cartridge\"? (Options in English.)",
+    "options": [
+      "airfield",
+      "local",
+      "merchandise",
+      "grasshopper"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016332n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_103_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Urodella\"? (Options in English.)",
+    "options": [
+      "amphibian",
+      "craft",
+      "animal_glue",
+      "beef"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016833n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_104_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bomber\"? (Options in English.)",
+    "options": [
+      "girder",
+      "airplane",
+      "California_laurel",
+      "abattoir"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011936n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_105_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Apidae\"? (Options in English.)",
+    "options": [
+      "Earth",
+      "off-line_equipment",
+      "arthropod_family",
+      "barley"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004902n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_106_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"plankton\"? (Options in English.)",
+    "options": [
+      "cup",
+      "Actaea",
+      "organism",
+      "acorn"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062790n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_107_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"wood\"? (Options in English.)",
+    "options": [
+      "tissue",
+      "antigen",
+      "shipping",
+      "hip_roof"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00081492n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_108_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"atom\"? (Options in English.)",
+    "options": [
+      "cold_cuts",
+      "composite_particle",
+      "basil_thyme",
+      "glossary"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00006814n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_109_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"explanation\"? (Options in English.)",
+    "options": [
+      "underbelly",
+      "Statement_(logic)",
+      "anchovy_pear",
+      "birdcall"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00000741n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_110_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Manhattan\"? (Options in English.)",
+    "options": [
+      "acoustic_device",
+      "dial",
+      "financial_center",
+      "conceptualism"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00053192n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_111_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"handcart\"? (Options in English.)",
+    "options": [
+      "chalaza",
+      "musteline_mammal",
+      "chuck_wagon",
+      "wheeled_vehicle"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016292n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_112_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"feline\"? (Options in English.)",
+    "options": [
+      "Anemonella",
+      "bow_and_arrow",
+      "liquor",
+      "carnivore"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00033982n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_113_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Andalusia\"? (Options in English.)",
+    "options": [
+      "area",
+      "dainty",
+      "Arcadia",
+      "alliance"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00003936n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_114_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"association\"? (Options in English.)",
+    "options": [
+      "economics",
+      "association",
+      "absinth",
+      "ambulance"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00006539n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_115_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"law\"? (Options in English.)",
+    "options": [
+      "feline",
+      "arsenic",
+      "Sinanthropus",
+      "rule"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00048655n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_116_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cartilage\"? (Options in English.)",
+    "options": [
+      "connective_tissue",
+      "belt",
+      "record_changer",
+      "acrogen"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016317n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_117_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"dark_matter\"? (Options in English.)",
+    "options": [
+      "dial",
+      "politics",
+      "matter",
+      "masjid"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00025248n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_118_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"range\"? (Options in English.)",
+    "options": [
+      "kvass",
+      "magazine",
+      "rock-dumping_vessel",
+      "geological_formation"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00017494n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_119_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Soviet_Union\"? (Options in English.)",
+    "options": [
+      "country",
+      "ball-and-socket_joint",
+      "agreement",
+      "cigarette_case"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068619n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_120_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cytoplasm\"? (Options in English.)",
+    "options": [
+      "protoplasm",
+      "belt",
+      "aquaculture",
+      "jaggery"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00024905n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_121_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"propeller_plane\"? (Options in English.)",
+    "options": [
+      "chinning_bar",
+      "airplane",
+      "bag",
+      "Asian_horseshoe_crab"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00064748n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_122_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"epithelium\"? (Options in English.)",
+    "options": [
+      "promptbook",
+      "tissue",
+      "mother_lode",
+      "arsine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00031254n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_123_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"aquatic_mammal\"? (Options in English.)",
+    "options": [
+      "calculator",
+      "deliverable",
+      "aquatic_animal",
+      "commercial_document"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00005218n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_124_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"phrase\"? (Options in English.)",
+    "options": [
+      "armored_car",
+      "silencer",
+      "fashion",
+      "language_unit"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062115n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_125_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"book\"? (Options in English.)",
+    "options": [
+      "Athos",
+      "publication",
+      "deliverable",
+      "Trophy_head"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00012059n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_126_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Bufonidae\"? (Options in English.)",
+    "options": [
+      "berry",
+      "arrangement",
+      "amphibian_family",
+      "subject"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013696n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_127_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"serum\"? (Options in English.)",
+    "options": [
+      "cultivated_plant",
+      "betting_shop",
+      "arachnid",
+      "liquid_body_substance"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011389n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_128_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"wing\"? (Options in English.)",
+    "options": [
+      "organ",
+      "kit",
+      "part",
+      "arthrospore"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00081336n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_129_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"body\"? (Options in English.)",
+    "options": [
+      "Canada_garlic",
+      "shard",
+      "natural_object",
+      "gyroscope"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011744n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_130_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"boiler\"? (Options in English.)",
+    "options": [
+      "aqueous_solution",
+      "mangrove",
+      "boiler",
+      "sulky"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011828n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_131_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Antarctica\"? (Options in English.)",
+    "options": [
+      "accordion",
+      "bastion",
+      "auxiliary_engine",
+      "continent"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004479n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_132_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"platform\"? (Options in English.)",
+    "options": [
+      "computer_system",
+      "birch_beer",
+      "Futsal",
+      "birdcall"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062900n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_133_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"telephone_system\"? (Options in English.)",
+    "options": [
+      "barouche",
+      "adaptation",
+      "communication_system",
+      "test_rocket"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062030n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_134_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mythology\"? (Options in English.)",
+    "options": [
+      "life",
+      "hematochrome",
+      "incubator",
+      "writer"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056674n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_135_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"rock\"? (Options in English.)",
+    "options": [
+      "refuge",
+      "bare_bone",
+      "Construction_aggregate",
+      "articulatory_system"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068046n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_136_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"brush\"? (Options in English.)",
+    "options": [
+      "fountain",
+      "tool",
+      "glider",
+      "sole"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013489n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_137_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"exhaust\"? (Options in English.)",
+    "options": [
+      "print",
+      "system",
+      "candlesnuffer",
+      "ventilation"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00032215n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_138_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"perianth\"? (Options in English.)",
+    "options": [
+      "plant_organ",
+      "barricade",
+      "doodlebug",
+      "baby_buggy"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00018573n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_139_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"molecule\"? (Options in English.)",
+    "options": [
+      "ford",
+      "blowtube",
+      "inclined_plane",
+      "unit"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00055564n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_140_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bus\"? (Options in English.)",
+    "options": [
+      "road_vehicle",
+      "sheath",
+      "ceramic",
+      "Armenia"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007329n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_141_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"electric_locomotive\"? (Options in English.)",
+    "options": [
+      "locomotive",
+      "conceptualism",
+      "athletic_facility",
+      "celesta"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00030152n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_142_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"airfoil\"? (Options in English.)",
+    "options": [
+      "canine",
+      "shape",
+      "animal_fat",
+      "egg_cream"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00001682n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_143_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"carpenter's_level\"? (Options in English.)",
+    "options": [
+      "cilium",
+      "boarding_house",
+      "gmina",
+      "bar"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016194n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_144_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"kummel\"? (Options in English.)",
+    "options": [
+      "Adelgidae",
+      "Flavored_liquor",
+      "calcium_carbide",
+      "automobile_engine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00049485n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_145_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"chocolate\"? (Options in English.)",
+    "options": [
+      "salt_lick",
+      "cheetah",
+      "stimulant_foodstuff",
+      "bicycle"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00018639n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_146_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"order\"? (Options in English.)",
+    "options": [
+      "back_room",
+      "aalii",
+      "rank",
+      "gathering"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00059310n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_147_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"sink\"? (Options in English.)",
+    "options": [
+      "covered_wagon",
+      "antimatter",
+      "plumbing_fixture",
+      "cave"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00071766n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_148_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Arenaviridae\"? (Options in English.)",
+    "options": [
+      "bookcase",
+      "virus",
+      "boarding_house",
+      "Cloud_database"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00005545n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_149_en_to_en_diff3",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bell\"? (Options in English.)",
+    "options": [
+      "cold_cuts",
+      "acoustic_device",
+      "Ayurveda",
+      "Merostomata"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "semantically_related",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00009727n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_150_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Great_Lakes\"? (Options in English.)",
+    "options": [
+      "door_phone",
+      "horizontal_stabilizer",
+      "group_of_interconnected_lakes",
+      "alternative_birth"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00041580n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_151_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"disease\"? (Options in English.)",
+    "options": [
+      "minibike",
+      "hellbender",
+      "anomaly",
+      "church_bell"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00027546n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_152_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"outer_space\"? (Options in English.)",
+    "options": [
+      "space_object",
+      "arsenic",
+      "physical_pendulum",
+      "orchil"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00059768n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_153_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"alliance\"? (Options in English.)",
+    "options": [
+      "female_chest",
+      "Chasmaporthetes",
+      "broadsword",
+      "organization"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00002740n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_154_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"song\"? (Options in English.)",
+    "options": [
+      "affiliate",
+      "Australia",
+      "vocal_music",
+      "hot_dark_matter"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00072794n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_155_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"hip_roof\"? (Options in English.)",
+    "options": [
+      "cerebral_aqueduct",
+      "roof",
+      "resort_hotel",
+      "gramophone"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00044207n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_156_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Canidae\"? (Options in English.)",
+    "options": [
+      "mammal_family",
+      "Mercedes-Benz_L3000",
+      "plumb_level",
+      "cassette_player"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00015259n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_157_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Accipitridae\"? (Options in English.)",
+    "options": [
+      "Golden_toad",
+      "taxonomic_group",
+      "guide_word",
+      "gunnery"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00000699n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_158_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"alluvial_sediment\"? (Options in English.)",
+    "options": [
+      "prehensor",
+      "Legal_term",
+      "airbus",
+      "bartlett"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00002949n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_159_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"polysaccharide\"? (Options in English.)",
+    "options": [
+      "branchlet",
+      "baffled",
+      "biopolymer",
+      "climbing_salamander"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00063445n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_160_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"tail\"? (Options in English.)",
+    "options": [
+      "process",
+      "adobo",
+      "aquatic_vertebrate",
+      "Protictitherium"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00075904n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_161_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Soviet_Russia\"? (Options in English.)",
+    "options": [
+      "bumper_car",
+      "arboriculture",
+      "state",
+      "subentry"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068620n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_162_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"antimatter\"? (Options in English.)",
+    "options": [
+      "ballistic_missile",
+      "particle_physics",
+      "abutment_arch",
+      "electric_locomotive"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004689n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_163_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Russia\"? (Options in English.)",
+    "options": [
+      "historical_country",
+      "warren",
+      "buff",
+      "windmill"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00068621n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_164_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"biota\"? (Options in English.)",
+    "options": [
+      "natural_childbirth",
+      "collection",
+      "brown_hyena",
+      "Lake_Buccaneer"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00010550n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_165_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"clothing\"? (Options in English.)",
+    "options": [
+      "farmland",
+      "consumer_goods",
+      "fanjet",
+      "bacteria_species"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00006125n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_166_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"ovary\"? (Options in English.)",
+    "options": [
+      "female_internal_reproductive_organ",
+      "grove",
+      "backpacking_tent",
+      "falls"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00059826n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_167_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"list\"? (Options in English.)",
+    "options": [
+      "bilge",
+      "mews",
+      "commuter",
+      "count"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00051508n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_168_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mammary_gland\"? (Options in English.)",
+    "options": [
+      "ben",
+      "exocrine_gland",
+      "abortus",
+      "gazetteer"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00053078n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_169_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"peerage\"? (Options in English.)",
+    "options": [
+      "water_faucet",
+      "clipper",
+      "Pastýřova_hruška",
+      "nobility"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008655n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_170_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"box\"? (Options in English.)",
+    "options": [
+      "impression",
+      "Jovian_planet",
+      "room",
+      "compartment"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00012525n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_171_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mess\"? (Options in English.)",
+    "options": [
+      "fruit_bat",
+      "gallery",
+      "complex_sentence",
+      "regiment"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00054519n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_172_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"apiary\"? (Options in English.)",
+    "options": [
+      "aba",
+      "operating_system",
+      "jaunting_car",
+      "barn"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004899n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_173_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"desert\"? (Options in English.)",
+    "options": [
+      "tract",
+      "Gekko_(microprocessor)",
+      "alliance",
+      "bumper_car"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00026519n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_174_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"transportation_system\"? (Options in English.)",
+    "options": [
+      "Eodicynodon",
+      "thorax",
+      "Academy_of_Country_Music_Awards",
+      "facility"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00078004n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_175_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"medicine\"? (Options in English.)",
+    "options": [
+      "caecilian",
+      "barbershop",
+      "antiserum",
+      "drug"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00054128n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_176_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Felidae\"? (Options in English.)",
+    "options": [
+      "ampulla",
+      "barrio",
+      "taxonomic_group",
+      "phosphate_buffer_solution"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00032903n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_177_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"tea\"? (Options in English.)",
+    "options": [
+      "Five-a-side_football",
+      "automobile_engine",
+      "beverage",
+      "carnotite"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00076264n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_178_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bolt\"? (Options in English.)",
+    "options": [
+      "digital_watch",
+      "supply-side_economics",
+      "screw",
+      "awlwort"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00011902n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_179_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"carriage\"? (Options in English.)",
+    "options": [
+      "Africa",
+      "horse-drawn_vehicle",
+      "Rustbelt",
+      "Archaeal_Richmond_Mine_acidophilic_nanoorganisms"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00016241n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_180_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"hand_tool\"? (Options in English.)",
+    "options": [
+      "Yumi",
+      "longbow",
+      "tool",
+      "Guatemala"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00042790n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_181_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"whole\"? (Options in English.)",
+    "options": [
+      "insect_head",
+      "Capsicum_pubescens",
+      "object",
+      "Paramesonephric_duct"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00079109n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_182_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"pipe\"? (Options in English.)",
+    "options": [
+      "Macronucleus",
+      "barrel",
+      "chair_of_state",
+      "architectural_structure"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00062568n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_183_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"species\"? (Options in English.)",
+    "options": [
+      "urban_planning",
+      "Taxonomic_rank",
+      "barre_(ballet)",
+      "frog"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00073210n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_184_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"lion\"? (Options in English.)",
+    "options": [
+      "binder",
+      "big_cat",
+      "Pinarocorys",
+      "agglutinogen"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00049156n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_185_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"cell\"? (Options in English.)",
+    "options": [
+      "old_growth",
+      "unit",
+      "bird_family",
+      "Soil_life"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00017027n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_186_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Charophyceae\"? (Options in English.)",
+    "options": [
+      "class",
+      "covenant",
+      "adnexa",
+      "benefit"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00017900n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_187_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bookcase\"? (Options in English.)",
+    "options": [
+      "drizzle",
+      "musical_composition",
+      "native",
+      "assembly"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00012121n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_188_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fortification\"? (Options in English.)",
+    "options": [
+      "building",
+      "wing_case",
+      "minibar",
+      "intranet"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00035991n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_189_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"hoof\"? (Options in English.)",
+    "options": [
+      "armament",
+      "skin",
+      "comestible",
+      "basil_thyme"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00044685n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_190_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"agreement\"? (Options in English.)",
+    "options": [
+      "statement",
+      "fossorial_mammal",
+      "Zone_of_Avoidance",
+      "undercoat"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00002086n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_191_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"arch\"? (Options in English.)",
+    "options": [
+      "fair-trade_agreement",
+      "architectural_element",
+      "Pastis_Henri_Bardouin",
+      "Impatiens_platypetala"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00005387n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_192_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"skin\"? (Options in English.)",
+    "options": [
+      "bloodstream",
+      "bread",
+      "undercoat",
+      "connective_tissue"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00024643n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_193_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"science\"? (Options in English.)",
+    "options": [
+      "Black_hole_electron",
+      "bazaar",
+      "kookaburra",
+      "science"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00069670n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_194_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"uranium_ore\"? (Options in English.)",
+    "options": [
+      "ore",
+      "cantilever",
+      "weald",
+      "Free_public_transport"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00079296n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_195_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"seed\"? (Options in English.)",
+    "options": [
+      "minibar",
+      "rib_cage",
+      "fruit",
+      "corgi"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00070253n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_196_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"bow_and_arrow\"? (Options in English.)",
+    "options": [
+      "Mayflower",
+      "sporting_weapon",
+      "car_train",
+      "mathematical_space"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00012475n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_197_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"chest_of_drawers\"? (Options in English.)",
+    "options": [
+      "kunsthalle",
+      "chyme",
+      "administrative_law",
+      "cabinet"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013948n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_198_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"police_station\"? (Options in English.)",
+    "options": [
+      "station",
+      "finger",
+      "Rico_(dog)",
+      "aileron"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00063322n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_199_en_to_en_diff4",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"faucet\"? (Options in English.)",
+    "options": [
+      "regulator",
+      "barrow",
+      "College_soccer",
+      "barcarole"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 4,
+      "distractor_type": "close_semantic_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00033813n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_200_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"elevator\"? (Options in English.)",
+    "options": [
+      "agglomeration",
+      "Antigua_and_Barbuda",
+      "Mode_of_transport",
+      "keep"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00030333n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_201_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"forest\"? (Options in English.)",
+    "options": [
+      "biome",
+      "Dicamptodontidae",
+      "lithosphere",
+      "giant"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00035868n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_202_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"legislative_act\"? (Options in English.)",
+    "options": [
+      "register",
+      "mountainside",
+      "fortress",
+      "Legal_transaction"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00050588n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_203_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"rain\"? (Options in English.)",
+    "options": [
+      "supercharger",
+      "vascular_tissue",
+      "precipitation",
+      "capillary"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00066032n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_204_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"vessel\"? (Options in English.)",
+    "options": [
+      "container",
+      "benedictine",
+      "acromion",
+      "animal_fiber"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00079863n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_205_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"animal\"? (Options in English.)",
+    "options": [
+      "bunker",
+      "cup",
+      "firm",
+      "taxonomic_group"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004222n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_206_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"planet\"? (Options in English.)",
+    "options": [
+      "church",
+      "planemo",
+      "subject",
+      "berry"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00052888n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_207_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"mansion\"? (Options in English.)",
+    "options": [
+      "telephone_system",
+      "mansion",
+      "relational_database",
+      "rafter"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00042667n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_208_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"sidewalk\"? (Options in English.)",
+    "options": [
+      "blowhole",
+      "breadstuff",
+      "Thoroughfare",
+      "motorcycle"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00061084n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_209_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Aconitum\"? (Options in English.)",
+    "options": [
+      "magnoliid_dicot_genus",
+      "hydride",
+      "Scheuchzeriaceae",
+      "atmosphere"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00000954n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_210_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"adhesive_material\"? (Options in English.)",
+    "options": [
+      "process_material",
+      "virility_drug",
+      "conceptualism",
+      "anaerobe"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00001366n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_211_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"digestive_system\"? (Options in English.)",
+    "options": [
+      "phytoplankton",
+      "certificate",
+      "beet",
+      "system"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00027071n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_212_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"apartment\"? (Options in English.)",
+    "options": [
+      "endband",
+      "unit_of_measurement",
+      "bone",
+      "hinge"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004836n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_213_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"jet_engine\"? (Options in English.)",
+    "options": [
+      "pedal",
+      "Ferdinand_and_Isabella",
+      "internal-combustion_engine",
+      "akee"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00048169n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_214_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"newspaper\"? (Options in English.)",
+    "options": [
+      "fast_reactor",
+      "newspaper",
+      "schlock",
+      "body_part"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00057563n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_215_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"computer_network\"? (Options in English.)",
+    "options": [
+      "Muscovy",
+      "Scheuchzeriaceae",
+      "network",
+      "beak"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00021488n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_216_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"drum_brake\"? (Options in English.)",
+    "options": [
+      "brush",
+      "brake_pedal",
+      "clavier",
+      "hydraulic_brake"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00028895n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_217_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"publication\"? (Options in English.)",
+    "options": [
+      "brake_shoe",
+      "heel_tip",
+      "necessity",
+      "mass_media"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00065106n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_218_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Agnatha\"? (Options in English.)",
+    "options": [
+      "taxonomic_group",
+      "centriole",
+      "kick_starter",
+      "key"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00002048n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_219_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"tape_deck\"? (Options in English.)",
+    "options": [
+      "arrack",
+      "warplane",
+      "Brahms",
+      "electronic_equipment"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00076105n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_220_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"absinth\"? (Options in English.)",
+    "options": [
+      "anthophyllite",
+      "liqueur",
+      "hookup",
+      "Gorno-Altai_Autonomous_Soviet_Socialist_Republic"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00000437n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_221_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"stalk\"? (Options in English.)",
+    "options": [
+      "voussoir",
+      "item",
+      "dinky",
+      "plant_organ"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00073868n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_222_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fetus\"? (Options in English.)",
+    "options": [
+      "wagon_tire",
+      "Mars",
+      "fetus",
+      "public_square"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00034187n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_223_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"gear\"? (Options in English.)",
+    "options": [
+      "winch",
+      "machine",
+      "guard_hair",
+      "Household_chemicals"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00020468n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_224_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"division\"? (Options in English.)",
+    "options": [
+      "stall",
+      "army_unit",
+      "Reoviridae",
+      "aggregate_fruit"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00027911n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_225_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fabric\"? (Options in English.)",
+    "options": [
+      "commodity",
+      "chromosome",
+      "infrastructure",
+      "calving"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00019980n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_226_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"door\"? (Options in English.)",
+    "options": [
+      "key_word",
+      "movable_barrier",
+      "jute",
+      "Acre"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00028247n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_227_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"woody_plant\"? (Options in English.)",
+    "options": [
+      "bullion",
+      "Javanthropus",
+      "vascular_plant",
+      "off-line_equipment"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00051173n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_228_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"lexical_entry\"? (Options in English.)",
+    "options": [
+      "Xenicidae",
+      "entry",
+      "passage",
+      "electric_locomotive"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00026969n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_229_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"daiquiri\"? (Options in English.)",
+    "options": [
+      "cocktail",
+      "Enhydra",
+      "state",
+      "dining_room"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00025026n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_230_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"trailer_truck\"? (Options in English.)",
+    "options": [
+      "porch",
+      "bowstring",
+      "Articulated_vehicle",
+      "tooth"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00006135n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_231_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"fishing_gear\"? (Options in English.)",
+    "options": [
+      "fast_food",
+      "dermis",
+      "terminology",
+      "steam_chest"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00034866n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_232_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"person\"? (Options in English.)",
+    "options": [
+      "Cheremis",
+      "individual",
+      "cavity",
+      "anthozoan"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00046516n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_233_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"tobacco\"? (Options in English.)",
+    "options": [
+      "drug_of_abuse",
+      "archipelago",
+      "glucosamine",
+      "springer"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00007699n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_234_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"municipality\"? (Options in English.)",
+    "options": [
+      "administrative_district",
+      "caraway_seed",
+      "lees",
+      "front_matter"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056337n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_235_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"wheel\"? (Options in English.)",
+    "options": [
+      "machine",
+      "pliers",
+      "humanistic_discipline",
+      "ballroom"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00080972n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_236_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"city\"? (Options in English.)",
+    "options": [
+      "clavier",
+      "administrative_district",
+      "bramble",
+      "Equine_coat_color"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00019320n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_237_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"rib\"? (Options in English.)",
+    "options": [
+      "Enhydra",
+      "bone",
+      "control_system",
+      "round"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00023011n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_238_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"performance\"? (Options in English.)",
+    "options": [
+      "anthozoan",
+      "Aquila",
+      "eggplant",
+      "major"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00061560n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_239_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"multistage_rocket\"? (Options in English.)",
+    "options": [
+      "cruiser",
+      "fanjet",
+      "Raketa",
+      "urogenital_system"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056308n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_240_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"business\"? (Options in English.)",
+    "options": [
+      "Beethoven",
+      "passage",
+      "supercharger",
+      "enterprise"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00014136n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_241_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"structure\"? (Options in English.)",
+    "options": [
+      "toilet_seat",
+      "giblet",
+      "basilica",
+      "artifact"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00022071n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_242_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"barn\"? (Options in English.)",
+    "options": [
+      "apparatus",
+      "ripcord",
+      "type_of_farm_house",
+      "cocoa_butter"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00008614n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_243_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"buckle\"? (Options in English.)",
+    "options": [
+      "Argasidae",
+      "raindrop",
+      "fastener",
+      "grid"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00013600n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_244_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"musical_organization\"? (Options in English.)",
+    "options": [
+      "crustacean",
+      "people",
+      "marketplace",
+      "car"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00056461n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_245_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"kingdom\"? (Options in English.)",
+    "options": [
+      "carotid_artery",
+      "Taxonomic_rank",
+      "lid",
+      "wardrobe"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00049171n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_246_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"continent\"? (Options in English.)",
+    "options": [
+      "D-layer",
+      "Bloody_Mary",
+      "location",
+      "exhaust_manifold"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00022173n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_247_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"apatite\"? (Options in English.)",
+    "options": [
+      "manor_hall",
+      "lexical_database",
+      "apatite_mineral_group",
+      "bird's_foot"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00004841n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_248_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"Hyaenidae\"? (Options in English.)",
+    "options": [
+      "mammal_family",
+      "constituent",
+      "collection",
+      "trunk"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00032990n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "hypernymy_249_en_to_en_diff5",
+    "prompt": "Which of the following is a hypernym (broader category) of the English word \"berry\"? (Options in English.)",
+    "options": [
+      "fruit",
+      "platelet",
+      "ablative_absolute",
+      "Coats_Land"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 5,
+      "distractor_type": "very_close_matches",
+      "generation_time": "2025-07-13T10:46:50.047310Z",
+      "synset_id": "bn:00010067n",
+      "multilingual_mode": "monolingual_en"
+    }
+  }
+]
