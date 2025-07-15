@@ -78,6 +78,10 @@ Modify `language_config.py` to adjust language resource levels and target langua
 
 This project is **not open source** and is licensed under an **All Rights Reserved** model. No part of this repository may be copied, modified, or distributed without explicit written permission.
 
+Unauthorized copying, distribution, or use is prohibited.  
+
+See the [LICENSE](./LICENSE) file for more details.
+
 
 ## Acknowledgments
 
