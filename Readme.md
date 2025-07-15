@@ -74,6 +74,11 @@ Swahili, Icelandic, Maltese, Irish, Welsh, Bosnian, Georgian, Amharic, Uzbek, Ta
 
 Modify `language_config.py` to adjust language resource levels and target language sets. Key parameters in generation scripts include `NUM_QUESTIONS_PER_TYPE`, `NUM_SYNSETS`, `max_depth`, and `max_items`.
 
+## License
+
+This project is **not open source** and is licensed under an **All Rights Reserved** model. No part of this repository may be copied, modified, or distributed without explicit written permission.
+
+
 ## Acknowledgments
 
 - [BabelNet](https://babelnet.org/) for multilingual semantic knowledge
