@@ -195,12 +195,6 @@ Example result path: `results/Analogies/High/model_performance.json`
 
 ---
 
-## 🤝 Contributing
-
-This is a private repository with all rights reserved. Contributions are by invitation only.
-
----
-
 ## 📜 License
 
 **All Rights Reserved**
