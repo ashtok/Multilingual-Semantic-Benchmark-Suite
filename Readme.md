@@ -227,13 +227,4 @@ If you use this benchmark in academic research, please cite:
 
 ---
 
-## 📞 Contact
-
-For questions, collaboration inquiries, or access requests:
-
-- **Email**: [ashtok897@gmail.com]
-- **Organization**: [Your Organization]
-
----
-
 *Last updated: [Current Date]*
