@@ -35,9 +35,6 @@ def fetch_hypernyms(synset, max_items=50):
 def fetch_hyponyms(synset, max_items=50):
     return fetch_edges(synset, pointer=BabelPointer.ANY_HYPONYM, relation_type="hyponym", max_items=max_items)
 
-def fetch_antonyms(synset, max_items=50):
-    return fetch_edges(synset, pointer=BabelPointer.ANTONYM, relation_type="antonym", max_items=max_items)
-
 def fetch_meronyms(synset, max_items=50):
     meronym_pointers = [
         BabelPointer.PART_MERONYM,
@@ -127,7 +124,6 @@ def traverse_synset(synset_id, max_depth, visited, max_items):
         all_relations.extend(fetch_hypernyms(synset, max_items=max_items))
         all_relations.extend(fetch_hyponyms(synset, max_items=max_items))
         all_relations.extend(fetch_meronyms(synset, max_items=max_items))
-        all_relations.extend(fetch_antonyms(synset, max_items=max_items))
         all_relations.extend(get_cohyponyms(synset, max_items=max_items))
 
         for relation in all_relations:
@@ -173,7 +169,7 @@ def process_file(input_file, output_file, max_depth=4, max_items=50):
 if __name__ == "__main__":
     input_path = "../GeneratedFiles/seed_words_10.txt"
     output_path = "../GeneratedFiles/assembled_words.txt"
-    max_depth = 4
-    max_items = 5   # ← adjust this as desired!
+    max_depth = 5
+    max_items = 10   # ← adjust this as desired!
 
     process_file(input_path, output_path, max_depth=max_depth, max_items=max_items)
