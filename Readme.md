@@ -184,7 +184,7 @@ Modify `language_config.py` for language tier customization.
 
 ## 📈 Results Structure
 
-Evaluation results are organized by:
+Evaluation results are organised by:
 
 - **Task Type**: Hypernymy, Meronymy, Analogies
 - **Resource Tier**: High, Medium, Low, Mixed
