@@ -1,14 +1,14 @@
 [
   {
     "id": "meronymy_0_en_to_hr_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"parachute\"? (Options in Croatian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"truck\"? (Options in Croatian.)",
     "options": [
-      "Mehanički_sat",
-      "statički_linija",
-      "časnika_nered",
-      "Logroño"
+      "Autobusni_kolodvor",
+      "dicynodontia",
+      "rukonaslona",
+      "stabilizator_bar"
     ],
-    "answer_index": 1,
+    "answer_index": 3,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -16,21 +16,21 @@
       "to_lang": "hr",
       "difficulty": 1,
       "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00019032n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00056059n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_1_en_to_hr_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"asphyxia\"? (Options in Croatian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"asthma\"? (Options in Croatian.)",
     "options": [
-      "Računalna_sklopovska_podrška",
-      "purulency",
-      "hiperkapniju",
-      "bryophyta"
+      "Starenje",
+      "poluga",
+      "Hidridi",
+      "bronhospazam"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -38,21 +38,21 @@
       "to_lang": "hr",
       "difficulty": 2,
       "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00006415n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00006617n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_2_en_to_hr_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"limb\"? (Options in Croatian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Salpidae\"? (Options in Croatian.)",
     "options": [
-      "ruka",
-      "dodacima",
-      "crus",
-      "ekstremitet"
+      "Plaštenjaci",
+      "rod_salpa",
+      "chordate_obitelj",
+      "Cyclosalpa_bakeri"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -60,19 +60,19 @@
       "to_lang": "hr",
       "difficulty": 3,
       "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00051217n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00033387n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_3_en_to_hr_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cabinet\"? (Options in Croatian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"army\"? (Options in Croatian.)",
     "options": [
-      "kabinet_ministra",
-      "heraldički_autoritet",
-      "kashag",
-      "sud"
+      "oružana_jedinica",
+      "Ratno_zrakoplovstvo",
+      "Mornaričko_pješaštvo",
+      "obalska_straža"
     ],
     "answer_index": 0,
     "metadata": {
@@ -82,21 +82,21 @@
       "to_lang": "hr",
       "difficulty": 4,
       "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00014446n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00005803n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_4_en_to_hr_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"aquatic_mammal\"? (Options in Croatian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"watch\"? (Options in Croatian.)",
     "options": [
-      "pangolin",
-      "šišmiš",
-      "Peraja",
-      "Afrički_mravojed"
+      "pokret",
+      "lice",
+      "gledati_slučaj",
+      "sharpie"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -104,19 +104,19 @@
       "to_lang": "hr",
       "difficulty": 5,
       "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00005218n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00077172n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_5_en_to_sl_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"airfield\"? (Options in Slovenian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"epithelium\"? (Options in Slovenian.)",
     "options": [
-      "Mačke",
-      "Ksilem",
-      "Porphyrio",
-      "letalska_linija"
+      "schutterij",
+      "kolona",
+      "anuresis",
+      "epitelijske_celice"
     ],
     "answer_index": 3,
     "metadata": {
@@ -126,21 +126,21 @@
       "to_lang": "sl",
       "difficulty": 1,
       "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00002286n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00031254n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_6_en_to_sl_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"England\"? (Options in Slovenian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"long_bone\"? (Options in Slovenian.)",
     "options": [
-      "Antiquark",
-      "Lhasa",
-      "kulturne_dobrine",
-      "aire"
+      "cuon",
+      "bullet_vlaka",
+      "endosteum",
+      "vesoljsko_plovilo"
     ],
-    "answer_index": 3,
+    "answer_index": 2,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -148,19 +148,19 @@
       "to_lang": "sl",
       "difficulty": 2,
       "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00030861n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00051925n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_7_en_to_sl_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"limb\"? (Options in Slovenian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Perciformes\"? (Options in Slovenian.)",
     "options": [
-      "koordinatnih_osi",
-      "roka",
-      "ekstremiteta",
-      "flipper"
+      "vretenčar",
+      "takson",
+      "apogonidae",
+      "Nototheniidae"
     ],
     "answer_index": 2,
     "metadata": {
@@ -170,19 +170,19 @@
       "to_lang": "sl",
       "difficulty": 3,
       "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00051217n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00059334n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_8_en_to_sl_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"theater_stage\"? (Options in Slovenian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"electric_locomotive\"? (Options in Slovenian.)",
     "options": [
-      "backstage",
-      "mise_en_scene",
-      "forestage",
-      "Michigansko_jezero"
+      "preklopnik",
+      "iron_horse",
+      "elektromotor",
+      "choo_choo-"
     ],
     "answer_index": 2,
     "metadata": {
@@ -192,21 +192,21 @@
       "to_lang": "sl",
       "difficulty": 4,
       "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00076798n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00030152n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_9_en_to_sl_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Dicynodontia\"? (Options in Slovenian.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Nigeria\"? (Options in Slovenian.)",
     "options": [
-      "delitev_archaebacteria",
-      "chrysophyta",
-      "dicynodont",
-      "srce"
+      "Abuja",
+      "maiduguri",
+      "Lagos",
+      "katsina"
     ],
-    "answer_index": 2,
+    "answer_index": 0,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -214,19 +214,19 @@
       "to_lang": "sl",
       "difficulty": 5,
       "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00026978n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00033918n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_10_en_to_ms_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wall\"? (Options in Malay.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"mortise_joint\"? (Options in Malay.)",
     "options": [
-      "pasir_pengacuan",
-      "melarikan_diri_menetas",
-      "aleurone",
-      "baris"
+      "Laut_Baltik",
+      "bos_indicus",
+      "Danube",
+      "tanggam"
     ],
     "answer_index": 3,
     "metadata": {
@@ -236,19 +236,19 @@
       "to_lang": "ms",
       "difficulty": 1,
       "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00080386n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00055958n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_11_en_to_ms_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"ear\"? (Options in Malay.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chemical_element\"? (Options in Malay.)",
     "options": [
-      "hidangan",
-      "bandar_besar",
-      "gegendang_telinga",
-      "malam"
+      "Cornwall",
+      "rekod_perubatan",
+      "atom",
+      "kripton"
     ],
     "answer_index": 2,
     "metadata": {
@@ -258,21 +258,21 @@
       "to_lang": "ms",
       "difficulty": 2,
       "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00029372n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00018105n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_12_en_to_ms_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"spinal_cord\"? (Options in Malay.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fetal_membrane\"? (Options in Malay.)",
     "options": [
-      "Cauda_equina",
-      "koksiks",
-      "Cecair_serebrospinal",
-      "Tisu_saraf"
+      "caul",
+      "amnion",
+      "tali_pusat",
+      "chorion"
     ],
-    "answer_index": 2,
+    "answer_index": 1,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -280,21 +280,21 @@
       "to_lang": "ms",
       "difficulty": 3,
       "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00054172n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00034161n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_13_en_to_ms_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"tent\"? (Options in Malay.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"social_organization\"? (Options in Malay.)",
     "options": [
-      "gudang_ribut",
-      "pondok",
-      "dawai_lelaki",
-      "dugout"
+      "badan",
+      "sistem_ekonomi",
+      "Kehakiman",
+      "sistem_politik"
     ],
-    "answer_index": 2,
+    "answer_index": 3,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -302,19 +302,19 @@
       "to_lang": "ms",
       "difficulty": 4,
       "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00020602n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00072539n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_14_en_to_ms_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cavalry\"? (Options in Malay.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Great_Lakes\"? (Options in Malay.)",
     "options": [
-      "pokok_angiospermous",
-      "cavalryman",
-      "meriam",
-      "battlegroup"
+      "bakteria_spesies",
+      "Ontario",
+      "Tasik_Superior",
+      "tasik_erie"
     ],
     "answer_index": 1,
     "metadata": {
@@ -324,1273 +324,1273 @@
       "to_lang": "ms",
       "difficulty": 5,
       "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00016873n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_15_en_to_id_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"tracked_vehicle\"? (Options in Indonesian.)",
-    "options": [
-      "Kendaraan_roda_rantai",
-      "kunci_kontak",
-      "Dada",
-      "antipesawat"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "id",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00077847n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_16_en_to_id_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"planet\"? (Options in Indonesian.)",
-    "options": [
-      "Callipepla_californica",
-      "Basel",
-      "biosfer",
-      "antigua"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "id",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00052888n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_17_en_to_id_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sights\"? (Options in Indonesian.)",
-    "options": [
-      "gunsight",
-      "instrumen_optik",
-      "Bidikan_refleks",
-      "lensa_mata"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "id",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00071517n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_18_en_to_id_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"leg\"? (Options in Indonesian.)",
-    "options": [
-      "Lengan_bawah",
-      "pedal_ekstremitas",
-      "crus",
-      "sirip"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "id",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00050542n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_19_en_to_id_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cone\"? (Options in Indonesian.)",
-    "options": [
-      "lingkaran",
-      "disk",
-      "hujung",
-      "Jaeger-LeCoultre"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "id",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00021691n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_20_en_to_sr_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"large_intestine\"? (Options in Serbian.)",
-    "options": [
-      "Слепо_црево",
-      "биолошких_система",
-      "ампхиболе",
-      "ауто_додатак"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sr",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00050017n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_21_en_to_sr_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vault\"? (Options in Serbian.)",
-    "options": [
-      "Ingerophrynus",
-      "фенестелла",
-      "Periodične_publikacije",
-      "опатство"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sr",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00079643n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_22_en_to_sr_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"insect\"? (Options in Serbian.)",
-    "options": [
-      "грицкање_вашка",
-      "Зглавкари",
-      "цлипеус",
-      "Таксон"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sr",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00046870n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_23_en_to_sr_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"economics\"? (Options in Serbian.)",
-    "options": [
-      "Политичке_науке",
-      "наука_о_грађанским_правима_и_дужностима",
-      "прокемицс",
-      "рент-сеекинг"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sr",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00029676n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_24_en_to_sr_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"military_reserve\"? (Options in Serbian.)",
-    "options": [
-      "Противваздухопловна_одбрана",
-      "Ждеравац",
-      "војна_полиција",
-      "резервиста"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sr",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00054985n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_25_en_to_sk_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"military_unit\"? (Options in Slovak.)",
-    "options": [
-      "Plovdiv_(mesto)",
-      "vojak",
-      "isthmus_kra",
-      "porotným"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sk",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00035771n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_26_en_to_sk_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"steam_locomotive\"? (Options in Slovak.)",
-    "options": [
-      "chod",
-      "semenník",
-      "Saint_John's",
-      "parný_stroj"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sk",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00074109n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_27_en_to_sk_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Quebec\"? (Options in Slovak.)",
-    "options": [
-      "pierre_laporte_bridge",
-      "Veľkomesto",
-      "provinčné_hlavné_mesto",
-      "Saguenay"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sk",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00065629n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_28_en_to_sk_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"ear\"? (Options in Slovak.)",
-    "options": [
-      "oko",
-      "baroreceptorov",
-      "enteroceptor",
-      "bubienok_(cicavce)"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sk",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00029372n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_29_en_to_sk_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sand\"? (Options in Slovak.)",
-    "options": [
-      "Pozemný_hokej",
-      "morénová_hlina",
-      "aluviálne_pôda",
-      "kremík"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "sk",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00069126n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_30_en_to_lt_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"anthropology\"? (Options in Lithuanian.)",
-    "options": [
-      "vištienos_drumstick",
-      "Paprastoji_medūza",
-      "upelis",
-      "struktūralizmo"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lt",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00004584n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_31_en_to_lt_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"thermometer\"? (Options in Lithuanian.)",
-    "options": [
-      "Upokšnis",
-      "kapiliaras_vamzdžiai",
-      "stabdys",
-      "para"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lt",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00076877n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_32_en_to_lt_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"operating_system\"? (Options in Lithuanian.)",
-    "options": [
-      "sistemų_programinės_įrangos",
-      "Android",
-      "priežiūros_programos",
-      "Microsoft_Windows"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lt",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00059123n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_33_en_to_lt_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Actiniaria\"? (Options in Lithuanian.)",
-    "options": [
-      "actinomycetales",
-      "acarina",
-      "aepyorniformes",
-      "jūros_anemone"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lt",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00001091n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_34_en_to_lt_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Laminariales\"? (Options in Lithuanian.)",
-    "options": [
-      "eilės_ulvales",
-      "laminariaceae",
-      "Žalėsiečiai",
-      "viešos_kalbos_transliavimas"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lt",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00049793n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_35_en_to_lv_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"ice\"? (Options in Latvian.)",
-    "options": [
-      "ūdens",
-      "vēdera",
-      "Kamambērs",
-      "partizāns"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lv",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00045705n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_36_en_to_lv_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"electronic_equipment\"? (Options in Latvian.)",
-    "options": [
-      "Posttraumatiskā_stresa_sindroms",
-      "kubas_papēža",
-      "elektriskā_ķēde",
-      "candy_termometrs"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lv",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00030251n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_37_en_to_lv_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"roof\"? (Options in Latvian.)",
-    "options": [
-      "gūžas_jumts",
-      "jumts",
-      "dzega",
-      "iegrožot_jumts"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lv",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00068220n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_38_en_to_lv_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"pier\"? (Options in Latvian.)",
-    "options": [
-      "Kancele",
-      "vārnu_ligzdas",
-      "estrāde",
-      "kuģa_sānu"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lv",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00027982n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_39_en_to_lv_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"nucleus\"? (Options in Latvian.)",
-    "options": [
-      "smaguma_centru",
-      "nukloni",
-      "iekšas",
-      "Limfātiskā_sistēma"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "lv",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00058259n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_40_en_to_et_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Iceland\"? (Options in Estonian.)",
-    "options": [
-      "babiit",
-      "islandlane",
-      "krediidi",
-      "Morava"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "et",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00045749n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_41_en_to_et_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"antimatter\"? (Options in Estonian.)",
-    "options": [
-      "hammasratas_ja_hammasvöö",
-      "kynsiharja",
-      "Antiosake",
-      "trumlis_tuvi"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "et",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00004689n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_42_en_to_et_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Brazil\"? (Options in Estonian.)",
-    "options": [
-      "Liiduringkond_(Brasiilia)",
-      "lõuna-ameerika_rahvas",
-      "Belo_Horizonte",
-      "riik"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "et",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00012786n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_43_en_to_et_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"anthropology\"? (Options in Estonian.)",
-    "options": [
-      "Politoloogia",
-      "majandusteadus",
-      "Prokseemika",
-      "strukturalism"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "et",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00004584n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_44_en_to_et_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"toe\"? (Options in Estonian.)",
-    "options": [
-      "varbaküüs",
-      "kikivarvul",
-      "sõrm",
-      "korduv_sündmus"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "et",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00077465n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_45_en_to_th_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Bourbon\"? (Options in Thai.)",
-    "options": [
-      "เหนียงคอ",
-      "ไรโบเฟลวิน",
-      "สายหนัง",
-      "พระเจ้าอ็องรีที่_4_แห่งฝรั่งเศส"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "th",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00012437n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_46_en_to_th_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"planet\"? (Options in Thai.)",
-    "options": [
-      "เรือรบคุ้มกัน",
-      "ภูเขาไฟโกโตปักซี",
-      "เหล็กตีตรา",
-      "ชีวมณฑล"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "th",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00052888n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_47_en_to_th_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chancel\"? (Options in Thai.)",
-    "options": [
-      "โบสถ์",
-      "พื้นที่",
-      "Dáil_éireann",
-      "บริเวณร้องเพลงสวด"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "th",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00009838n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_48_en_to_th_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"pocket\"? (Options in Thai.)",
-    "options": [
-      "Sporran",
-      "กระเป๋าคาดเอว",
-      "ลิ้นปิดกระเป๋า",
-      "ถุงใส่ยาสูบ"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "th",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00063155n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_49_en_to_th_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"lock\"? (Options in Thai.)",
-    "options": [
-      "กระดุม",
-      "กลอน",
-      "ที่รัดสาย",
-      "แทลเลียม"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "th",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00051771n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_50_en_to_vi_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"skeletal_system\"? (Options in Vietnamese.)",
-    "options": [
-      "xương_công_thức",
-      "branchiopod",
-      "Động_vật_Chân_kìm",
-      "Bugbane"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "vi",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00036188n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_51_en_to_vi_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"criminal_law\"? (Options in Vietnamese.)",
-    "options": [
-      "Tuốc_bin_hơi_nước",
-      "Riot_act",
-      "Europol",
-      "máy_nén"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "vi",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00023819n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_52_en_to_vi_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Great_Lakes\"? (Options in Vietnamese.)",
-    "options": [
-      "Hồ_Michigan",
-      "Hồ_Ontario",
-      "nhóm",
-      "Henri_IV_của_Pháp"
-    ],
-    "answer_index": 1,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "vi",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
       "synset_id": "bn:00041580n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_53_en_to_vi_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"exhaust\"? (Options in Vietnamese.)",
+    "id": "meronymy_15_en_to_id_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"attack\"? (Options in Indonesian.)",
     "options": [
-      "Hệ_thống",
-      "hệ_thống_âm_thanh",
-      "van_xả",
-      "adp_hệ_thống"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "vi",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00032215n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_54_en_to_vi_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"spectrum\"? (Options in Vietnamese.)",
-    "options": [
-      "Ma_trận_(toán_học)",
-      "WIMP",
-      "Quang_phổ_vạch",
-      "bản_ghi_cơ_sở_dữ_liệu"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "vi",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00073237n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_55_en_to_fa_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"circulation\"? (Options in Persian.)",
-    "options": [
-      "جمجمه_انسان",
-      ".mp",
-      "مژه",
-      "فشار_خون"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "fa",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00019197n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_56_en_to_fa_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wrist\"? (Options in Persian.)",
-    "options": [
-      "قرقره_رومکروف",
-      "موتور_واکنش",
-      "تقویم",
-      "دالان_مچ_دست"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "fa",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00006143n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_57_en_to_fa_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"zodiac\"? (Options in Persian.)",
-    "options": [
-      "مصنوع_فرهنگی",
-      "خرچنگ_(صورت_فلکی)",
-      "دوجین",
-      "گروهی_از_اجسام"
+      "cyanophyta",
+      "pelanggaran",
+      "angin_utara",
+      "tekstil_mesin"
     ],
     "answer_index": 1,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
       "from_lang": "en",
-      "to_lang": "fa",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00082066n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_58_en_to_fa_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sulfide\"? (Options in Persian.)",
-    "options": [
-      "گوگرد",
-      "اسید",
-      "افزونا",
-      "پذیرنده"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "fa",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00075124n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_59_en_to_fa_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"duck\"? (Options in Persian.)",
-    "options": [
-      "آرکئوپتریکس",
-      "آبزیان_پرنده",
-      "اردک_پایین",
-      "ماشين_زره_دار"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "fa",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00029010n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_60_en_to_hi_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wing\"? (Options in Hindi.)",
-    "options": [
-      "पीड़ाहारी",
-      "जीन_उत्परिवर्तन",
-      "actus_reus",
-      "alula"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "hi",
+      "to_lang": "id",
       "difficulty": 1,
       "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00081336n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00006994n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_61_en_to_hi_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"stream\"? (Options in Hindi.)",
+    "id": "meronymy_16_en_to_id_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"phylum\"? (Options in Indonesian.)",
     "options": [
-      "procyonid",
-      "पाल",
-      "लसीका",
-      "नदी_फोर्ड"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "hi",
-      "difficulty": 2,
-      "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00074588n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_62_en_to_hi_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"radio_receiver\"? (Options in Hindi.)",
-    "options": [
-      "इलेक्ट्रॉनिक_एम्पलीफायर",
-      "इलेक्ट्रानिक_परिपथ",
-      "सुपरहेटरोडाइन_संग्राही",
-      "घड़ी_रेडियो"
+      "bagian",
+      "Gmina",
+      "sistem_sekolah",
+      "Capital_account"
     ],
     "answer_index": 0,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
       "from_lang": "en",
-      "to_lang": "hi",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00065900n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_63_en_to_hi_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"snow\"? (Options in Hindi.)",
-    "options": [
-      "हिमकण",
-      "ओले_के_साथ_वर्षा",
-      "ठीक_स्प्रे",
-      "virga"
-    ],
-    "answer_index": 0,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "hi",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00072455n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_64_en_to_hi_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Carnivora\"? (Options in Hindi.)",
-    "options": [
-      "मांसभक्षी",
-      "cookware",
-      "मस्टेलिडाए",
-      "कैनिडाए"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "hi",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00016142n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_65_en_to_ta_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"head\"? (Options in Tamil.)",
-    "options": [
-      "குழாய்",
-      "கடிய_மூச்சுக்குழல்_அழற்சி",
-      "உடன்பிறப்பு",
-      "செவி"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "ta",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00015784n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_66_en_to_ta_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"seawater\"? (Options in Tamil.)",
-    "options": [
-      "பூக்கோ_தனி_ஊசல்",
-      "Eisenia_arborea",
-      "புரோமின்",
-      "Ceyx"
-    ],
-    "answer_index": 2,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "ta",
+      "to_lang": "id",
       "difficulty": 2,
       "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00013139n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00062148n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_67_en_to_ta_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"brick\"? (Options in Tamil.)",
+    "id": "meronymy_17_en_to_id_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"criminal_law\"? (Options in Indonesian.)",
     "options": [
-      "குசலை",
-      "கட்டிடப்_பொருள்",
-      "சுட்டாங்கல்_(பீங்கான்)",
-      "களிமண்"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "ta",
-      "difficulty": 3,
-      "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00013047n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_68_en_to_ta_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Spain\"? (Options in Tamil.)",
-    "options": [
-      "பெலருஸ்",
-      "பலேரிக்_தீவுகள்",
-      "ஆஸ்திரியா",
-      "பெல்ஜியம்"
+      "hukum_pidana",
+      "Riot_act",
+      "hukum",
+      "baik_hari"
     ],
     "answer_index": 1,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
       "from_lang": "en",
-      "to_lang": "ta",
-      "difficulty": 4,
-      "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00031605n",
+      "to_lang": "id",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00023819n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_69_en_to_ta_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"heart\"? (Options in Tamil.)",
+    "id": "meronymy_18_en_to_id_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"sexual_intercourse\"? (Options in Indonesian.)",
     "options": [
-      "இதயத்தசை",
-      "குடித்தல்",
-      "முடியுருக்_குருதிச்சுற்றோட்டம்",
-      "இதய_அடைப்பிதழ்"
-    ],
-    "answer_index": 3,
-    "metadata": {
-      "resource_pair": "high_resource_to_medium_resource",
-      "prompt_lang": "en",
-      "from_lang": "en",
-      "to_lang": "ta",
-      "difficulty": 5,
-      "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00043383n",
-      "multilingual_mode": "en_to_medium"
-    }
-  },
-  {
-    "id": "meronymy_70_en_to_bn_diff1",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"apatite\"? (Options in Bengali.)",
-    "options": [
-      "ফসফরাস",
-      "troposfera",
-      "ব্যাঙ",
-      "অ্যানাস"
+      "Inseminasi",
+      "autoeroticism",
+      "cumbuan",
+      "kebinatangan"
     ],
     "answer_index": 0,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
       "from_lang": "en",
-      "to_lang": "bn",
-      "difficulty": 1,
-      "distractor_type": "cross_domain_random",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00004841n",
+      "to_lang": "id",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00016124n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_71_en_to_bn_diff2",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"infrastructure\"? (Options in Bengali.)",
+    "id": "meronymy_19_en_to_id_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"production_line\"? (Options in Indonesian.)",
     "options": [
-      "Bombus_cornutus",
-      "বৈদ্যুতিক_শক্তি_ব্যবস্থা",
-      "ওয়েব_ব্রাউজার",
-      "মেষ_(তারকামণ্ডল)"
+      "monoshock",
+      "personil",
+      "ban_berjalan",
+      "pengudaraan"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
       "from_lang": "en",
-      "to_lang": "bn",
+      "to_lang": "id",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00006491n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_20_en_to_sr_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"government\"? (Options in Serbian.)",
+    "options": [
+      "organizacija",
+      "Једногодишња_биљка",
+      "Glyptodontidae",
+      "пбс"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sr",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00007299n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_21_en_to_sr_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cellulose_ester\"? (Options in Serbian.)",
+    "options": [
+      "Северно_море",
+      "Папирус",
+      "Целулоза",
+      "Miss_Angola"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sr",
       "difficulty": 2,
       "distractor_type": "distant_hypernyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00017059n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_22_en_to_sr_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"ice_hockey_rink\"? (Options in Serbian.)",
+    "options": [
+      "Стејплс_центар",
+      "клизалиште",
+      "казненом",
+      "Стадион"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sr",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00045714n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_23_en_to_sr_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"infrastructure\"? (Options in Serbian.)",
+    "options": [
+      "влада_питање",
+      "семену",
+      "гасни_систем",
+      "нагомилати"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sr",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
       "synset_id": "bn:00008794n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
-    "id": "meronymy_72_en_to_bn_diff3",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Greece\"? (Options in Bengali.)",
+    "id": "meronymy_24_en_to_sr_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"playing_field\"? (Options in Serbian.)",
     "options": [
-      "প্রজাতন্ত্র",
-      "ইউক্লিড",
-      "Argos",
-      "এককেন্দ্রিক_রাষ্ট্র"
+      "везни",
+      "центерфиелд",
+      "бојиште",
+      "пропланак"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sr",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00006752n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_25_en_to_sk_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"hand_tool\"? (Options in Slovak.)",
+    "options": [
+      "držadlo",
+      "acarus",
+      "systém_záznamu",
+      "supertitle"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sk",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00042790n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_26_en_to_sk_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"carburetor\"? (Options in Slovak.)",
+    "options": [
+      "dvojitá_brada",
+      "Nakajima_G5N",
+      "Tunisko",
+      "sania_vzduchu"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sk",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00015895n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_27_en_to_sk_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"hindbrain\"? (Options in Slovak.)",
+    "options": [
+      "neurálna_štruktúra",
+      "metencephalon",
+      "Mozoček",
+      "Westminsterské_opátstvo"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sk",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00044171n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_28_en_to_sk_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Carnivora\"? (Options in Slovak.)",
+    "options": [
+      "Tŕňoplutvovce",
+      "actinomycetales",
+      "psovité",
+      "aby_actinomyxidia"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sk",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00016142n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_29_en_to_sk_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"grape\"? (Options in Slovak.)",
+    "options": [
+      "cicavec",
+      "actinidia_arguta",
+      "Adlúmia_hubovitá",
+      "hrozno"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "sk",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00041400n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_30_en_to_lt_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"wing\"? (Options in Lithuanian.)",
+    "options": [
+      "žygiavimas_juosta",
+      "Totoriškas_bifšteksas",
+      "antikvarku",
+      "spyglys"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lt",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00081336n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_31_en_to_lt_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"horse\"? (Options in Lithuanian.)",
+    "options": [
+      "gaskin",
+      "Narkotikai",
+      "dekretas",
+      "sherd"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lt",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00031345n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_32_en_to_lt_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"immune_system\"? (Options in Lithuanian.)",
+    "options": [
+      "Sistema",
+      "biologinių_sistemų",
+      "Kaulų_čiulpai",
+      "makrofagų_sistema"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lt",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00046043n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_33_en_to_lt_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"prison\"? (Options in Lithuanian.)",
+    "options": [
+      "kalėjimo_korpusas",
+      "kalėjimas",
+      "sulaikymas_namas",
+      "mokykla-reformatų"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lt",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00064468n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_34_en_to_lt_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chromosome\"? (Options in Lithuanian.)",
+    "options": [
+      "chromatidė",
+      "Genas",
+      "centromeros",
+      "atomo_branduolys"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lt",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00018895n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_35_en_to_lv_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"cast_iron\"? (Options in Latvian.)",
+    "options": [
+      "fpd",
+      "komponentu_video",
+      "aerostats",
+      "pearlite"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lv",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00016535n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_36_en_to_lv_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"municipality\"? (Options in Latvian.)",
+    "options": [
+      "āķis",
+      "abinieku_suga",
+      "Apvienotās_Karalistes_administratīvais_iedalījums",
+      "palātā"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lv",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00056337n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_37_en_to_lv_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Bermuda\"? (Options in Latvian.)",
+    "options": [
+      "Britu_aizjūras_teritorijas",
+      "sala",
+      "bermudan",
+      "Bermuda_olimpiskajās_spēlēs"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lv",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00010034n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_38_en_to_lv_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Mycobacteriaceae\"? (Options in Latvian.)",
+    "options": [
+      "ģints_mycobacterium",
+      "Bacillaceae",
+      "athiorhodaceae",
+      "actinomycetaceae"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lv",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00033155n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_39_en_to_lv_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"county\"? (Options in Latvian.)",
+    "options": [
+      "pulkstenis",
+      "grāfistes_sēdeklis",
+      "d-slānis",
+      "achaea"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "lv",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00023251n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_40_en_to_et_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Psithyrus\"? (Options in Estonian.)",
+    "options": [
+      "Härjavõitlus",
+      "Settekivim",
+      "conn_sündroom",
+      "kägu-bumblebee"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "et",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00039375n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_41_en_to_et_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"amphibian\"? (Options in Estonian.)",
+    "options": [
+      "Küljejoon",
+      "kolhoos",
+      "riboosi",
+      "klapid"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "et",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00003620n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_42_en_to_et_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"still\"? (Options in Estonian.)",
+    "options": [
+      "coffey_veel",
+      "uurimisinstituut",
+      "alembic",
+      "kondensaator"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "et",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00074288n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_43_en_to_et_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"feline\"? (Options in Estonian.)",
+    "options": [
+      "kärplane",
+      "procyonid",
+      "karu",
+      "käpp"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "et",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00033982n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_44_en_to_et_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"animal\"? (Options in Estonian.)",
+    "options": [
+      "loomset_kude",
+      "animalcule",
+      "centerboard",
+      "atavist"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "et",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00004222n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_45_en_to_th_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vertebrate\"? (Options in Thai.)",
+    "options": [
+      "Severo_Ochoa",
+      "กระดูกซี่โครง",
+      "รอยประสานคร่อมขม่อมหน้า",
+      "มันหมู"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "th",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00023542n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_46_en_to_th_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"dentition\"? (Options in Thai.)",
+    "options": [
+      "ล้อจักรยาน",
+      "ฟัน",
+      "พีระมิด",
+      "ชิ้น"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "th",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00026294n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_47_en_to_th_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"arm\"? (Options in Thai.)",
+    "options": [
+      "องค์",
+      "รยางค์บน",
+      "สุนัขป่าขาว",
+      "กระดูกข้อมือ"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "th",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00005702n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_48_en_to_th_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"nail\"? (Options in Thai.)",
+    "options": [
+      "กรงเล็บ",
+      "เมืองลิตเทิลร็อก",
+      "เล็บ",
+      "รากฟัน"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "th",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00056727n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_49_en_to_th_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"craps\"? (Options in Thai.)",
+    "options": [
+      "รูเล็ตต์",
+      "การพนัน",
+      "การทอดลูกเต๋า",
+      "หวย"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "th",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00023568n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_50_en_to_vi_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"drumstick\"? (Options in Vietnamese.)",
+    "options": [
+      "tối_thịt",
+      "thiết_bị_nổi",
+      "cổng",
+      "màu_vàng_báo_chí"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "vi",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00028911n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_51_en_to_vi_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"furnace_lining\"? (Options in Vietnamese.)",
+    "options": [
+      "chất_màu",
+      "băng_wagon",
+      "fireclay",
+      "Vảy_cá"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "vi",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00036896n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_52_en_to_vi_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"creativity\"? (Options in Vietnamese.)",
+    "options": [
+      "khác_nhau_suy_nghĩ",
+      "pháp_thuật",
+      "sáng_tạo",
+      "cá_tính"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "vi",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00023659n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_53_en_to_vi_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"chin\"? (Options in Vietnamese.)",
+    "options": [
+      "chòm_râu_dê",
+      "mặt_(sinh_học)",
+      "má_(mặt)",
+      "trán"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "vi",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00018426n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_54_en_to_vi_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"muscular_structure\"? (Options in Vietnamese.)",
+    "options": [
+      "Gân",
+      "Dây_chằng",
+      "thực_thể_chính_trị",
+      "cơ"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "vi",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00056383n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_55_en_to_fa_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"musical_notation\"? (Options in Persian.)",
+    "options": [
+      "باستان",
+      "آرنج",
+      "خط_کارکنان",
+      "چکش_آجرچین"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "fa",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00056462n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_56_en_to_fa_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Hymenoptera\"? (Options in Persian.)",
+    "options": [
+      "اسم_ناشمارا",
+      "chalcidae",
+      "ویتنام",
+      "مجموعه_دنده"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "fa",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00045462n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_57_en_to_fa_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"academy\"? (Options in Persian.)",
+    "options": [
+      "آکادمیسین",
+      "آکادمی_ملی_علوم",
+      "فرهنگستان_هنر_تلویزیون_و_علوم",
+      "مدرسه"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "fa",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00000568n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_58_en_to_fa_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"atlas\"? (Options in Persian.)",
+    "options": [
+      "کتاب_آشپزی",
+      "جاینامه",
+      "دانشنامه",
+      "گزارشات_سالانه"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "fa",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00006797n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_59_en_to_fa_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"choir\"? (Options in Persian.)",
+    "options": [
+      "scolion",
+      "اوازه_خوان_جزو_دسته_خوانندگان",
+      "سرود_جمعی",
+      "barcarolle"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "fa",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00018665n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_60_en_to_hi_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"autonomic_nervous_system\"? (Options in Hindi.)",
+    "options": [
+      "bocce",
+      "अल्फावाइरस",
+      "सान्द्रता",
+      "स्वायत्त_नाड़ीग्रन्थि"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "hi",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00004439n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_61_en_to_hi_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Puerto_Rico\"? (Options in Hindi.)",
+    "options": [
+      "ईस्त्री_करना",
+      "एडोबे",
+      "अंत:स्रावी_ग्रंथि",
+      "culebra"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "hi",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00021211n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_62_en_to_hi_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"act\"? (Options in Hindi.)",
+    "options": [
+      "नाटकीय_काम",
+      "बख्तरबंद_डिवीजन",
+      "कलाकृति",
+      "दृश्य"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "hi",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00001078n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_63_en_to_hi_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"vacuum\"? (Options in Hindi.)",
+    "options": [
+      "वस्त्र_निपीडक",
+      "रसोई_उपकरण",
+      "पतलून_प्रेस",
+      "धूल_बैग"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "hi",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00079454n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_64_en_to_hi_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"fruit_tree\"? (Options in Hindi.)",
+    "options": [
+      "तुंग_पेड़",
+      "गोरखचिंच",
+      "adansonia_gregorii",
+      "fruitwood"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "hi",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00036700n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_65_en_to_ta_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"water\"? (Options in Tamil.)",
+    "options": [
+      "இந்தோனேசியா",
+      "ஆக்சிசன்",
+      "Galway",
+      "Euproops"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "ta",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00042379n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_66_en_to_ta_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"malachite\"? (Options in Tamil.)",
+    "options": [
+      "செப்பு",
+      "கொழுமியம்",
+      "உள்ளுணர்வு_ஏற்பி",
+      "மேசைக்_கணினி"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "ta",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00052926n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_67_en_to_ta_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"seawater\"? (Options in Tamil.)",
+    "options": [
+      "பொட்டாசியம்",
+      "தண்ணீர்",
+      "செவ்வலை",
+      "கரைசல்"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "ta",
+      "difficulty": 3,
+      "distractor_type": "direct_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00013139n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_68_en_to_ta_diff4",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Laminariales\"? (Options in Tamil.)",
+    "options": [
+      "chlorococcales",
+      "Laminariaceae",
+      "Oedogoniales",
+      "Charales"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "ta",
+      "difficulty": 4,
+      "distractor_type": "cohyponyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00049793n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_69_en_to_ta_diff5",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Cayman_Islands\"? (Options in Tamil.)",
+    "options": [
+      "இலாமா",
+      "George_Town",
+      "கியூபெக்_பாலம்",
+      "microchiroptera"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "ta",
+      "difficulty": 5,
+      "distractor_type": "close_relations",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00016906n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_70_en_to_bn_diff1",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"kidney\"? (Options in Bengali.)",
+    "options": [
+      "ভূত্বক",
+      "নেফ্রন",
+      "ফেডারেল_ক্যাপিটাল_টেরিটরি",
+      "সমভূমি"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "bn",
+      "difficulty": 1,
+      "distractor_type": "cross_domain_random",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00049083n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_71_en_to_bn_diff2",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"science\"? (Options in Bengali.)",
+    "options": [
+      "বাবা_ভাঙ্গা",
+      "কয়লা",
+      "বৈজ্ঞানিক_তত্ত্ব",
+      "সামুদ্রিক_শসা"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_medium_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "bn",
+      "difficulty": 2,
+      "distractor_type": "distant_hypernyms",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00069670n",
+      "multilingual_mode": "en_to_medium"
+    }
+  },
+  {
+    "id": "meronymy_72_en_to_bn_diff3",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"calf\"? (Options in Bengali.)",
+    "options": [
+      "Île_Saint-Louis",
+      "গরু",
+      "বাছুরের_মাংস",
+      "কোয়া-জুলু_নাটাল_প্রদেশ"
     ],
     "answer_index": 2,
     "metadata": {
@@ -1600,21 +1600,21 @@
       "to_lang": "bn",
       "difficulty": 3,
       "distractor_type": "direct_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00030401n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00014717n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_73_en_to_bn_diff4",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"movie\"? (Options in Bengali.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Guatemala\"? (Options in Bengali.)",
     "options": [
-      "homo_rhodesiensis",
-      "উপশিরোনাম_(পরিচয়লিপিকরণ)",
-      "খণ্ড",
-      "যুক্তরাষ্ট্রীয়_প্রজাতন্ত্র"
+      "এল_সালভাদোর",
+      "কোস্টা_রিকা",
+      "গুয়াতেমালা_সিটি",
+      "হন্ডুরাস"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "metadata": {
       "resource_pair": "high_resource_to_medium_resource",
       "prompt_lang": "en",
@@ -1622,19 +1622,19 @@
       "to_lang": "bn",
       "difficulty": 4,
       "distractor_type": "cohyponyms",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00034471n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00042068n",
       "multilingual_mode": "en_to_medium"
     }
   },
   {
     "id": "meronymy_74_en_to_bn_diff5",
-    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"America\"? (Options in Bengali.)",
+    "prompt": "Which of the following is a meronym (part, component, or member) of the English word \"Lithuania\"? (Options in Bengali.)",
     "options": [
-      "উত্তর_আমেরিকা",
-      "মধ্য_আমেরিকা",
-      "আন্দালুসিয়া",
-      "দক্ষিণ_আমেরিকা"
+      "Klaǐpēda",
+      "ভ্যাকুয়াম_ক্লিনার",
+      "ভিলনিউস",
+      "Kaunas"
     ],
     "answer_index": 3,
     "metadata": {
@@ -1644,8 +1644,8 @@
       "to_lang": "bn",
       "difficulty": 5,
       "distractor_type": "close_relations",
-      "generation_time": "2025-07-27T16:53:58.254739Z",
-      "synset_id": "bn:00003342n",
+      "generation_time": "2025-07-29T20:06:29.047948Z",
+      "synset_id": "bn:00051034n",
       "multilingual_mode": "en_to_medium"
     }
   }

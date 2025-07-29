@@ -701,6 +701,7 @@ def main():
         MultilingualMode.EN_TO_MEDIUM,
         MultilingualMode.EN_TO_LOW,
         MultilingualMode.MONOLINGUAL_EN,
+        MultilingualMode.EN_TO_ALL,
         MultilingualMode.ALL
     ]
 
@@ -708,7 +709,7 @@ def main():
     for task_type, relation_field, task_name in tasks:
         for mode in modes:
             if mode == MultilingualMode.MONOLINGUAL_EN:
-                target_questions = 1000
+                target_questions = 1100
             elif mode == MultilingualMode.ALL:
                 target_questions = 2
             else:
@@ -732,33 +733,39 @@ if __name__ == "__main__":
 
 
 # Generating hypernymy questions (en_to_high)...
-# Generated 12000 questions for 24 language pairs
+# Generated 120 questions for 24 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_high.json
 # Generating hypernymy questions (en_to_medium)...
-# Generated 7500 questions for 15 language pairs
+# Generated 75 questions for 15 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_medium.json
 # Generating hypernymy questions (en_to_low)...
-# Generated 4898 questions for 10 language pairs
+# Generated 50 questions for 10 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_low.json
 # Generating hypernymy questions (monolingual_en)...
-# Generated 500 questions for 1 language pairs
+# Generated 1087 questions for 1 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_monolingual_en.json
+# Generating hypernymy questions (en_to_all)...
+# Generated 245 questions for 49 language pairs
+# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_all.json
 # Generating hypernymy questions (all)...
-# Generated 61275 questions for 2451 language pairs
+# Generated 4902 questions for 2451 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_all.json
 # Generating meronymy questions (en_to_high)...
-# Generated 12000 questions for 24 language pairs
+# Generated 120 questions for 24 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_high.json
 # Generating meronymy questions (en_to_medium)...
-# Generated 7419 questions for 15 language pairs
+# Generated 75 questions for 15 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_medium.json
 # Generating meronymy questions (en_to_low)...
-# Generated 4568 questions for 10 language pairs
+# Generated 50 questions for 10 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_low.json
 # Generating meronymy questions (monolingual_en)...
-# Generated 500 questions for 1 language pairs
+# Generated 1087 questions for 1 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_monolingual_en.json
+# Generating meronymy questions (en_to_all)...
+# Generated 245 questions for 49 language pairs
+# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_all.json
 # Generating meronymy questions (all)...
-# Generated 61275 questions for 2451 language pairs
+# Generated 4902 questions for 2451 language pairs
 # Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_all.json
 # Question generation complete!
