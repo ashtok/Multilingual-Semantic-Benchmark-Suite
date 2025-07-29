@@ -18,8 +18,8 @@ from tqdm import tqdm
 # Path to your file with 500 BabelNet IDs
 BABELNET_IDS_FILE = "../GeneratedFiles/babelnet_with_relations.txt"
 
-# How many synsets to sample
-NUM_SYNSETS = 497
+# Process all synsets in the file (set to None to process all)
+NUM_SYNSETS = None
 
 # Output file
 OUTPUT_JSON = "../GeneratedFiles/JsonFiles/multilingual_babelnet_relations.json"
@@ -32,11 +32,47 @@ ALL_LANGUAGES = {
 }
 
 
-
 def load_babelnet_ids(path):
     with open(path, "r", encoding="utf-8") as f:
         ids = [line.strip() for line in f if line.strip()]
     return ids
+
+
+def get_glossary_and_examples(synset):
+    """Extract *English only* glossary and examples from a synset."""
+    glossary_data = {}
+    examples_data = {}
+
+    try:
+        glosses = synset.glosses()
+        if glosses:
+            for gloss in glosses:
+                if gloss.language == Language.EN:
+                    glossary_data['en'] = {
+                        'text': gloss.gloss,
+                        'language': gloss.language.name,
+                        'source': str(getattr(gloss, 'source', 'Unknown'))
+                    }
+    except Exception as e:
+        print(f"[DEBUG] Error fetching glosses: {e}")
+
+    try:
+        examples = synset.examples()
+        if examples:
+            for example in examples:
+                if example.language == Language.EN:
+                    if 'en' not in examples_data:
+                        examples_data['en'] = []
+
+                    examples_data['en'].append({
+                        'text': example.example,
+                        'language': example.language.name,
+                        'source': str(getattr(example, 'source', 'Unknown'))
+                    })
+    except Exception as e:
+        print(f"[DEBUG] Error fetching examples: {e}")
+
+    return glossary_data, examples_data
 
 
 def fetch_synset_relations(synset_id_str, max_items=10):
@@ -63,10 +99,15 @@ def fetch_synset_relations(synset_id_str, max_items=10):
     # Main synset translations
     translations = get_multilingual_translations(synset, ALL_LANGUAGES)
 
+    # Get glossary and examples
+    glossary, examples = get_glossary_and_examples(synset)
+
     synset_data = {
         "synset_id": synset_id_str,
         "lemma_en": lemma,
         "translations": translations,
+        "glossary": glossary,
+        "examples": examples,
         "hypernyms": hypernyms,
         "hyponyms": hyponyms,
         "meronyms": meronyms,
@@ -115,12 +156,19 @@ def enrich_with_translations(items):
 
 def main():
     all_ids = load_babelnet_ids(BABELNET_IDS_FILE)
-    sampled_ids = random.sample(all_ids, min(NUM_SYNSETS, len(all_ids)))
+
+    # Process all synsets if NUM_SYNSETS is None, otherwise sample
+    if NUM_SYNSETS is None:
+        synsets_to_process = all_ids
+        print(f"📝 Processing all {len(all_ids)} synsets from the file")
+    else:
+        synsets_to_process = random.sample(all_ids, min(NUM_SYNSETS, len(all_ids)))
+        print(f"📝 Processing {len(synsets_to_process)} randomly sampled synsets")
 
     start_time = time.time()
 
     dataset = []
-    for synset_id in tqdm(sampled_ids, desc="Processing synsets", unit="synset"):
+    for synset_id in tqdm(synsets_to_process, desc="Processing synsets", unit="synset"):
         data = fetch_synset_relations(synset_id, max_items=5)
         if data:
             dataset.append(data)
@@ -132,6 +180,17 @@ def main():
         json.dump(dataset, f, ensure_ascii=False, indent=2)
 
     print(f"\n✅ Done. Dataset saved to: {OUTPUT_JSON}")
+
+    # Print some statistics
+    glossary_count = sum(1 for item in dataset if item.get('glossary'))
+    examples_count = sum(1 for item in dataset if item.get('examples'))
+    both_count = sum(1 for item in dataset if item.get('glossary') and item.get('examples'))
+
+    print(f"📊 Statistics:")
+    print(f"   - Total synsets processed: {len(dataset)}")
+    print(f"   - Synsets with glossary: {glossary_count}")
+    print(f"   - Synsets with examples: {examples_count}")
+    print(f"   - Synsets with both glossary and examples: {both_count}")
 
 
 if __name__ == "__main__":
