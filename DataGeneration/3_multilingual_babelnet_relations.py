@@ -19,7 +19,7 @@ from tqdm import tqdm
 BABELNET_IDS_FILE = "../GeneratedFiles/babelnet_with_relations.txt"
 
 # Process all synsets in the file (set to None to process all)
-NUM_SYNSETS = None
+NUM_SYNSETS = 1000
 
 # Output file
 OUTPUT_JSON = "../GeneratedFiles/JsonFiles/multilingual_babelnet_relations.json"
@@ -39,40 +39,73 @@ def load_babelnet_ids(path):
 
 
 def get_glossary_and_examples(synset):
-    """Extract *English only* glossary and examples from a synset."""
+    """Extract *English only* glossary and examples, preferring wn > wn2020 > others."""
     glossary_data = {}
     examples_data = {}
 
+    # Preference order
+    SOURCE_PRIORITY = ['wn', 'wn2020']
+
     try:
-        glosses = synset.glosses()
+        glosses = [g for g in synset.glosses() if g.language == Language.EN]
         if glosses:
-            for gloss in glosses:
-                if gloss.language == Language.EN:
-                    glossary_data['en'] = {
-                        'text': gloss.gloss,
-                        'language': gloss.language.name,
-                        'source': str(getattr(gloss, 'source', 'Unknown'))
-                    }
+            # Group glosses by source
+            gloss_by_source = {str(getattr(g, 'source', 'Unknown')).lower(): g for g in glosses}
+
+            # Try preferred sources first
+            chosen_gloss = None
+            for preferred in SOURCE_PRIORITY:
+                if preferred in gloss_by_source:
+                    chosen_gloss = gloss_by_source[preferred]
+                    break
+            # If no preferred, pick the first available gloss
+            if not chosen_gloss and gloss_by_source:
+                chosen_gloss = next(iter(gloss_by_source.values()))
+
+            if chosen_gloss:
+                source_str = str(getattr(chosen_gloss, 'source', 'Unknown'))
+                print(f"Glossary: {chosen_gloss.gloss} | Source: {source_str}")
+                glossary_data['en'] = {
+                    'text': chosen_gloss.gloss,
+                    'language': chosen_gloss.language.name,
+                    'source': source_str
+                }
+
     except Exception as e:
         print(f"[DEBUG] Error fetching glosses: {e}")
 
     try:
-        examples = synset.examples()
+        examples = [ex for ex in synset.examples() if ex.language == Language.EN]
         if examples:
-            for example in examples:
-                if example.language == Language.EN:
-                    if 'en' not in examples_data:
-                        examples_data['en'] = []
+            # Group examples by source
+            examples_by_source = {}
+            for ex in examples:
+                src = str(getattr(ex, 'source', 'Unknown')).lower()
+                examples_by_source.setdefault(src, []).append(ex)
 
-                    examples_data['en'].append({
-                        'text': example.example,
-                        'language': example.language.name,
-                        'source': str(getattr(example, 'source', 'Unknown'))
+            chosen_examples = None
+            for preferred in SOURCE_PRIORITY:
+                if preferred in examples_by_source:
+                    chosen_examples = examples_by_source[preferred]
+                    break
+            if not chosen_examples and examples_by_source:
+                chosen_examples = next(iter(examples_by_source.values()))
+
+            if chosen_examples:
+                for ex in chosen_examples:
+                    source_str = str(getattr(ex, 'source', 'Unknown'))
+                    print(f"Example: {ex.example} | Source: {source_str}")
+                    examples_data.setdefault('en', []).append({
+                        'text': ex.example,
+                        'language': ex.language.name,
+                        'source': source_str
                     })
+
     except Exception as e:
         print(f"[DEBUG] Error fetching examples: {e}")
 
     return glossary_data, examples_data
+
 
 
 def fetch_synset_relations(synset_id_str, max_items=10):
