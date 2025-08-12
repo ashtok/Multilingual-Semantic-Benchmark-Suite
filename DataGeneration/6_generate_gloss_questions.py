@@ -233,17 +233,35 @@ def main():
     generator = GlossQuestionGenerator(data)
 
     modes = [
-        MultilingualMode.EN_TO_HIGH,
-        MultilingualMode.EN_TO_MEDIUM,
-        MultilingualMode.EN_TO_LOW,
-        MultilingualMode.MONOLINGUAL_EN,
-        MultilingualMode.ALL
+        (MultilingualMode.EN_TO_HIGH, 200),
+        (MultilingualMode.EN_TO_MEDIUM, 200),
+        (MultilingualMode.EN_TO_LOW, 200),
+        (MultilingualMode.MONOLINGUAL_EN, 1100),
+        (MultilingualMode.ALL, 15)
     ]
 
-    for mode in modes:
+    # Generate questions for each mode
+    for mode, target_questions in modes:
         output_file = f"../GeneratedFiles/JsonFiles/Gloss/gloss_questions_{mode.value}.json"
-        generator.generate_gloss_questions(output_file, mode, target_questions_per_pair=50)
+        generator.generate_gloss_questions(output_file, mode, target_questions)
 
 
 if __name__ == "__main__":
     main()
+
+
+    # Generating gloss-based questions (en_to_high)...
+    # Generated 4752 questions across 24 language pairs
+    # Saved to: ../GeneratedFiles/JsonFiles/Gloss/gloss_questions_en_to_high.json
+    # Generating gloss-based questions (en_to_medium)...
+    # Generated 2970 questions across 15 language pairs
+    # Saved to: ../GeneratedFiles/JsonFiles/Gloss/gloss_questions_en_to_medium.json
+    # Generating gloss-based questions (en_to_low)...
+    # Generated 1980 questions across 10 language pairs
+    # Saved to: ../GeneratedFiles/JsonFiles/Gloss/gloss_questions_en_to_low.json
+    # Generating gloss-based questions (monolingual_en)...
+    # Generated 1098 questions across 1 language pairs
+    # Saved to: ../GeneratedFiles/JsonFiles/Gloss/gloss_questions_monolingual_en.json
+    # Generating gloss-based questions (all)...
+    # Generated 750 questions across 50 language pairs
+    # Saved to: ../GeneratedFiles/JsonFiles/Gloss/gloss_questions_all.json

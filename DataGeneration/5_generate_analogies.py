@@ -506,11 +506,11 @@ def main():
 
     # Define modes and their target question counts
     modes = [
-        (MultilingualMode.EN_TO_HIGH, 100),
-        (MultilingualMode.EN_TO_MEDIUM, 100),
-        (MultilingualMode.EN_TO_LOW, 100),
-        (MultilingualMode.MONOLINGUAL_EN, 400),
-        (MultilingualMode.ALL, 10)
+        (MultilingualMode.EN_TO_HIGH, 200),
+        (MultilingualMode.EN_TO_MEDIUM, 200),
+        (MultilingualMode.EN_TO_LOW, 200),
+        (MultilingualMode.MONOLINGUAL_EN, 1100),
+        (MultilingualMode.ALL, 15)
     ]
 
     # Generate questions for each mode
@@ -533,18 +533,18 @@ if __name__ == "__main__":
 
         # Loading data...
         # Generating analogy questions (en_to_high)...
-        # Generated 2400 questions for 24 language pairs
+        # Generated 4800 questions for 24 language pairs
         # Saved to: ../GeneratedFiles/JsonFiles/Analogies/semantic_analogy_questions_en_to_high.json
         # Generating analogy questions (en_to_medium)...
-        # Generated 1500 questions for 15 language pairs
+        # Generated 3000 questions for 15 language pairs
         # Saved to: ../GeneratedFiles/JsonFiles/Analogies/semantic_analogy_questions_en_to_medium.json
         # Generating analogy questions (en_to_low)...
-        # Generated 1000 questions for 10 language pairs
+        # Generated 2000 questions for 10 language pairs
         # Saved to: ../GeneratedFiles/JsonFiles/Analogies/semantic_analogy_questions_en_to_low.json
         # Generating analogy questions (monolingual_en)...
-        # Generated 400 questions for 1 language pairs
+        # Generated 1100 questions for 1 language pairs
         # Saved to: ../GeneratedFiles/JsonFiles/Analogies/semantic_analogy_questions_monolingual_en.json
         # Generating analogy questions (all)...
-        # Generated 24510 questions for 2451 language pairs
+        # Generated 36765 questions for 2451 language pairs
         # Saved to: ../GeneratedFiles/JsonFiles/Analogies/semantic_analogy_questions_all.json
         # Analogy question generation complete!
