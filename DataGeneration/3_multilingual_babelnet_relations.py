@@ -19,7 +19,7 @@ from tqdm import tqdm
 BABELNET_IDS_FILE = "../GeneratedFiles/babelnet_with_relations.txt"
 
 # Process all synsets in the file (set to None to process all)
-NUM_SYNSETS = 1000
+NUM_SYNSETS = None
 
 # Output file
 OUTPUT_JSON = "../GeneratedFiles/JsonFiles/multilingual_babelnet_relations.json"

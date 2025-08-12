@@ -54,10 +54,12 @@ class Question:
 
 
 class QuestionGenerator:
-    def __init__(self, data: List[Dict], min_distractors: int = 3, n_choices: int = 4):
+    def __init__(self, data: List[Dict], min_distractors: int = 3, n_choices: int = 4,
+                 prompt_style: str = "instructional"):
         self.data = data
         self.min_distractors = min_distractors
         self.n_choices = n_choices
+        self.prompt_style = prompt_style
         self.synset_lookup = self._build_synset_lookup()
         self.lemma_lookup, self.semantic_relations = self._build_lemma_lookup()
         self.synset_to_entry = {entry.get("synset_id"): entry for entry in data if entry.get("synset_id")}
@@ -461,10 +463,171 @@ class QuestionGenerator:
 
     def _create_prompt_text(self, task_type: str, from_code: str, to_code: str,
                             prompt_word: str) -> Tuple[str, str]:
-        """Create prompt text for the question."""
+        """Create prompt text for the question using the specified prompt style."""
         from_lang_name, _ = self._get_lang_info(from_code)
         to_lang_name, _ = self._get_lang_info(to_code)
 
+        if self.prompt_style == "direct":
+            return self._create_direct_prompt(task_type, from_code, to_code, prompt_word, from_lang_name, to_lang_name)
+        elif self.prompt_style == "instructional":
+            return self._create_instructional_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                     to_lang_name)
+        elif self.prompt_style == "few_shot":
+            return self._create_few_shot_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                to_lang_name)
+        elif self.prompt_style == "cot":
+            return self._create_chain_of_thought_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                        to_lang_name)
+        elif self.prompt_style == "multilingual_aware":
+            return self._create_multilingual_aware_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                          to_lang_name)
+        elif self.prompt_style == "template":
+            return self._create_template_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                to_lang_name)
+        else:
+            # Default fallback to original style
+            return self._create_original_prompt(task_type, from_code, to_code, prompt_word, from_lang_name,
+                                                to_lang_name)
+
+    def _create_direct_prompt(self, task_type: str, from_code: str, to_code: str,
+                              prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Simple, direct prompt style."""
+        relation_phrases = {
+            "hypernymy": "hypernym",
+            "meronymy": "meronym"
+        }
+
+        relation = relation_phrases.get(task_type, "related concept")
+
+        if from_code == to_code:
+            prompt = f"What is a {relation} of \"{prompt_word}\"?"
+        else:
+            prompt = f"What is a {relation} of the {from_lang_name} word \"{prompt_word}\"? Answer in {to_lang_name}."
+
+        return prompt, "en"
+
+    def _create_instructional_prompt(self, task_type: str, from_code: str, to_code: str,
+                                     prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Clear instructional prompt with definitions."""
+        definitions = {
+            "hypernymy": "A hypernym is a word that represents a broader category or generalization",
+            "meronymy": "A meronym is a word that represents a part, component, or member of something"
+        }
+
+        examples = {
+            "hypernymy": "For example, 'animal' is a hypernym of 'dog'",
+            "meronymy": "For example, 'wheel' is a meronym of 'car'"
+        }
+
+        definition = definitions.get(task_type, "A semantic relation")
+        example = examples.get(task_type, "")
+
+        if from_code == to_code:
+            prompt = f"{definition}. {example}. Which option is a {task_type.replace('y', '')} of \"{prompt_word}\"?"
+        else:
+            prompt = (f"{definition}. {example}. "
+                      f"Which option is a {task_type.replace('y', '')} of the {from_lang_name} word \"{prompt_word}\"? "
+                      f"Select the correct {to_lang_name} translation.")
+
+        return prompt, "en"
+
+    def _create_few_shot_prompt(self, task_type: str, from_code: str, to_code: str,
+                                prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Few-shot prompt with examples."""
+        if task_type == "hypernymy":
+            examples = [
+                "rose → flower (a rose is a type of flower)",
+                "sparrow → bird (a sparrow is a type of bird)"
+            ]
+            task_desc = "broader category"
+        else:  # meronymy
+            examples = [
+                "engine → car (an engine is part of a car)",
+                "page → book (a page is part of a book)"
+            ]
+            task_desc = "part or component"
+
+        example_text = "\n".join([f"Example: {ex}" for ex in examples])
+
+        if from_code == to_code:
+            prompt = (f"Find the {task_desc} relationship:\n\n{example_text}\n\n"
+                      f"Now find the {task_desc} of: {prompt_word}")
+        else:
+            prompt = (f"Find the {task_desc} relationship:\n\n{example_text}\n\n"
+                      f"Now find the {task_desc} of the {from_lang_name} word \"{prompt_word}\" "
+                      f"from the {to_lang_name} options below:")
+
+        return prompt, "en"
+
+    def _create_chain_of_thought_prompt(self, task_type: str, from_code: str, to_code: str,
+                                        prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Chain-of-thought style prompt encouraging reasoning."""
+        if task_type == "hypernymy":
+            reasoning_guide = ("Think step by step: What broader category does this word belong to? "
+                               "What is a more general term that includes this concept?")
+        else:  # meronymy
+            reasoning_guide = ("Think step by step: What could this word be a part of? "
+                               "What larger whole might contain this as a component?")
+
+        if from_code == to_code:
+            prompt = f"{reasoning_guide} What is a {task_type.replace('y', '')} of \"{prompt_word}\"?"
+        else:
+            prompt = (f"{reasoning_guide} "
+                      f"Given the {from_lang_name} word \"{prompt_word}\", "
+                      f"which {to_lang_name} option represents the correct {task_type.replace('y', '')}?")
+
+        return prompt, "en"
+
+    def _create_multilingual_aware_prompt(self, task_type: str, from_code: str, to_code: str,
+                                          prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Multilingual-aware prompt that's clearer about language switching."""
+        if from_code == to_code:
+            # Monolingual case
+            prompt = f"Select the {task_type.replace('y', '')} of \"{prompt_word}\":"
+        else:
+            # Cross-lingual case
+            prompt = (f"Language task: Given the {from_lang_name} word \"{prompt_word}\", "
+                      f"identify its {task_type.replace('y', '')} from the {to_lang_name} options. "
+                      f"Choose the {to_lang_name} word that represents the correct semantic relationship.")
+
+        return prompt, "en"
+
+    def _create_template_prompt(self, task_type: str, from_code: str, to_code: str,
+                                prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Template-based prompt for maximum consistency."""
+
+        # Base templates
+        templates = {
+            "monolingual": "Select the {relation} of \"{word}\":",
+            "crosslingual": "Given the {from_lang} word \"{word}\", select its {relation} in {to_lang}:",
+            "explicit": "Which of the following {to_lang} words is a {relation} of the {from_lang} word \"{word}\"?"
+        }
+
+        relation_names = {
+            "hypernymy": "hypernym (broader category)",
+            "meronymy": "meronym (part/component)"
+        }
+
+        if from_code == to_code:
+            template = templates["monolingual"]
+            prompt = template.format(
+                relation=relation_names[task_type],
+                word=prompt_word
+            )
+        else:
+            template = templates["explicit"]  # Most explicit for cross-lingual
+            prompt = template.format(
+                to_lang=to_lang_name,
+                relation=relation_names[task_type],
+                from_lang=from_lang_name,
+                word=prompt_word
+            )
+
+        return prompt, "en"
+
+    def _create_original_prompt(self, task_type: str, from_code: str, to_code: str,
+                                prompt_word: str, from_lang_name: str, to_lang_name: str) -> Tuple[str, str]:
+        """Original prompt style for backward compatibility."""
         relation_phrases = {
             "hypernymy": "a hypernym (broader category)",
             "meronymy": "a meronym (part, component, or member)"
@@ -687,8 +850,10 @@ def main():
     with open("../GeneratedFiles/JsonFiles/multilingual_babelnet_relations.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Initialize generator
-    generator = QuestionGenerator(data)
+    # Initialize generator with different prompt styles
+    # Available styles: "direct", "instructional", "few_shot", "cot", "multilingual_aware", "template", "original"
+    prompt_style = "direct"  # Change this to test different prompt styles
+    generator = QuestionGenerator(data, prompt_style=prompt_style)
 
     # Define tasks to generate
     tasks = [
@@ -711,9 +876,9 @@ def main():
             if mode == MultilingualMode.MONOLINGUAL_EN:
                 target_questions = 1100
             elif mode == MultilingualMode.ALL:
-                target_questions = 2
+                target_questions = 15
             else:
-                target_questions = 5
+                target_questions = 200
 
             output_file = f"../GeneratedFiles/JsonFiles/{task_name}/{task_type}_questions_{mode.value}.json"
 
@@ -732,40 +897,30 @@ if __name__ == "__main__":
     main()
 
 
-# Generating hypernymy questions (en_to_high)...
-# Generated 120 questions for 24 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_high.json
-# Generating hypernymy questions (en_to_medium)...
-# Generated 75 questions for 15 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_medium.json
-# Generating hypernymy questions (en_to_low)...
-# Generated 50 questions for 10 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_low.json
-# Generating hypernymy questions (monolingual_en)...
-# Generated 1087 questions for 1 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_monolingual_en.json
-# Generating hypernymy questions (en_to_all)...
-# Generated 245 questions for 49 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_en_to_all.json
-# Generating hypernymy questions (all)...
-# Generated 4902 questions for 2451 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Hypernymy/hypernymy_questions_all.json
-# Generating meronymy questions (en_to_high)...
-# Generated 120 questions for 24 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_high.json
-# Generating meronymy questions (en_to_medium)...
-# Generated 75 questions for 15 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_medium.json
-# Generating meronymy questions (en_to_low)...
-# Generated 50 questions for 10 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_low.json
-# Generating meronymy questions (monolingual_en)...
-# Generated 1087 questions for 1 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_monolingual_en.json
-# Generating meronymy questions (en_to_all)...
-# Generated 245 questions for 49 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_en_to_all.json
-# Generating meronymy questions (all)...
-# Generated 4902 questions for 2451 language pairs
-# Saved to: ../GeneratedFiles/JsonFiles/Meronymy/meronymy_questions_all.json
-# Question generation complete!
+
+# 1. "direct"
+# "What is a hypernym of the English word "grape"? Answer in Spanish."
+
+# 2. "instructional"
+# "A hypernym is a word that represents a broader category or generalization. For example, 'animal' is a hypernym of 'dog'. Which option is a hypernym of the English word "grape"? Select the correct Spanish translation."
+
+# 3. "few_shot"
+# "Find the broader category relationship:
+
+# Example: rose → flower (a rose is a type of flower)
+# Example: sparrow → bird (a sparrow is a type of bird)
+#
+# Now find the broader category of the English word "grape" from the Spanish options below:"
+
+# 4. "cot" (Chain of Thought)
+# "Think step by step: What broader category does this word belong to? What is a more general term that includes this concept? Given the English word "grape", which Spanish option represents the correct hypernym?"
+
+# 5. "multilingual_aware"
+# "Language task: Given the English word "grape", identify its hypernym from the Spanish options. Choose the Spanish word that represents the correct semantic relationship."
+
+# 6. "template"
+# "Which of the following Spanish words is a hypernym (broader category) of the English word "grape"?"
+
+# 7. "original" (Your current style)
+# "Which of the following is a hypernym (broader category) of the English word "grape"? (Options in Spanish.)"
+

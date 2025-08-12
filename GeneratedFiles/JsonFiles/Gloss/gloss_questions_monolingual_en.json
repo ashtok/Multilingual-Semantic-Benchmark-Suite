@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "gloss_0_en_to_en_diff1",
+    "prompt": "Definition: A suite of rooms usually on one floor of an apartment house\n\nWhich word matches this definition?",
+    "options": [
+      "ball_field",
+      "apartment",
+      "Carnivora",
+      "stream"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00004836n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_1_en_to_en_diff1",
+    "prompt": "Definition: A farm building for housing horses or other livestock\n\nWhich word matches this definition?",
+    "options": [
+      "vestibular_apparatus",
+      "Cayman_Islands",
+      "sky",
+      "stable"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00044825n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_2_en_to_en_diff1",
+    "prompt": "Definition: Tree bearing edible fruit\n\nWhich word matches this definition?",
+    "options": [
+      "airfoil",
+      "fruit_tree",
+      "Amniota",
+      "Libya"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00036700n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_3_en_to_en_diff1",
+    "prompt": "Definition: Water frozen in the solid state\n\nWhich word matches this definition?",
+    "options": [
+      "Ascomycota",
+      "Natal",
+      "ice",
+      "landing_gear"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00045705n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_4_en_to_en_diff1",
+    "prompt": "Definition: A self-propelled vehicle that moves on tracks\n\nWhich word matches this definition?",
+    "options": [
+      "tracked_vehicle",
+      "drugstore",
+      "military_unit",
+      "diesel_locomotive"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00077847n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_5_en_to_en_diff1",
+    "prompt": "Definition: Any of several tools for straightening fibers\n\nWhich word matches this definition?",
+    "options": [
+      "house",
+      "couchette",
+      "beach_wagon",
+      "comb"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00020850n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_6_en_to_en_diff1",
+    "prompt": "Definition: A body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government\n\nWhich word matches this definition?",
+    "options": [
+      "cytoplasm",
+      "cheese",
+      "colony",
+      "body_of_water"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00020718n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_7_en_to_en_diff1",
+    "prompt": "Definition: The anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube\n\nWhich word matches this definition?",
+    "options": [
+      "forebrain",
+      "Earth",
+      "cylinder",
+      "sights"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00035803n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_8_en_to_en_diff1",
+    "prompt": "Definition: Any large and important church\n\nWhich word matches this definition?",
+    "options": [
+      "cathedral",
+      "Hawaiian_Islands",
+      "choir",
+      "operation"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00016758n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_9_en_to_en_diff1",
+    "prompt": "Definition: Horseshoe crabs and extinct forms\n\nWhich word matches this definition?",
+    "options": [
+      "Xiphosura",
+      "operating_system",
+      "hindbrain",
+      "factory"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00059429n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_10_en_to_en_diff1",
+    "prompt": "Definition: A swinging or sliding barrier that will close the entrance to a room or building or vehicle\n\nWhich word matches this definition?",
+    "options": [
+      "ballpark",
+      "seaport",
+      "door",
+      "crew"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00028247n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_11_en_to_en_diff1",
+    "prompt": "Definition: Marine iguanas\n\nWhich word matches this definition?",
+    "options": [
+      "Amblyrhynchus",
+      "city",
+      "range",
+      "Mycobacteriaceae"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00003279n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_12_en_to_en_diff1",
+    "prompt": "Definition: Game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points\n\nWhich word matches this definition?",
+    "options": [
+      "limb",
+      "Athens",
+      "endocrine_system",
+      "goal"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00040846n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_13_en_to_en_diff1",
+    "prompt": "Definition: Sealed vessel where water is converted to steam\n\nWhich word matches this definition?",
+    "options": [
+      "seat",
+      "World_War_II",
+      "small_intestine",
+      "boiler"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00011828n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_14_en_to_en_diff1",
+    "prompt": "Definition: Any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)\n\nWhich word matches this definition?",
+    "options": [
+      "natural_gas",
+      "steam_engine",
+      "rib",
+      "range"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00023011n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_15_en_to_en_diff1",
+    "prompt": "Definition: A rare hard yellow green mineral consisting of beryllium aluminate in crystal form; used as a gemstone\n\nWhich word matches this definition?",
+    "options": [
+      "bronchitis",
+      "chrysoberyl",
+      "nervous_system",
+      "stamen"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 1,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00018942n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_16_en_to_en_diff2",
+    "prompt": "Definition: A structure that has a roof and walls and stands more or less permanently in one place\n\nWhich word matches this definition?",
+    "options": [
+      "couchette",
+      "cartilage",
+      "building",
+      "structure"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00013722n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_17_en_to_en_diff2",
+    "prompt": "Definition: A written work or composition that has been published (printed on pages bound together)\n\nWhich word matches this definition?",
+    "options": [
+      "book",
+      "Cryptobranchidae",
+      "Balkan_Wars",
+      "palace"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00012059n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_18_en_to_en_diff2",
+    "prompt": "Definition: Furniture that is designed for sitting on\n\nWhich word matches this definition?",
+    "options": [
+      "Switzerland",
+      "Amblyrhynchus",
+      "seat",
+      "factory"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00070065n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_19_en_to_en_diff2",
+    "prompt": "Definition: A stove for cooking (especially a wood- or coal-burning kitchen stove)\n\nWhich word matches this definition?",
+    "options": [
+      "brassiere",
+      "cookstove",
+      "fishing_gear",
+      "agreement"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00022426n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_20_en_to_en_diff2",
+    "prompt": "Definition: Hard outer covering or case of certain organisms such as arthropods and turtles\n\nWhich word matches this definition?",
+    "options": [
+      "millwheel",
+      "carapace",
+      "choir",
+      "Angola"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00015831n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_21_en_to_en_diff2",
+    "prompt": "Definition: A marketplace where groceries are sold\n\nWhich word matches this definition?",
+    "options": [
+      "forebrain",
+      "CD_player",
+      "grocery_store",
+      "dye"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00035663n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_22_en_to_en_diff2",
+    "prompt": "Definition: The rear part of an aircraft\n\nWhich word matches this definition?",
+    "options": [
+      "cranium",
+      "tail",
+      "seawater",
+      "skull"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00030590n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_23_en_to_en_diff2",
+    "prompt": "Definition: Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male\n\nWhich word matches this definition?",
+    "options": [
+      "business_relation",
+      "cargo_ship",
+      "lion",
+      "bow_and_arrow"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00049156n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_24_en_to_en_diff2",
+    "prompt": "Definition: The study of linguistic change\n\nWhich word matches this definition?",
+    "options": [
+      "historical_linguistics",
+      "ctenophore",
+      "accordion",
+      "Actiniaria"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00026799n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_25_en_to_en_diff2",
+    "prompt": "Definition: An internal-combustion engine that burns gasoline; most automobiles are driven by gasoline engines\n\nWhich word matches this definition?",
+    "options": [
+      "human_head",
+      "market",
+      "gasoline_engine",
+      "cow"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00037437n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_26_en_to_en_diff2",
+    "prompt": "Definition: Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds\n\nWhich word matches this definition?",
+    "options": [
+      "mammal",
+      "egg",
+      "Agaricales",
+      "small_intestine"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00029913n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_27_en_to_en_diff2",
+    "prompt": "Definition: Two people who are married to each other\n\nWhich word matches this definition?",
+    "options": [
+      "television",
+      "marriage",
+      "bridge",
+      "ozone"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00053107n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_28_en_to_en_diff2",
+    "prompt": "Definition: A nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony\n\nWhich word matches this definition?",
+    "options": [
+      "Australia",
+      "suspension_bridge",
+      "handcart",
+      "hoopskirt"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00007228n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_29_en_to_en_diff2",
+    "prompt": "Definition: Rotating mechanism consisting of an assembly of rotating airfoils\n\nWhich word matches this definition?",
+    "options": [
+      "playing_field",
+      "keyboard",
+      "social_organization",
+      "rotor"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00068345n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_30_en_to_en_diff2",
+    "prompt": "Definition: Rectangular block of clay baked by the sun or in a kiln; used as a building or paving material\n\nWhich word matches this definition?",
+    "options": [
+      "bat",
+      "root",
+      "cylinder_lock",
+      "brick"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00013047n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_31_en_to_en_diff2",
+    "prompt": "Definition: A former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917\n\nWhich word matches this definition?",
+    "options": [
+      "Russia",
+      "duet",
+      "inflorescence",
+      "leg"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 2,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00068621n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_32_en_to_en_diff3",
+    "prompt": "Definition: An organization of people (or countries) involved in a pact or treaty\n\nWhich word matches this definition?",
+    "options": [
+      "alliance",
+      "Oman",
+      "company",
+      "Hydrozoa"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00002740n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_33_en_to_en_diff3",
+    "prompt": "Definition: The pathological state resulting from the invasion of the body by pathogenic microorganisms\n\nWhich word matches this definition?",
+    "options": [
+      "eardrum",
+      "metatarsus",
+      "flush_toilet",
+      "infection"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00046624n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_34_en_to_en_diff3",
+    "prompt": "Definition: Weasels; polecats; ferrets; minks; fishers; otters; badgers; skunks; wolverines; martens\n\nWhich word matches this definition?",
+    "options": [
+      "ice_crystal",
+      "Mustelidae",
+      "hip_roof",
+      "baked_goods"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00033151n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_35_en_to_en_diff3",
+    "prompt": "Definition: Respiratory disorder characterized by wheezing; usually of allergic origin\n\nWhich word matches this definition?",
+    "options": [
+      "polysaccharide",
+      "pear",
+      "asthma",
+      "mutation"
+    ],
+    "answer_index": 2,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00006617n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_36_en_to_en_diff3",
+    "prompt": "Definition: A B vitamin that prevents skin lesions and weight loss\n\nWhich word matches this definition?",
+    "options": [
+      "Confederacy",
+      "electric_bell",
+      "rain",
+      "vitamin_B2"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00043760n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_37_en_to_en_diff3",
+    "prompt": "Definition: A republic in northeastern Europe on the Baltic Sea\n\nWhich word matches this definition?",
+    "options": [
+      "hydraulic_brake",
+      "opera",
+      "digital_watch",
+      "Lithuania"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00051034n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_38_en_to_en_diff3",
+    "prompt": "Definition: A vacuum tube in which a hot cathode emits a beam of electrons that pass through a high voltage anode and are focused or deflected before hitting a phosphorescent screen\n\nWhich word matches this definition?",
+    "options": [
+      "oxygen",
+      "cathode-ray_tube",
+      "urinary_bladder",
+      "autoimmune_disease"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00016774n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_39_en_to_en_diff3",
+    "prompt": "Definition: A vertical spar for supporting sails\n\nWhich word matches this definition?",
+    "options": [
+      "legislative_act",
+      "waterwheel",
+      "Agnatha",
+      "mast"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00053706n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_40_en_to_en_diff3",
+    "prompt": "Definition: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement\n\nWhich word matches this definition?",
+    "options": [
+      "movie",
+      "capital",
+      "natural_elevation",
+      "drumstick"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00034471n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_41_en_to_en_diff3",
+    "prompt": "Definition: A heat engine in which combustion occurs inside the engine rather than in a separate furnace; heat expands a gas that either moves a piston or turns a gas turbine\n\nWhich word matches this definition?",
+    "options": [
+      "Quebec",
+      "internal-combustion_engine",
+      "sailboat",
+      "vehicle"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00045708n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_42_en_to_en_diff3",
+    "prompt": "Definition: In limbs of vertebrate animals: a long cylindrical bone that contains marrow\n\nWhich word matches this definition?",
+    "options": [
+      "long_bone",
+      "letter",
+      "highway",
+      "field"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00051925n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_43_en_to_en_diff3",
+    "prompt": "Definition: Modern man and extinct immediate ancestors of man\n\nWhich word matches this definition?",
+    "options": [
+      "heel",
+      "Hominidae",
+      "communications_satellite",
+      "baseball_diamond"
+    ],
+    "answer_index": 1,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00032988n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_44_en_to_en_diff3",
+    "prompt": "Definition: A game played with playing cards\n\nWhich word matches this definition?",
+    "options": [
+      "Arenaviridae",
+      "brassiere",
+      "sunscreen",
+      "card_game"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00015923n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_45_en_to_en_diff3",
+    "prompt": "Definition: A group of volcanic and coral islands in the central Pacific\n\nWhich word matches this definition?",
+    "options": [
+      "Hawaiian_Islands",
+      "Balearic_Islands",
+      "residential_district",
+      "apartment"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00043183n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_46_en_to_en_diff3",
+    "prompt": "Definition: A mechanical system of springs or shock absorbers connecting the wheels and axles to the chassis of a wheeled vehicle\n\nWhich word matches this definition?",
+    "options": [
+      "asphyxia",
+      "hedgehog",
+      "Tajikistan",
+      "suspension"
+    ],
+    "answer_index": 3,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00075454n",
+      "multilingual_mode": "monolingual_en"
+    }
+  },
+  {
+    "id": "gloss_47_en_to_en_diff3",
+    "prompt": "Definition: A land mass that projects well above its surroundings; higher than a hill\n\nWhich word matches this definition?",
+    "options": [
+      "mountain",
+      "bronchitis",
+      "Cuba",
+      "gristmill"
+    ],
+    "answer_index": 0,
+    "metadata": {
+      "resource_pair": "high_resource_to_high_resource",
+      "prompt_lang": "en",
+      "from_lang": "en",
+      "to_lang": "en",
+      "difficulty": 3,
+      "distractor_type": "random",
+      "generation_time": "2025-08-11T22:24:16.951404Z",
+      "synset_id": "bn:00056068n",
+      "multilingual_mode": "monolingual_en"
+    }
+  }
+]
