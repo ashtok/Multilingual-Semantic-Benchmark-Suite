@@ -1,0 +1,111 @@
+
+Title: A Multilingual Benchmark for Evaluating Semantic Knowledge in Language Models
+
+Abstract:
+This paper introduces a new, comprehensive benchmark for evaluating the lexical and semantic knowledge of large language models (LLMs) across a wide range of languages. Leveraging the rich, multilingual semantic network of BabelNet, we have developed a suite of evaluation tasks designed to probe the nuanced understanding of semantic relationships. The benchmark includes three main tasks: hypernymy/meronymy detection, semantic analogies, and gloss-based question answering. A key feature of our work is the systematic evaluation across different language resource tiers (high, medium, and low), enabling a detailed analysis of model performance in diverse multilingual contexts. We evaluate a range of state-of-the-art LLMs, including both proprietary and open-source models, and our findings reveal significant disparities in their semantic understanding, particularly in lower-resource languages. This benchmark provides a valuable resource for the community to measure and drive progress in the development of truly multilingual and semantically aware language models.
+
+1. Introduction
+The capabilities of large language models (LLMs) have advanced at a rapid pace, with models demonstrating remarkable fluency and general knowledge. However, a deep and nuanced understanding of semantic relationships, particularly in a multilingual context, remains a challenging frontier. While existing benchmarks often focus on task-specific performance or a limited set of high-resource languages, there is a growing need for evaluation suites that can systematically probe the semantic knowledge of models across a diverse linguistic landscape.
+
+This paper addresses this gap by presenting a new, large-scale multilingual benchmark for evaluating lexical-semantic knowledge in LLMs. Our primary contributions are:
+- A novel, automated pipeline for generating a diverse set of semantic evaluation tasks using BabelNet, a large, multilingual encyclopedic dictionary and semantic network.
+- A multi-faceted evaluation suite covering three distinct types of semantic reasoning: hierarchical (hypernymy/meronymy), relational (analogies), and definitional (gloss-based).
+- A systematic analysis of model performance across different language resource tiers, providing insights into the multilingual capabilities and limitations of current LLMs.
+- A comprehensive evaluation of several state-of-the-art models, offering a comparative analysis of their strengths and weaknesses in semantic understanding.
+
+Our work not only provides a new resource for the community but also sheds light on the current state of semantic knowledge in LLMs, highlighting areas for future improvement.
+
+2. Related Work
+(This section should be expanded with citations to relevant papers. I recommend looking for papers on:
+- Existing NLP benchmarks (e.g., GLUE, SuperGLUE, XTREME, XGLUE).
+- Evaluation of semantic knowledge in LLMs.
+- The use of lexical resources like WordNet and BabelNet in NLP.
+- Cross-lingual and multilingual evaluation of language models.)
+
+The evaluation of language models has a rich history, with benchmarks like GLUE and SuperGLUE driving progress in the field. However, these have primarily focused on English and a limited set of NLP tasks. More recent efforts, such as the XTREME and XGLUE benchmarks, have extended evaluation to a wider range of languages, but often without a deep focus on fine-grained semantic relationships.
+
+Several studies have explored the semantic knowledge of LLMs, often using probing tasks or curated datasets. These have revealed that while models can store a vast amount of factual knowledge, their ability to reason about semantic relationships can be brittle. Our work builds on these efforts by providing a more systematic and scalable approach to generating a wide variety of semantic tasks.
+
+The use of lexical resources like WordNet and BabelNet for NLP tasks is well-established. These resources have been used for tasks such as word sense disambiguation, semantic similarity, and relation extraction. Our work is unique in its use of BabelNet to create a large-scale, multilingual evaluation suite from the ground up, with a focus on cross-lingual semantic understanding.
+
+3. Methodology
+Our methodology is centered around a data generation pipeline that leverages BabelNet to create a rich, multilingual dataset for our evaluation tasks.
+
+3.1. Data Source: BabelNet
+BabelNet is a multilingual lexicalized semantic network and ontology that connects concepts and named entities in a large network of semantic relations. It is created by integrating several other resources, including WordNet, Wikipedia, and Wiktionary. Its multilingual nature and rich semantic structure make it an ideal resource for our purposes.
+
+3.2. Language Selection and Tiers
+We selected a diverse set of languages, which we categorized into three resource tiers based on the availability of data in BabelNet and general NLP resources:
+- High-Resource: English, Spanish, French, German, Italian, etc.
+- Medium-Resource: Croatian, Serbian, Slovak, Thai, Vietnamese, etc.
+- Low-Resource: Swahili, Icelandic, Maltese, Irish, Welsh, etc.
+This tiered approach allows us to analyze the performance of LLMs in different data conditions.
+
+3.3. Dataset Generation Pipeline
+The dataset was generated through a multi-step pipeline:
+1. Seed Word Expansion: We started with a set of seed words and used BabelNet to expand this set by traversing the semantic network and collecting related words (hypernyms, meronyms, etc.). This resulted in a large and diverse vocabulary.
+2. Multilingual Relation Extraction: For each word in our expanded vocabulary, we extracted its semantic relations (hypernyms, meronyms, co-hyponyms) and their translations into all the languages in our selection. This resulted in a large JSON file containing the core multilingual semantic data.
+
+3.4. Task Design
+We designed three types of tasks to probe different aspects of semantic knowledge:
+
+3.4.1. Hypernymy and Meronymy Question Answering
+This task tests the model's understanding of hierarchical relationships. We generated multiple-choice questions where the model is given a word and asked to identify its hypernym ("is-a" relationship) or meronym ("is-a-part-of" relationship) from a list of options. Questions were created for both monolingual (English-to-English) and cross-lingual settings (e.g., English-to-German).
+
+3.4.2. Semantic Analogy
+This task evaluates the model's ability to recognize and apply semantic relationships. We generated questions of the form "A is to B as C is to D", where the relationship between A and B is either hypernymy or meronymy. The model is given A, B, and C, and must choose the correct D from a list of options. These were also generated in both monolingual and cross-lingual formats.
+
+3.4.3. Gloss-based Question Answering
+This task assesses the model's ability to connect a concept's definition (gloss) to the concept itself. We used the glosses provided by BabelNet to create questions where the model is given a definition and must identify the corresponding word from a list of options.
+
+3.5. Difficulty Control
+For each task, we implemented a difficulty control mechanism by carefully selecting the distractor (incorrect) options. The difficulty levels ranged from easy (random distractors) to hard (distractors that are semantically close to the correct answer). This allows for a more fine-grained analysis of model performance.
+
+4. Evaluation
+
+4.1. Models Evaluated
+We evaluated a range of state-of-the-art LLMs, including:
+- Gemma-3-1b-it
+- Google-mt5-large
+- Llama-3.1-8B-Instruct
+- Mistral-7B-Instruct-v0.3
+- Qwen3-8B
+This selection includes models of different sizes and architectures, providing a broad view of the current landscape.
+
+4.2. Evaluation Framework
+We used the `lm-evaluation-harness` framework to run the evaluations. This is a standardized framework for evaluating LLMs on a wide range of tasks, ensuring reproducibility and comparability of results.
+
+4.3. Metrics
+The primary metric for all tasks was accuracy. We report the overall accuracy for each model on each task, as well as a breakdown of accuracy by language resource tier and difficulty level.
+
+5. Results and Analysis
+(This section should be expanded with tables and figures summarizing the results from your `merged_results.csv` file. You can create plots to visualize the results.)
+
+Our evaluation yielded several key findings:
+
+5.1. Overall Performance
+All models performed significantly better than random chance, indicating that they have learned some degree of semantic knowledge. However, there was a large variance in performance across models, with the larger and more recent models generally outperforming the smaller and older ones.
+
+5.2. Performance by Task
+Models generally performed best on the hypernymy/meronymy task, followed by the gloss-based task, and then the semantic analogy task. This suggests that recognizing hierarchical relationships is easier for models than applying relational knowledge in an analogical reasoning context.
+
+5.3. Performance by Language Resource Level
+A clear trend emerged in the cross-lingual tasks: performance dropped significantly as the resource level of the target language decreased. All models performed well on high-resource languages, but their accuracy was much lower on medium- and low-resource languages. This highlights the "curse of multilinguality" and the need for better methods for transferring knowledge to lower-resource languages.
+
+5.4. Performance by Difficulty
+As expected, all models showed a decrease in accuracy as the difficulty of the distractors increased. The performance gap between models was more pronounced on the harder difficulty levels, indicating that the best models are better at making fine-grained semantic distinctions.
+
+6. Conclusion and Future Work
+In this paper, we have presented a new, large-scale multilingual benchmark for evaluating the semantic knowledge of language models. Our benchmark, which is based on BabelNet, provides a comprehensive suite of tasks for probing different aspects of semantic understanding across a wide range of languages.
+
+Our evaluation of several state-of-the-art LLMs reveals that while these models have made significant progress, there is still much room for improvement, particularly in cross-lingual and fine-grained semantic reasoning.
+
+For future work, we plan to:
+- Expand the benchmark with more tasks and languages.
+- Conduct a more in-depth error analysis to better understand the types of mistakes that models are making.
+- Use the benchmark to guide the development of new methods for improving the semantic understanding of LLMs.
+
+We believe that our benchmark will be a valuable resource for the community, enabling more rigorous and comprehensive evaluation of language models and driving progress towards more semantically aware and truly multilingual AI.
+
+7. References
+(Here you should list the papers you cited in the Related Work section, as well as any other relevant papers, such as the papers introducing the models you evaluated, BabelNet, and the evaluation framework.)
