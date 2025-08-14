@@ -1,0 +1,5 @@
+task_type,count,acc_mean,acc_std,acc_norm_mean,acc_norm_std
+analogies,47665,0.5267,0.4993,0.5242,0.4994
+gloss,11550,0.8118,0.3909,0.8747,0.3311
+hypernymy,47652,0.6047,0.4889,0.6023,0.4894
+meronymy,47652,0.475,0.4994,0.4364,0.4959

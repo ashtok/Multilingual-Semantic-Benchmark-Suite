@@ -1,0 +1,6 @@
+model_name,total_samples,acc_mean,acc_std,acc_norm_mean,acc_norm_std
+Qwen__Qwen3-8B,154519,0.5181,0.4997,0.5188,0.4996
+google__gemma-3-1b-it,154519,0.4129,0.4924,0.4063,0.4911
+google__gemma-7b-it,154519,0.4375,0.4961,0.439,0.4963
+meta-llama__Llama-3.1-8B-Instruct,154519,0.5561,0.4968,0.5474,0.4977
+mistralai__Mistral-7B-Instruct-v0.3,154519,0.5061,0.5,0.495,0.5
