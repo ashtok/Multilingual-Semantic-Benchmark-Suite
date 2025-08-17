@@ -1,230 +1,156 @@
-# 🧠 Lexical Meaning Benchmark
+# Multilingual Semantic-Relational Benchmark
 
-**Multilingual Semantic Benchmarks for Hypernymy, Meronymy, and Analogies**
+This repository contains the tools and resources for generating a multilingual, multi-level benchmark for evaluating Large Language Models (LLMs) on their understanding of semantic relations. The benchmark is generated using BabelNet and is designed to be used with the `lm-eval-harness` library.
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
-![LM Eval Compatible](https://img.shields.io/badge/lm--eval-compatible-green)
+## Overview
 
----
+The primary goal of this project is to create a comprehensive benchmark for evaluating the semantic-relational reasoning capabilities of LLMs across a wide range of languages. The benchmark focuses on three key semantic relations:
 
-## 📖 Overview
+*   **Hypernymy:** The "is-a" relationship (e.g., "dog" is a "mammal").
+*   **Meronymy:** The "part-of" relationship (e.g., "wheel" is a part of a "car").
+*   **Semantic Analogies:** The relationship between two pairs of words (e.g., "king" is to "queen" as "man" is to "woman").
 
-This repository provides a comprehensive pipeline for generating and evaluating **multilingual lexical semantic question-answering datasets** using [BabelNet](https://babelnet.org/). The benchmark covers semantic relations across **50 languages** with **5 difficulty levels**, designed for systematic evaluation of language models' semantic understanding.
+The benchmark is designed to be multilingual, with support for high, medium, and low-resource languages. It also includes different difficulty levels based on the language resource availability.
 
-### Key Features
+## Key Features
 
-- **🌍 Multilingual Coverage**: 50 languages across high-, medium-, and low-resource tiers
-- **🔗 Semantic Relations**: Hypernymy, meronymy, and semantic analogies
-- **📊 Difficulty Scaling**: Five levels from random to very close semantic matches
-- **🔄 Cross-lingual Support**: Monolingual and cross-lingual question generation
-- **⚡ LM Eval Ready**: Compatible with [`lm-evaluation-harness`](https://github.com/EleutherAI/lm-evaluation-harness)
+*   **Multilingual:** The benchmark covers a wide range of languages, categorized into high, medium, and low-resource tiers.
+*   **Multiple Semantic Relations:** The benchmark evaluates LLMs on their understanding of hypernymy, meronymy, and semantic analogies.
+*   **Difficulty Levels:** The benchmark provides different difficulty levels based on the language resource availability, allowing for a more fine-grained analysis of LLM performance.
+*   **Integration with `lm-eval-harness`:** The benchmark is designed to be used with the popular `lm-eval-harness` library, making it easy to evaluate a wide range of LLMs.
+*   **Extensible:** The data generation pipeline is modular and can be extended to include other semantic relations or languages.
 
----
+## Quick Start
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- **Python 3.8+**
-- **BabelNet RPC Server** (Docker setup required)
-  - Follow the [BabelNet Docker Setup Guide](https://babelnet.org/guide)
-- **Dependencies**: Install required packages (see `requirements.txt`)
-
-### Installation
+To get started with the project, you can run the following command to generate the data and prepare it for evaluation:
 
 ```bash
-git clone https://github.com/ashtok/Lexical_Meaning_Benchmark.git
-cd <directory>
-pip install -r requirements.txt
-```
-
-### Running the Pipeline
-
-Execute the following scripts in order:
-
-```bash
-# 1. Assemble seed synsets
 python DataGeneration/1_word_assembler.py
-
-# 2. Filter synsets with semantic relations
 python DataGeneration/2_fetch_words_with_hyper_mero.py
-
-# 3. Build multilingual semantic network
 python DataGeneration/3_multilingual_babelnet_relations.py
-
-# 4. Generate hypernymy & meronymy datasets
-python DataGeneration/generate_hypernym_meronym_qa.py
-
-# 5. Generate semantic analogy datasets
-python DataGeneration/generate_semantic_analogies_qa.py
+python DataGeneration/4_generate_questions.py
+python DataGeneration/5_generate_analogies.py
+python DataGeneration/6_generate_gloss_questions.py
 ```
 
-**Configuration**: Modify `language_config.py` and script constants (e.g., `NUM_SYNSETS`, `NUM_QUESTIONS_PER_TYPE`) to adjust generation parameters.
+## Prerequisites
 
----
+*   Python 3.8+
+*   BabelNet account and API key
+*   Java 8 or higher
 
-## 📁 Repository Structure
+## Installation
+
+1.  Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/Babelnet_Client.git
+    cd Babelnet_Client
+    ```
+
+2.  Install the required Python libraries. It is recommended to use a virtual environment:
+
+    ```bash
+    python -m venv .venv
+    source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
+    pip install -r requirements.txt
+    ```
+    *(Note: A `requirements.txt` file is not provided. You will need to install the necessary libraries manually. These include `babelnet`, `pyyaml`, etc.)*
+
+3.  Set up the BabelNet configuration. You will need to have a running BabelNet instance. Update the `DataGeneration/babelnet_conf.yml` file with your BabelNet RPC URL:
+
+    ```yaml
+    RPC_URL: "tcp://127.0.0.1:7790"
+    ```
+
+## Running the Pipeline
+
+The data generation pipeline consists of several scripts that need to be run in order.
+
+1.  **`1_word_assembler.py`**: This script assembles a list of seed words.
+2.  **`2_fetch_words_with_hyper_mero.py`**: This script fetches words with hypernym and meronym relations from BabelNet.
+3.  **`3_multilingual_babelnet_relations.py`**: This script generates multilingual relations from BabelNet.
+4.  **`4_generate_questions.py`**: This script generates hypernymy and meronymy questions from the collected data.
+5.  **`5_generate_analogies.py`**: This script generates semantic analogy questions.
+6.  **`6_generate_gloss_questions.py`**: This script generates gloss questions.
+
+## Repository Structure
 
 ```
-├── DataGeneration/              # Core pipeline scripts
-│   ├── 1_word_assembler.py     # Seed synset assembly
-│   ├── 2_fetch_words_with_hyper_mero.py  # Relation filtering
-│   ├── 3_multilingual_babelnet_relations.py  # Multilingual network
-│   ├── generate_hypernym_meronym_qa.py  # Hypernymy/meronymy QA
-│   ├── generate_semantic_analogies_qa.py  # Analogy generation
-│   ├── generate_questions.py   # Question generation utilities
-│   ├── generate_analogies.py   # Analogy utilities
-│   ├── fetch_relatives_helper.py  # BabelNet relation helpers
-│   ├── babelnet_conf.yml       # BabelNet configuration
-│   └── language_config.py      # Language tier definitions
-│
-├── EvaluationFiles/            # LM-eval-harness task files
-│   ├── analogies_*.yaml        # Analogy evaluation tasks
-│   ├── hypernymy_*.yaml        # Hypernymy evaluation tasks
-│   ├── meronymy_*.yaml         # Meronymy evaluation tasks
-│   ├── *_questions_*.json      # Question datasets
-│   └── msi_*_custom_task.yaml  # Custom task definitions
-│
-├── GeneratedFiles/             # Generated datasets and intermediates
-│   ├── seed_words_10.txt       # Seed word lists
-│   ├── assembled_words.txt     # Assembled synsets
-│   ├── babelnet_with_relations.txt  # Semantic relations
-│   └── JsonFiles/              # Structured datasets
-│       ├── Hypernymy/          # Hypernymy datasets
-│       ├── Meronymy/           # Meronymy datasets
-│       └── Analogies/          # Analogy datasets
-│
-└── results/                    # Evaluation results
-    ├── Hypernymy/              # Hypernymy results by tier
-    ├── Meronymy/               # Meronymy results by tier
-    └── Analogies/              # Analogy results by tier
-        ├── High/               # High-resource languages
-        ├── Medium/             # Medium-resource languages
-        ├── Low/                # Low-resource languages
-        ├── Mixed/              # Mixed difficulty
-        └── Monolingual_EN/     # English monolingual
+Babelnet_Client/
+├── DataGeneration/           # Scripts for generating the benchmark data
+├── EvaluationFiles/          # Files for evaluating LLMs with lm-eval-harness
+│   ├── QA_Json/              # Generated question-answer JSON files
+│   └── Tasks/                # lm-eval-harness task configuration files
+├── GeneratedFiles/           # Intermediate and final generated files
+├── results/                  # Evaluation results and analysis scripts
+├── .gitignore
+├── All_API_Test.py
+├── language_categorization.py
+├── LICENSE
+├── README.md
+└── report_content.txt
 ```
 
----
+## Language Coverage
 
-## 🌐 Language Coverage
+The benchmark supports a wide range of languages, which are categorized into three tiers based on their resource availability:
 
-| **Tier** | **Count** | **Languages** |
-|-----------|-----------|---------------|
-| **High** | 25 | English, Spanish, French, German, Italian, Portuguese, Russian, Chinese, Japanese, Korean, Arabic, Turkish, Dutch, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Romanian, Hungarian, Ukrainian, Hebrew, Bulgarian, Greek |
-| **Medium** | 15 | Croatian, Serbian, Slovak, Slovenian, Lithuanian, Latvian, Estonian, Thai, Vietnamese, Malay, Persian, Indonesian, Tamil, Hindi, Bengali |
-| **Low** | 10 | Swahili, Icelandic, Maltese, Irish, Welsh, Bosnian, Georgian, Amharic, Uzbek, Tagalog |
+*   **High-Resource Languages:** English, Spanish, French, German, Italian, Portuguese, Russian, Chinese, Japanese, Korean, Arabic, Turkish, Dutch, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Romanian, Hungarian, Ukrainian, Hebrew, Bulgarian, Greek.
+*   **Medium-Resource Languages:** Croatian, Serbian, Slovak, Slovenian, Lithuanian, Latvian, Estonian, Thai, Vietnamese, Malay, Persian, Indonesian, Tamil, Hindi, Bengali.
+*   **Low-Resource Languages:** Swahili, Icelandic, Maltese, Irish, Welsh, Bosnian, Georgian, Amharic, Uzbek, Tagalog.
 
----
+The language configuration can be found in `DataGeneration/language_config.py`.
 
-## 📊 Semantic Relations & Difficulty Levels
+## Semantic Relations & Difficulty Levels
 
-### Relation Types
+The benchmark evaluates LLMs on three semantic relations:
 
-- **Hypernymy**: Cat → Animal (is-a relationship)
-- **Meronymy**: Wheel → Car (part-of relationship)  
-- **Semantic Analogies**: Cat:Kitten :: Dog:Puppy (A:B :: C:D patterns)
+*   **Hypernymy:** The "is-a" relationship.
+*   **Meronymy:** The "part-of" relationship.
+*   **Semantic Analogies:** The relationship between two pairs of words.
 
-### Difficulty Levels
+The difficulty levels are defined based on the language resource availability:
 
-1. **Random Unrelated** - Basic random distractors
-2. **Mixed (Random + Semantic)** - Combination of random and semantic distractors
-3. **Semantically Related** - Cohyponyms and related concepts
-4. **Close Matches** - Hyponyms and close semantic relations
-5. **Very Close Matches** - Meronyms and highly related terms
+*   **Monolingual (English):** All questions and answers are in English.
+*   **High-Resource:** Questions and answers are in high-resource languages.
+*   **Medium-Resource:** Questions and answers are in medium-resource languages.
+*   **Low-Resource:** Questions and answers are in low-resource languages.
+*   **All:** A mix of all languages.
 
----
+## Evaluation with LM-Eval-Harness
 
-## 🧪 Evaluation with LM-Eval-Harness
+The benchmark is designed to be used with `lm-eval-harness`. The task configuration files are located in the `EvaluationFiles/Tasks` directory. Each YAML file defines a specific evaluation task. For example, `analogies_all.yaml` defines the task for evaluating semantic analogies across all languages.
 
-This benchmark is fully compatible with the [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness). Pre-configured task files are provided in `EvaluationFiles/`.
+To run the evaluation, you will need to place the generated JSON files in the appropriate directory and then run `lm-eval-harness` with the desired task.
 
-### Running Evaluations (after setting up LM Evaluation Harness)
+## Configuration
 
-```bash
-# Evaluate hypernymy (all languages)
-lm_eval --model <model_name> --tasks hypernymy_all --output_path results/hypernymy/
+The main configuration file for the data generation pipeline is `DataGeneration/babelnet_conf.yml`. This file contains the RPC URL for your BabelNet instance.
 
-# Evaluate analogies (high-resource only)
-lm_eval --model <model_name> --tasks analogies_high --output_path results/analogies/
+The language configuration is defined in `DataGeneration/language_config.py`. You can modify this file to add or remove languages.
 
-# Evaluate meronymy (monolingual English)
-lm_eval --model <model_name> --tasks meronymy_mono --output_path results/meronymy/
+## Results Structure
+
+The `results` directory contains the evaluation results from `lm-eval-harness`. The results are organized by model and task. The `CompiledResults` subdirectory contains scripts for analyzing and compiling the results. The `DeepAnalysis` subdirectory contains scripts for more in-depth analysis of the results.
+
+## License
+
+This project is licensed for academic and research purposes only. Any commercial use of this project, its code, or the data generated by it is strictly forbidden. See the `LICENSE` file for more details.
+
+## Acknowledgments
+
+This project was developed by Ashutosh Mahajan and Pallabi Pathak at the University of Würzburg.
+
+## Citation
+
+If you use this benchmark in your research, please cite the following:
+
 ```
-
-### Available Task Categories
-
-- **All Languages**: `hypernymy_all`, `meronymy_all`, `analogies_all`
-- **Resource Tiers**: `*_high`, `*_medium`, `*_low`, `*_mixed`
-- **Monolingual**: `*_mono` (English only)
-
----
-
-## 🔧 Configuration
-
-### BabelNet Setup
-
-1. **Install Docker** and pull the BabelNet RPC image
-2. **Configure** `babelnet_conf.yml` with your API credentials
-3. **Start** the BabelNet RPC server locally
-
-### Pipeline Parameters
-
-Key configuration options in scripts:
-
-- `NUM_SYNSETS`: Number of synsets to process
-- `NUM_QUESTIONS_PER_TYPE`: Questions generated per relation type
-- `DIFFICULTY_LEVELS`: Enabled difficulty levels
-- `TARGET_LANGUAGES`: Languages to include in generation
-
-Modify `language_config.py` for language tier customization.
-
----
-
-## 📈 Results Structure
-
-Evaluation results are organised by:
-
-- **Task Type**: Hypernymy, Meronymy, Analogies
-- **Resource Tier**: High, Medium, Low, Mixed
-- **Language Scope**: Multilingual vs. Monolingual
-- **Model Performance**: Accuracy scores across difficulty levels
-
-Example result path: `results/Analogies/High/model_performance.json`
-
----
-
-## 📜 License
-
-**All Rights Reserved**
-
-This repository is proprietary and not open source. No part of this project may be copied, modified, distributed, or used without explicit written permission from the authors.
-
----
-
-## 🙏 Acknowledgments
-
-- **[BabelNet](https://babelnet.org/)** for providing the multilingual semantic knowledge base
-- **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** by EleutherAI for the evaluation framework
-- The **multilingual NLP research community** for advancing semantic understanding
-
----
-
-## 📚 Citation
-
-If you use this benchmark in academic research, please cite:
-
-```bibtex
-@misc{lexical-meaning-benchmark,
-  title={Lexical Meaning Benchmark: Multilingual Semantic Benchmarks for Hypernymy, Meronymy, and Analogies},
-  author={Pallabi Pathak and Ashutosh Mahajan},
-  institution={University of Würzburg},
-  year={2025},
-  note={Project in Computer Science - All rights reserved}
+@misc{mahajan2025multilingual,
+  author = {Mahajan, Ashutosh and Pathak, Pallabi},
+  title = {A Multilingual Semantic-Relational Benchmark for Large Language Models},
+  year = {2025},
+  publisher = {University of Würzburg}
 }
 ```
-
----
-
-*Last updated: [19/07/2025]*
