@@ -1,7 +1,17 @@
 # Multilingual Lexical-Semantic Benchmark
 
-This repository contains the tools, data generation pipeline, and evaluation resources for building and analyzing a large-scale multilingual benchmark designed to evaluate fine-grained lexical semantic reasoning in Large Language Models (LLMs).
+Most of the evaluation experiments and scripts are maintained in a separate repository:  
+👉  https://github.com/ashtok/LM_Eval_Setup
 
+That repository contains:
+- Implementations of the evaluation pipeline (built on top of `lm-eval-harness`)
+- All Evaluation Tasks
+- Results and analysis tools
+
+This repository (current one) provides:
+- Data generation pipeline
+- Task definitions and benchmark resources
+- Documentation of benchmark design
 The benchmark is grounded in BabelNet, a multilingual semantic network that integrates lexicographic and encyclopedic knowledge. It is designed to be compatible with the lm-eval-harness framework, allowing systematic evaluation across multiple LLMs.
 
 ## 🎯 Motivation
