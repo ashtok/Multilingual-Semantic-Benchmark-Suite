@@ -1,6 +1,7 @@
 # Multilingual Lexical-Semantic Benchmark
 
 Most of the evaluation experiments and scripts are maintained in a separate repository:  
+
 👉  https://github.com/ashtok/LM_Eval_Setup
 
 That repository contains:
