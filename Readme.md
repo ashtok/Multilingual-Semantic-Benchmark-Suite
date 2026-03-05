@@ -49,7 +49,6 @@ The benchmark evaluates four semantic reasoning tasks:
 ### Difficulty Scaling
 
 Each task includes multiple difficulty levels, where distractors (incorrect options) are chosen based on semantic similarity:
-
 - **Easy:** Distant distractors (unrelated words)
 - **Medium:** Semantically closer distractors
 - **Hard:** Fine-grained semantic distinctions
